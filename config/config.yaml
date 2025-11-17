@@ -79,11 +79,10 @@ weight:
 platforms:
   - id: "thepaper" # === 综合新闻媒体类 ===
     name: "澎湃新闻"
-   - id: "wallstreetcn-hot"  # === 财经投资类 ===
+  - id: "wallstreetcn-hot"  # === 财经投资类 ===
     name: "华尔街见闻"
-   - id: "cls-hot"
+  - id: "cls-hot"
     name: "财联社热门"
-   - id: "gelonghui"
   - id: "github"  # === 编程类平台 ===
     name: "GitHub"
   - id: "zhihu" # === 问答类平台 ===
