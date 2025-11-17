@@ -81,8 +81,6 @@ platforms:
   # === 综合新闻媒体类 ===
   - id: "thepaper"
     name: "澎湃新闻"
-  - id: "toutiao"
-    name: "今日头条"
     
   # === 财经投资类 ===
    - id: "wallstreetcn-hot"
@@ -97,8 +95,6 @@ platforms:
   # === 编程类平台 ===
   - id: "github"
     name: "GitHub"
-  - id: "juejin"
-    name: "掘金"
     
   # === 问答类平台 ===
   - id: "zhihu"
