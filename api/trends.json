@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T21:27:07.525623+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2025-12-05T22:12:40.580528+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
@@ -123,8 +123,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 21时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 22时12分]"
+        },
+        {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "米饭当选日本年度美食，日本网民强烈不满",
@@ -137,18 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时04分 ~ 15时27分]"
-        },
-        {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 21时27分]"
         },
         {
           "title": "日本再将7800吨核污染水排海",
@@ -176,8 +176,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时40分 ~ 21时27分]"
+          "appearance_count": 12,
+          "time_info": "[14时40分 ~ 22时12分]"
         },
         {
           "title": "全民备战!日本征兵瞄准儿童",
@@ -246,8 +246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "高市当局被指洗脑日本儿童",
@@ -268,11 +268,12 @@
           "ranks": [
             24,
             19,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "日本30年期国债收益率下跌3个基点，至3.360%。",
@@ -350,6 +351,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "评论员：阻挠中国出席G7日本想多了",
@@ -524,18 +537,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时41分]"
-        },
-        {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.cls.cn/detail/2221021",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时27分]"
         },
         {
           "title": "商务部回应“是否反制日本”",
@@ -809,7 +810,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -918,7 +919,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -935,6 +936,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 04时31分]"
+        },
+        {
+          "title": "墨西哥外交部：墨西哥总统辛鲍姆确认将与美国总统特朗普和加拿大总理卡尼会面。",
+          "url": "https://flash.jin10.com/detail/20251205214207524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "周四（12月4日），降息赢家指数跌0.81%，报99.47点。 “特朗普关税输家”指数涨0.23%，散户抱团概念股指数/迷因股（meme stock）指数涨2.27%。",
@@ -1037,6 +1049,18 @@
           "time_info": "[05时26分 ~ 06时25分]"
         },
         {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时12分]"
+        },
+        {
           "title": "据AXIOS，美国官员和消息人士透露，特朗普计划在圣诞节前宣布加沙和平进程进入第二阶段，并公布成立加沙政府、和平委员会的新治理结构。",
           "url": "https://flash.jin10.com/detail/20251205053720915800",
           "source": "金十数据",
@@ -1073,17 +1097,6 @@
           "time_info": "[01时29分 ~ 02时41分]"
         },
         {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
-        },
-        {
           "title": "与特朗普意见不合，白宫宴会厅设计师换人",
           "url": "https://wallstreetcn.com/livenews/3015772",
           "source": "华尔街见闻-快讯",
@@ -1101,9 +1114,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "哈里王子上脱口秀讥讽特朗普",
@@ -1115,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
+          "url": "https://flash.jin10.com/detail/20251205211546105800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
@@ -1142,7 +1177,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -1311,6 +1346,17 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205213443554800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -1350,7 +1396,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1402,8 +1448,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时04分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时04分 ~ 22时12分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1528,8 +1574,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时40分 ~ 21时27分]"
+          "appearance_count": 12,
+          "time_info": "[14时40分 ~ 22时12分]"
         },
         {
           "title": "伊朗在海湾地区举行演习，向模拟目标发射弹道导弹和巡航导弹。",
