@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:13:35.101922+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2025-12-05T19:11:45.343413+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 18时13分]"
+          "appearance_count": 14,
+          "time_info": "[07时25分 ~ 19时11分]"
         },
         {
           "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
@@ -71,6 +71,22 @@
           "time_info": "[00时38分 ~ 10时04分]"
         },
         {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            8,
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 19时11分]"
+        },
+        {
           "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
           "source": "澎湃新闻",
@@ -108,21 +124,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 10时04分]"
-        },
-        {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 18时13分]"
         },
         {
           "title": "米饭当选日本年度美食，日本网民强烈不满",
@@ -216,8 +217,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
@@ -227,11 +228,12 @@
             20,
             19,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 19时11分]"
         },
         {
           "title": "高市当局被指洗脑日本儿童",
@@ -334,6 +336,28 @@
           "time_info": "13时27分"
         },
         {
+          "title": "日本经济财政大臣城内实：希望日本央行在与政府密切协作的同时，依据日政府与日本央行联合协议所载原则，引导实施恰当的货币政策，以稳定实现2%的通胀目标。",
+          "url": "https://flash.jin10.com/detail/20251205183516341800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "日本制造在华大溃退",
+          "url": "https://www.toutiao.com/trending/7579666380669222966/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "日本两年期国债收益率上涨1个基点，至1.030%，创2007年8月以来新高；日本5年期国债收益率上涨0.5个基点，至1.415%。",
           "url": "https://flash.jin10.com/detail/20251205114120404800",
           "source": "金十数据",
@@ -343,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：具体货币政策由日本央行决定，政府不予置评。",
+          "url": "https://flash.jin10.com/detail/20251205183456274800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "国际货币基金组织：欣慰地看到一些“财政负担更重”的提案没有被纳入日本预算。",
@@ -369,6 +404,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 02时41分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：政府将以高度紧迫感密切关注市场动向。",
+          "url": "https://flash.jin10.com/detail/20251205183447123800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：股市、汇市和债市稳定运行并反映基本面至关重要。",
+          "url": "https://flash.jin10.com/detail/20251205183229973800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日本大米价格持续上涨 再次刷新纪录",
@@ -455,6 +512,18 @@
           "time_info": "[01时28分 ~ 02时41分]"
         },
         {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "日本启动第17轮核污染水排海",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC17%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7",
           "source": "百度热搜",
@@ -466,15 +535,16 @@
           "time_info": "[16时35分 ~ 16时36分]"
         },
         {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.cls.cn/detail/2221021",
-          "source": "财联社热门",
+          "title": "日本大米价格持续上涨 再次刷新纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
           "ranks": [
-            11
+            24,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "日本财务省将于12月12日拍卖4.3万亿日元的短期国债。",
@@ -565,6 +635,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "日本经济财政大臣城内实：刺激计划的通胀影响可能有限。",
+          "url": "https://flash.jin10.com/detail/20251205182917300800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "日本启动第17次核污染水排海",
           "url": "https://wallstreetcn.com/livenews/3015682",
           "source": "华尔街见闻-快讯",
@@ -585,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "媒体：日本“危险转向”搅动地区安全",
+          "url": "https://www.toutiao.com/trending/7579143365855772678/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日本内阁官房长官木原稔：正在讨论国防经费税收措施。",
@@ -620,17 +712,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "日本大米价格持续上涨 再次刷新纪录",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "俄罗斯外交部：日本近期涉台好战言论具有煽动性且违宪",
           "url": "https://wallstreetcn.com/livenews/3015245",
           "source": "华尔街见闻-快讯",
@@ -659,7 +740,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1175,7 +1256,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1186,7 +1267,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1227,8 +1308,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时04分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时04分 ~ 19时11分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1284,8 +1365,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
           "url": "https://wallstreetcn.com/livenews/3015329",
@@ -1377,11 +1469,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 19时11分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
