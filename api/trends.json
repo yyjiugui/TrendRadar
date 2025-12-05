@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:11:45.343413+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2025-12-05T20:22:42.082012+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
@@ -71,22 +71,6 @@
           "time_info": "[00时38分 ~ 10时04分]"
         },
         {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            8,
-            10,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时35分 ~ 19时11分]"
-        },
-        {
           "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
           "source": "澎湃新闻",
@@ -124,6 +108,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 10时04分]"
+        },
+        {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            8,
+            10,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时35分 ~ 20时22分]"
         },
         {
           "title": "米饭当选日本年度美食，日本网民强烈不满",
@@ -179,6 +180,17 @@
           "time_info": "[00时38分 ~ 10时04分]"
         },
         {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "日媒警告：日本武器出口即将失控",
           "url": "https://www.toutiao.com/trending/7578916595339673642/",
           "source": "今日头条",
@@ -210,17 +222,6 @@
           "time_info": "[01时28分 ~ 07时26分]"
         },
         {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
-        },
-        {
           "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
           "source": "澎湃新闻",
@@ -232,8 +233,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 19时11分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 20时22分]"
         },
         {
           "title": "高市当局被指洗脑日本儿童",
@@ -292,6 +293,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8oqIgnruMQh",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "据朝日新闻：日本防卫大臣小泉进次郎将于1月初访问美国。",
           "url": "https://flash.jin10.com/detail/20251205065724045800",
           "source": "金十数据",
@@ -325,6 +337,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "评论员：阻挠中国出席G7日本想多了",
+          "url": "https://www.toutiao.com/trending/7580302814866312740/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "日本10月同步指标月率初值 0.5%，前值1.8%。",
           "url": "https://flash.jin10.com/detail/20251205130002433800",
           "source": "金十数据",
@@ -342,7 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -353,7 +376,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -375,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -412,7 +435,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -423,7 +446,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -449,6 +472,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时27分]"
+        },
+        {
+          "title": "日本大米价格持续上涨 再次刷新纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "日本30年期国债收益率下行3BP，至3.360%。",
@@ -535,16 +571,16 @@
           "time_info": "[16时35分 ~ 16时36分]"
         },
         {
-          "title": "日本大米价格持续上涨 再次刷新纪录",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
+          "title": "媒体：日本“危险转向”搅动地区安全",
+          "url": "https://www.toutiao.com/trending/7579143365855772678/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            19
+            21,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "time_info": "[19时11分 ~ 20时22分]"
         },
         {
           "title": "日本财务省将于12月12日拍卖4.3万亿日元的短期国债。",
@@ -641,7 +677,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -666,17 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "媒体：日本“危险转向”搅动地区安全",
-          "url": "https://www.toutiao.com/trending/7579143365855772678/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "日本内阁官房长官木原稔：正在讨论国防经费税收措施。",
@@ -1081,7 +1106,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -1191,6 +1216,17 @@
           "time_info": "[02时41分 ~ 04时31分]"
         },
         {
+          "title": "美银策略师：警惕美联储鸽派降息危及美股圣诞行情",
+          "url": "https://wallstreetcn.com/livenews/3015933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
           "url": "https://wallstreetcn.com/livenews/3015370",
           "source": "华尔街见闻-快讯",
@@ -1248,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "西南航空美股盘前跌超2%，公司将年度息税前利润(EBIT)预期下调至约5亿美元，此前预计6-8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3015927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
@@ -1308,8 +1355,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时04分 ~ 20时22分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1372,11 +1419,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时22分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -1418,6 +1466,62 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗在海湾地区举行演习，向模拟目标发射弹道导弹和巡航导弹。",
+          "url": "https://flash.jin10.com/detail/20251205193006219800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
+          "url": "https://flash.jin10.com/detail/20251205025109547800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
+        },
+        {
+          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时27分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1455,51 +1559,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 19时11分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
-          "url": "https://flash.jin10.com/detail/20251205025109547800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时31分]"
-        },
-        {
-          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时27分]"
         }
       ]
     },
