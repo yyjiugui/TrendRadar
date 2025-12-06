@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T13:11:49.415486+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-12-06T14:16:23.150644+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,20 @@
           "time_info": "[00时14分 ~ 08时49分]"
         },
         {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 14时16分]"
+        },
+        {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
           "url": "https://flash.jin10.com/detail/20251206033944574800",
           "source": "金十数据",
@@ -35,19 +49,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时49分]"
-        },
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 13时11分]"
         },
         {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
@@ -77,6 +78,17 @@
           "time_info": "[03时10分 ~ 08时49分]"
         },
         {
+          "title": "特朗普警告高市早苗别插手台海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
+        },
+        {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
           "url": "https://www.toutiao.com/trending/7579684143039381523/",
           "source": "今日头条",
@@ -92,33 +104,38 @@
           "url": "https://flash.jin10.com/detail/20251206125008162800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "特朗普警告高市早苗别插手台海",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
           "url": "https://wallstreetcn.com/livenews/3016225",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -134,30 +151,18 @@
           "time_info": "[04时13分 ~ 06时11分]"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时11分]"
-        },
-        {
           "title": "特朗普提议给美式橄榄球改名",
           "url": "https://wallstreetcn.com/livenews/3016211",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -172,6 +177,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 05时11分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://wallstreetcn.com/livenews/3016210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
@@ -249,19 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 04时13分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时11分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
@@ -461,7 +467,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -491,7 +497,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -591,11 +597,12 @@
             17,
             19,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 13时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -609,6 +616,17 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时16分]"
+        },
+        {
           "title": "日本国家情报局要来了",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -620,26 +638,15 @@
           "time_info": "[11时37分 ~ 12时13分]"
         },
         {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
+          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
+          "url": "https://www.cls.cn/detail/2221654",
+          "source": "财联社热门",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时11分]"
-        },
-        {
-          "title": "日本海参价格暴跌超6成",
-          "url": "https://flash.jin10.com/detail/20251206114746148800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "日本民众说大米成奢侈品",
@@ -657,17 +664,6 @@
         },
         {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
-          "url": "https://www.cls.cn/detail/2221654",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
           "url": "https://wallstreetcn.com/livenews/3016173",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -677,6 +673,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 10时25分]"
+        },
+        {
+          "title": "国乒vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
+        },
+        {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://flash.jin10.com/detail/20251206114746148800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "专家：美国对日本右翼更加警惕",
@@ -702,6 +722,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 10时25分]"
+        },
+        {
+          "title": "媒体：德国又给日本打了个样",
+          "url": "https://www.toutiao.com/trending/7580108781376421926/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "日本最早明年成立国家情报局",
@@ -761,17 +793,6 @@
           "time_info": "[11时37分 ~ 11时38分]"
         },
         {
-          "title": "媒体：德国又给日本打了个样",
-          "url": "https://www.toutiao.com/trending/7580108781376421926/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "日本正研究自2027年起将所得税提高1%以用于国防开支。（读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3016159",
           "source": "华尔街见闻-快讯",
@@ -794,15 +815,26 @@
           "time_info": "08时49分"
         },
         {
-          "title": "国乒vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
+          "title": "二战战犯孙子正重掌日本兵权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%88%98%E6%88%98%E7%8A%AF%E5%AD%99%E5%AD%90%E6%AD%A3%E9%87%8D%E6%8E%8C%E6%97%A5%E6%9C%AC%E5%85%B5%E6%9D%83%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时16分"
+        },
+        {
+          "title": "混团世界杯国乒vs日本队",
+          "url": "https://www.douyin.com/hot/2328196",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -820,8 +852,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 14时16分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -834,8 +866,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 14时16分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -847,8 +879,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 14时16分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -990,6 +1022,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时16分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -1012,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时11分 ~ 08时49分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时11分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -1141,8 +1173,22 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时16分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时11分]"
+          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -1155,19 +1201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
-          "title": "ChatGPT产品负责人回应广告传闻",
-          "url": "https://flash.jin10.com/detail/20251206101132584800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时11分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
