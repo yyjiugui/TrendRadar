@@ -1,8 +1,613 @@
 {
-  "generated_at": "2025-12-06T21:20:26.631941+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-12-06T22:10:08.885236+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "日本",
+      "match_count": 49,
+      "titles": [
+        {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时49分]"
+        },
+        {
+          "title": "“日本人应该清醒地认识到这件事！”",
+          "url": "https://news.ifeng.com/c/8oqOwCYqYNp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时49分]"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 22时10分]"
+        },
+        {
+          "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8oqIgnruMQh",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "中方愿同俄方配合坚决遏制日本挑衅",
+          "url": "https://www.toutiao.com/trending/7579724784825679910/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 11时38分]"
+        },
+        {
+          "title": "阻挠中国出席G7峰会 日本想多了",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A+%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时25分]"
+        },
+        {
+          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
+          "url": "https://www.cls.cn/detail/2221654",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[13时11分 ~ 22时10分]"
+        },
+        {
+          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
+          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时08分 ~ 22时10分]"
+        },
+        {
+          "title": "日本冲绳举行集会要求高市早苗谢罪",
+          "url": "https://www.toutiao.com/trending/7580288007694368814/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19,
+            21,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时25分]"
+        },
+        {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19,
+            22,
+            25,
+            26,
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 22时10分]"
+        },
+        {
+          "title": "混团世界杯国乒vs日本队",
+          "url": "https://www.douyin.com/hot/2328196",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时16分 ~ 20时19分]"
+        },
+        {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时13分]"
+        },
+        {
+          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时08分 ~ 22时10分]"
+        },
+        {
+          "title": "日本各界担忧日本前途",
+          "url": "https://www.toutiao.com/trending/7579547391158665257/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 20时19分]"
+        },
+        {
+          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
+          "title": "日本国家情报局要来了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 12时13分]"
+        },
+        {
+          "title": "国际乒联混合团体世界杯，中国队 8-5 战胜日本，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1980629101996896446",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
+          "title": "日本预测东京“直下型地震”后果",
+          "url": "https://www.toutiao.com/trending/7580221038421540900/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 21时20分]"
+        },
+        {
+          "title": "国乒战胜日本收获8连胜",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E6%94%B6%E8%8E%B78%E8%BF%9E%E8%83%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 20时19分]"
+        },
+        {
+          "title": "中国女子日本被撞亡家属索赔637万",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94637%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 19时09分]"
+        },
+        {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%8F%82%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%856%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 19时09分]"
+        },
+        {
+          "title": "国乒vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
+          "title": "混团世界杯中国队8比5战胜日本队",
+          "url": "https://www.toutiao.com/trending/7580300734487642163/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://flash.jin10.com/detail/20251206114746148800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 16时14分]"
+        },
+        {
+          "title": "日本民众说大米成奢侈品",
+          "url": "https://wallstreetcn.com/livenews/3016198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 13时11分]"
+        },
+        {
+          "title": "驻日美军猥亵少女日本也是帮凶",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E6%97%A5%E6%9C%AC%E4%B9%9F%E6%98%AF%E5%B8%AE%E5%87%B6%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时10分]"
+        },
+        {
+          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
+          "url": "https://wallstreetcn.com/livenews/3016173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时25分]"
+        },
+        {
+          "title": "专家：美国对日本右翼更加警惕",
+          "url": "https://www.toutiao.com/trending/7580547413033156614/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时11分]"
+        },
+        {
+          "title": "国乒8比5日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%945%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时14分]"
+        },
+        {
+          "title": "驻日美军猥亵少女日本不予起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E6%97%A5%E6%9C%AC%E4%B8%8D%E4%BA%88%E8%B5%B7%E8%AF%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时25分]"
+        },
+        {
+          "title": "媒体：德国又给日本打了个样",
+          "url": "https://www.toutiao.com/trending/7580108781376421926/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时16分]"
+        },
+        {
+          "title": "日本最早明年成立国家情报局",
+          "url": "https://flash.jin10.com/detail/20251205235214352800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时12分]"
+        },
+        {
+          "title": "中国女子在日本被撞身亡 家属索赔",
+          "url": "https://www.toutiao.com/trending/7580277875938754614/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时09分]"
+        },
+        {
+          "title": "阻挠中国出席G7峰会日本想多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "高市早苗欲成立日本版中情局",
+          "url": "https://www.toutiao.com/trending/7580203204307140627/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 08时49分]"
+        },
+        {
+          "title": "苑举正：一定要认清日本的真面目",
+          "url": "https://www.toutiao.com/trending/7579635100859777067/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时11分]"
+        },
+        {
+          "title": "杜文龙：日本电磁炮不堪一击",
+          "url": "https://www.toutiao.com/trending/7580233414969081897/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "日本对华“政冷经热”策略能奏效吗",
+          "url": "https://www.toutiao.com/trending/7580665527173910067/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "日本友人捐侵华日军家信内容残忍",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时11分]"
+        },
+        {
+          "title": "日本民众：大米成“奢侈品”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E5%A4%A7%E7%B1%B3%E6%88%90%E2%80%9C%E5%A5%A2%E4%BE%88%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "吴海龙：日本恐成中俄在亚太最大威胁",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B5%B7%E9%BE%99%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%81%90%E6%88%90%E4%B8%AD%E4%BF%84%E5%9C%A8%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "起底日本宙斯盾战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E5%AE%99%E6%96%AF%E7%9B%BE%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
+          "title": "日本正研究自2027年起将所得税提高1%以用于国防开支。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3016159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "日本将把离境税提高两倍，至每人3000日元。（Yomiuri）",
+          "url": "https://wallstreetcn.com/livenews/3016158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "二战战犯孙子正重掌日本兵权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%88%98%E6%88%98%E7%8A%AF%E5%AD%99%E5%AD%90%E6%AD%A3%E9%87%8D%E6%8E%8C%E6%97%A5%E6%9C%AC%E5%85%B5%E6%9D%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "日本极可能成为中俄在亚太最大威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9E%81%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E4%B8%AD%E4%BF%84%E5%9C%A8%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "国乒战胜日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "日本抓到一只380公斤巨型棕熊",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA380%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%A3%95%E7%86%8A&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 48,
@@ -17,8 +622,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 21时20分]"
+          "appearance_count": 12,
+          "time_info": "[15时10分 ~ 22时10分]"
         },
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -54,6 +659,30 @@
           "time_info": "[00时14分 ~ 08时49分]"
         },
         {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 22时10分]"
+        },
+        {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
           "url": "https://flash.jin10.com/detail/20251206033944574800",
           "source": "金十数据",
@@ -65,6 +694,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时49分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时11分 ~ 22时10分]"
         },
         {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
@@ -119,19 +761,6 @@
           "time_info": "[13时11分 ~ 14时16分]"
         },
         {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 21时20分]"
-        },
-        {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
           "url": "https://www.toutiao.com/trending/7579684143039381523/",
           "source": "今日头条",
@@ -173,17 +802,6 @@
           "time_info": "[11时38分 ~ 15时11分]"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时20分]"
-        },
-        {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
           "url": "https://wallstreetcn.com/livenews/3016225",
           "source": "华尔街见闻-快讯",
@@ -196,19 +814,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时11分 ~ 16时14分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 21时20分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -245,7 +850,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -270,7 +875,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -595,7 +1200,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -613,597 +1218,6 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 48,
-      "titles": [
-        {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时49分]"
-        },
-        {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 21时20分]"
-        },
-        {
-          "title": "“日本人应该清醒地认识到这件事！”",
-          "url": "https://news.ifeng.com/c/8oqOwCYqYNp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时49分]"
-        },
-        {
-          "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
-          "url": "https://news.ifeng.com/c/8oqIgnruMQh",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "中方愿同俄方配合坚决遏制日本挑衅",
-          "url": "https://www.toutiao.com/trending/7579724784825679910/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时38分]"
-        },
-        {
-          "title": "阻挠中国出席G7峰会 日本想多了",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A+%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时25分]"
-        },
-        {
-          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
-          "url": "https://www.cls.cn/detail/2221654",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时11分 ~ 21时20分]"
-        },
-        {
-          "title": "日本冲绳举行集会要求高市早苗谢罪",
-          "url": "https://www.toutiao.com/trending/7580288007694368814/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19,
-            21,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
-          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时08分 ~ 21时20分]"
-        },
-        {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时25分]"
-        },
-        {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            22,
-            25,
-            26,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 21时20分]"
-        },
-        {
-          "title": "混团世界杯国乒vs日本队",
-          "url": "https://www.douyin.com/hot/2328196",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时16分 ~ 20时19分]"
-        },
-        {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.cls.cn/detail/2221021",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "日本各界担忧日本前途",
-          "url": "https://www.toutiao.com/trending/7579547391158665257/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 20时19分]"
-        },
-        {
-          "title": "日本国家情报局要来了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时13分]"
-        },
-        {
-          "title": "国际乒联混合团体世界杯，中国队 8-5 战胜日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980629101996896446",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时11分]"
-        },
-        {
-          "title": "日本预测东京“直下型地震”后果",
-          "url": "https://www.toutiao.com/trending/7580221038421540900/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时20分]"
-        },
-        {
-          "title": "国乒战胜日本收获8连胜",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E6%94%B6%E8%8E%B78%E8%BF%9E%E8%83%9C",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时10分 ~ 20时19分]"
-        },
-        {
-          "title": "中国女子日本被撞亡家属索赔637万",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94637%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时10分 ~ 19时09分]"
-        },
-        {
-          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时08分 ~ 21时20分]"
-        },
-        {
-          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 21时20分]"
-        },
-        {
-          "title": "日本海参价格暴跌超6成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%8F%82%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%856%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时10分 ~ 19时09分]"
-        },
-        {
-          "title": "国乒vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 15时11分]"
-        },
-        {
-          "title": "混团世界杯中国队8比5战胜日本队",
-          "url": "https://www.toutiao.com/trending/7580300734487642163/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时11分]"
-        },
-        {
-          "title": "日本海参价格暴跌超6成",
-          "url": "https://flash.jin10.com/detail/20251206114746148800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 16时14分]"
-        },
-        {
-          "title": "日本民众说大米成奢侈品",
-          "url": "https://wallstreetcn.com/livenews/3016198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时11分]"
-        },
-        {
-          "title": "驻日美军猥亵少女日本也是帮凶",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E6%97%A5%E6%9C%AC%E4%B9%9F%E6%98%AF%E5%B8%AE%E5%87%B6%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时20分]"
-        },
-        {
-          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
-          "url": "https://wallstreetcn.com/livenews/3016173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 10时25分]"
-        },
-        {
-          "title": "专家：美国对日本右翼更加警惕",
-          "url": "https://www.toutiao.com/trending/7580547413033156614/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时11分]"
-        },
-        {
-          "title": "国乒8比5日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%945%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时14分]"
-        },
-        {
-          "title": "驻日美军猥亵少女日本不予起诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E6%97%A5%E6%9C%AC%E4%B8%8D%E4%BA%88%E8%B5%B7%E8%AF%89%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 10时25分]"
-        },
-        {
-          "title": "媒体：德国又给日本打了个样",
-          "url": "https://www.toutiao.com/trending/7580108781376421926/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
-          "title": "日本最早明年成立国家情报局",
-          "url": "https://flash.jin10.com/detail/20251205235214352800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时12分]"
-        },
-        {
-          "title": "中国女子在日本被撞身亡 家属索赔",
-          "url": "https://www.toutiao.com/trending/7580277875938754614/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时09分]"
-        },
-        {
-          "title": "阻挠中国出席G7峰会日本想多了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "高市早苗欲成立日本版中情局",
-          "url": "https://www.toutiao.com/trending/7580203204307140627/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
-        },
-        {
-          "title": "苑举正：一定要认清日本的真面目",
-          "url": "https://www.toutiao.com/trending/7579635100859777067/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时11分]"
-        },
-        {
-          "title": "杜文龙：日本电磁炮不堪一击",
-          "url": "https://www.toutiao.com/trending/7580233414969081897/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
-        },
-        {
-          "title": "日本对华“政冷经热”策略能奏效吗",
-          "url": "https://www.toutiao.com/trending/7580665527173910067/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
-        },
-        {
-          "title": "日本友人捐侵华日军家信内容残忍",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时11分]"
-        },
-        {
-          "title": "日本民众：大米成“奢侈品”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E5%A4%A7%E7%B1%B3%E6%88%90%E2%80%9C%E5%A5%A2%E4%BE%88%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "吴海龙：日本恐成中俄在亚太最大威胁",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B5%B7%E9%BE%99%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%81%90%E6%88%90%E4%B8%AD%E4%BF%84%E5%9C%A8%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
-        },
-        {
-          "title": "日本正研究自2027年起将所得税提高1%以用于国防开支。（读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3016159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "日本将把离境税提高两倍，至每人3000日元。（Yomiuri）",
-          "url": "https://wallstreetcn.com/livenews/3016158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "二战战犯孙子正重掌日本兵权",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%88%98%E6%88%98%E7%8A%AF%E5%AD%99%E5%AD%90%E6%AD%A3%E9%87%8D%E6%8E%8C%E6%97%A5%E6%9C%AC%E5%85%B5%E6%9D%83%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
-          "title": "日本极可能成为中俄在亚太最大威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9E%81%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E4%B8%AD%E4%BF%84%E5%9C%A8%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "国乒战胜日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "日本抓到一只380公斤巨型棕熊",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA380%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%A3%95%E7%86%8A&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -1217,8 +1231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时48分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[08时48分 ~ 22时10分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -1243,11 +1257,12 @@
             7,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时48分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[08时48分 ~ 22时10分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -1389,6 +1404,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -1400,18 +1428,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[11时37分 ~ 21时20分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 21时20分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -1552,11 +1568,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时37分 ~ 21时20分]"
+          "appearance_count": 17,
+          "time_info": "[11时37分 ~ 22时10分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1638,11 +1655,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 22时10分]"
         }
       ]
     },
