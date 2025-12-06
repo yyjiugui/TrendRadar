@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T14:16:23.150644+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-06T15:11:14.444065+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -64,6 +64,19 @@
           "time_info": "[04时13分 ~ 08时49分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
           "url": "https://flash.jin10.com/detail/20251206022018049800",
           "source": "金十数据",
@@ -100,30 +113,6 @@
           "time_info": "[11时37分 ~ 11时38分]"
         },
         {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
-          "url": "https://wallstreetcn.com/livenews/3016225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
           "url": "https://flash.jin10.com/detail/20251206105234128800",
           "source": "金十数据",
@@ -131,11 +120,51 @@
             5,
             7,
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            16,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时11分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
+          "url": "https://wallstreetcn.com/livenews/3016225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -151,18 +180,19 @@
           "time_info": "[04时13分 ~ 06时11分]"
         },
         {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://wallstreetcn.com/livenews/3016210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            10,
-            16,
-            20
+            8,
+            11,
+            17,
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时11分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -177,20 +207,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 05时11分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
@@ -497,7 +513,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -601,8 +617,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 14时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 15时11分]"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时11分]"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -614,17 +641,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时16分]"
         },
         {
           "title": "日本国家情报局要来了",
@@ -645,8 +661,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
+          "title": "国乒vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
         },
         {
           "title": "日本民众说大米成奢侈品",
@@ -663,6 +692,19 @@
           "time_info": "[10时25分 ~ 13时11分]"
         },
         {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://flash.jin10.com/detail/20251206114746148800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
           "url": "https://wallstreetcn.com/livenews/3016173",
           "source": "华尔街见闻-快讯",
@@ -673,30 +715,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 10时25分]"
-        },
-        {
-          "title": "国乒vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
-          "title": "日本海参价格暴跌超6成",
-          "url": "https://flash.jin10.com/detail/20251206114746148800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "专家：美国对日本右翼更加警惕",
@@ -748,6 +766,17 @@
           "time_info": "[00时14分 ~ 01时12分]"
         },
         {
+          "title": "混团世界杯国乒vs日本队",
+          "url": "https://www.douyin.com/hot/2328196",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 15时11分]"
+        },
+        {
           "title": "阻挠中国出席G7峰会日本想多了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -770,6 +799,17 @@
           "time_info": "[08时48分 ~ 08时49分]"
         },
         {
+          "title": "国乒战胜日本收获8连胜",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E6%94%B6%E8%8E%B78%E8%BF%9E%E8%83%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
           "title": "苑举正：一定要认清日本的真面目",
           "url": "https://www.toutiao.com/trending/7579635100859777067/",
           "source": "今日头条",
@@ -782,6 +822,28 @@
           "time_info": "[12时13分 ~ 13时11分]"
         },
         {
+          "title": "中国女子日本被撞亡家属索赔637万",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94637%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%8F%82%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%856%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
           "title": "日本民众：大米成“奢侈品”",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E5%A4%A7%E7%B1%B3%E6%88%90%E2%80%9C%E5%A5%A2%E4%BE%88%E5%93%81%E2%80%9D",
           "source": "百度热搜",
@@ -791,6 +853,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "国乒8比5日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%945%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "日本正研究自2027年起将所得税提高1%以用于国防开支。（读卖新闻）",
@@ -821,20 +894,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
         {
-          "title": "混团世界杯国乒vs日本队",
-          "url": "https://www.douyin.com/hot/2328196",
-          "source": "抖音",
+          "title": "日本抓到一只380公斤巨型棕熊",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA380%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%A3%95%E7%86%8A&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时16分"
+          "time_info": "15时11分"
         }
       ]
     },
@@ -852,8 +925,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 15时11分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -866,8 +939,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 15时11分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -876,11 +949,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 15时11分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -1030,8 +1104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 15时11分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -1173,8 +1247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 15时11分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1184,11 +1258,12 @@
             12,
             14,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时11分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
