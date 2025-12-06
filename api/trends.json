@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-06T16:14:46.422335+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-06T17:11:23.131013+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            29,
+            30,
+            28,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 17时11分]"
+        },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
@@ -22,21 +38,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 08时49分]"
-        },
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            29,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 16时14分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时49分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 17时11分]"
         },
         {
           "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
@@ -113,18 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 16时14分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -470,6 +471,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
           "url": "https://wallstreetcn.com/livenews/3016179",
           "source": "华尔街见闻-快讯",
@@ -517,7 +529,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -589,8 +601,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 17时11分]"
         },
         {
           "title": "日本冲绳举行集会要求高市早苗谢罪",
@@ -634,8 +646,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 16时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 17时11分]"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -653,11 +665,12 @@
           "url": "https://www.cls.cn/detail/2221654",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 16时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时11分 ~ 17时11分]"
         },
         {
           "title": "日本国家情报局要来了",
@@ -677,9 +690,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时11分]"
         },
         {
           "title": "国乒vs日本",
@@ -693,6 +706,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
+          "title": "混团世界杯中国队8比5战胜日本队",
+          "url": "https://www.toutiao.com/trending/7580300734487642163/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时11分]"
         },
         {
           "title": "日本海参价格暴跌超6成",
@@ -709,6 +734,17 @@
           "time_info": "[13时11分 ~ 16时14分]"
         },
         {
+          "title": "混团世界杯国乒vs日本队",
+          "url": "https://www.douyin.com/hot/2328196",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 17时11分]"
+        },
+        {
           "title": "日本民众说大米成奢侈品",
           "url": "https://wallstreetcn.com/livenews/3016198",
           "source": "华尔街见闻-快讯",
@@ -721,17 +757,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时25分 ~ 13时11分]"
-        },
-        {
-          "title": "混团世界杯中国队8比5战胜日本队",
-          "url": "https://www.toutiao.com/trending/7580300734487642163/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
@@ -759,15 +784,28 @@
           "time_info": "[11时37分 ~ 13时11分]"
         },
         {
-          "title": "混团世界杯国乒vs日本队",
-          "url": "https://www.douyin.com/hot/2328196",
-          "source": "抖音",
+          "title": "中国女子日本被撞亡家属索赔637万",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94637%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时16分 ~ 16时14分]"
+          "time_info": "[15时10分 ~ 17时11分]"
+        },
+        {
+          "title": "日本海参价格暴跌超6成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%8F%82%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%856%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 17时11分]"
         },
         {
           "title": "国乒8比5日本",
@@ -818,29 +856,6 @@
           "time_info": "[00时14分 ~ 01时12分]"
         },
         {
-          "title": "中国女子日本被撞亡家属索赔637万",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94637%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 16时14分]"
-        },
-        {
-          "title": "日本海参价格暴跌超6成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%8F%82%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%856%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 16时14分]"
-        },
-        {
           "title": "阻挠中国出席G7峰会日本想多了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -884,6 +899,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 13时11分]"
+        },
+        {
+          "title": "日本友人捐侵华日军家信内容残忍",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时11分]"
         },
         {
           "title": "日本民众：大米成“奢侈品”",
@@ -930,6 +956,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "中国女子在日本被撞身亡 家属索赔",
+          "url": "https://www.toutiao.com/trending/7580277875938754614/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "日本抓到一只380公斤巨型棕熊",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA380%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%A3%95%E7%86%8A&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -939,17 +976,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "日本友人捐侵华日军家信内容残忍",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         }
       ]
     },
@@ -967,8 +993,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 17时11分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -981,8 +1007,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 17时11分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -995,8 +1021,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 17时11分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -1146,8 +1172,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 17时11分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -1289,8 +1315,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 17时11分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
