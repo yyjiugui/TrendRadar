@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:10:08.885236+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-12-06T23:10:23.099541+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -38,11 +38,12 @@
             2,
             3,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 22时10分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 23时10分]"
         },
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -70,6 +71,17 @@
           "time_info": "[00时14分 ~ 11时38分]"
         },
         {
+          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
+          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时08分 ~ 23时10分]"
+        },
+        {
           "title": "阻挠中国出席G7峰会 日本想多了",
           "url": "https://www.baidu.com/s?wd=%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A+%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86",
           "source": "百度热搜",
@@ -89,22 +101,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时11分 ~ 22时10分]"
-        },
-        {
-          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
-          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时08分 ~ 22时10分]"
+          "appearance_count": 15,
+          "time_info": "[13时11分 ~ 23时10分]"
         },
         {
           "title": "日本冲绳举行集会要求高市早苗谢罪",
@@ -120,6 +122,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时08分 ~ 23时10分]"
         },
         {
           "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
@@ -176,18 +193,19 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
-          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
+          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
           "source": "澎湃新闻",
           "ranks": [
+            20,
+            18,
+            19,
             17,
-            13,
-            7,
-            5
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时08分 ~ 22时10分]"
+          "appearance_count": 9,
+          "time_info": "[18时11分 ~ 23时10分]"
         },
         {
           "title": "日本各界担忧日本前途",
@@ -200,20 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时08分 ~ 20时19分]"
-        },
-        {
-          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时11分 ~ 22时10分]"
         },
         {
           "title": "日本国家情报局要来了",
@@ -596,6 +600,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "日本拟猛增烟草税筹军饷",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%8C%9B%E5%A2%9E%E7%83%9F%E8%8D%89%E7%A8%8E%E7%AD%B9%E5%86%9B%E9%A5%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "日本抓到一只380公斤巨型棕熊",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA380%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%A3%95%E7%86%8A&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -605,12 +620,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "日本友人捐侵华日军家信内容残忍",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -622,8 +648,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时10分 ~ 22时10分]"
+          "appearance_count": 13,
+          "time_info": "[15时10分 ~ 23时10分]"
         },
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -639,8 +665,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 18时11分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 23时10分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -659,6 +685,17 @@
           "time_info": "[00时14分 ~ 08时49分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时18分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普获得“国际足联和平奖”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
           "source": "百度热搜",
@@ -672,15 +709,17 @@
           "time_info": "[17时11分 ~ 22时10分]"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时18分 ~ 22时10分]"
+          "appearance_count": 9,
+          "time_info": "[18时11分 ~ 23时10分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -694,19 +733,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时49分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时11分 ~ 22时10分]"
         },
         {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
@@ -904,6 +930,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时09分 ~ 21时20分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
@@ -1231,8 +1268,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时48分 ~ 22时10分]"
+          "appearance_count": 21,
+          "time_info": "[08时48分 ~ 23时10分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -1261,8 +1298,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时48分 ~ 22时10分]"
+          "appearance_count": 21,
+          "time_info": "[08时48分 ~ 23时10分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -1401,7 +1438,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -1413,8 +1450,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时11分 ~ 22时10分]"
+          "appearance_count": 9,
+          "time_info": "[18时11分 ~ 23时10分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -1452,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时11分 ~ 08时49分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -1572,8 +1620,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时37分 ~ 22时10分]"
+          "appearance_count": 18,
+          "time_info": "[11时37分 ~ 23时10分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1659,8 +1707,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时18分 ~ 22时10分]"
+          "appearance_count": 6,
+          "time_info": "[20时18分 ~ 23时10分]"
         }
       ]
     },
