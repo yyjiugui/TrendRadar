@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T01:09:49.478285+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-07T02:15:07.675766+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
@@ -15,30 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
           "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
           "source": "澎湃新闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
-        },
-        {
-          "title": "法国8比7日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
+            4,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "中国百舰齐发,日本吓傻了",
@@ -49,8 +39,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
+        },
+        {
+          "title": "法国8比7日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "time_info": "[01时09分 ~ 02时15分]"
         },
         {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
@@ -60,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "日本友人捐侵华日军家信内容残忍",
@@ -72,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
@@ -84,8 +86,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "日本在与那国岛挖一锹土我军都能发现",
@@ -96,8 +98,19 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
+        },
+        {
+          "title": "日本预测东京“直下型地震”后果",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%E4%B8%9C%E4%BA%AC%E2%80%9C%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87%E2%80%9D%E5%90%8E%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "time_info": "[02时14分 ~ 02时15分]"
         }
       ]
     },
@@ -114,8 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -125,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -136,8 +149,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -147,8 +160,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },
@@ -164,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -193,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -204,8 +217,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },
@@ -222,8 +235,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },
@@ -239,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     }
