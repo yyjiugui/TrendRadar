@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T05:09:50.937600+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-12-07T06:10:57.914379+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "日本友人捐侵华日军家信内容残忍",
@@ -43,8 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
@@ -67,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "中国百舰齐发,日本吓傻了",
@@ -79,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "日本预测东京“直下型地震”后果",
@@ -90,11 +90,26 @@
             26,
             27,
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 06时10分]"
+        },
+        {
+          "title": "法国8比7日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            19,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时10分]"
         },
         {
           "title": "日本在与那国岛挖一锹土我军都能发现",
@@ -110,28 +125,38 @@
           "time_info": "[00时12分 ~ 05时09分]"
         },
         {
-          "title": "法国8比7日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "title": "专家回应日本要用电磁炮打中国航母",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%A6%81%E7%94%A8%E7%94%B5%E7%A3%81%E7%82%AE%E6%89%93%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            19,
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "媒体：德国又给日本打了个样",
           "url": "https://www.toutiao.com/trending/7580108781376421926/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时10分]"
+        },
+        {
+          "title": "高市早苗欲成立日本版中情局",
+          "url": "https://www.douyin.com/hot/2328057",
+          "source": "抖音",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时10分"
         }
       ]
     },
@@ -149,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -160,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -171,19 +196,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         }
       ]
     },
@@ -200,8 +226,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -211,8 +237,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 06时10分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -240,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -251,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         }
       ]
     },
@@ -266,11 +292,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时10分]"
         }
       ]
     },
