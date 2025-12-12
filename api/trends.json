@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T05:10:31.875476+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2025-12-13T06:12:08.759486+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时12分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -28,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -114,9 +115,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时12分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -186,8 +187,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -238,18 +239,30 @@
     },
     {
       "keyword_group": "美元 美债 美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
         {
           "title": "美元指数连跌三周",
           "url": "https://wallstreetcn.com/livenews/3020126",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时12分]"
         },
         {
           "title": "美股跌幅扩大，纳指跌超1%，标普500指数跌0.5%，道指涨幅收窄至0.01%。",
@@ -288,8 +301,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时12分]"
         }
       ]
     },
