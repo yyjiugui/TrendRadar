@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-13T03:10:54.267625+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-13T04:13:20.275980+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
           "url": "https://wallstreetcn.com/livenews/3020118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时13分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -26,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -42,6 +54,18 @@
           "time_info": "[01时11分 ~ 02时18分]"
         },
         {
+          "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
+          "url": "https://www.zhihu.com/question/1982756499861304580",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时13分]"
+        },
+        {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
           "url": "https://wallstreetcn.com/livenews/3020070",
           "source": "华尔街见闻-快讯",
@@ -54,26 +78,26 @@
           "time_info": "[01时11分 ~ 02时18分]"
         },
         {
-          "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
-          "url": "https://www.zhihu.com/question/1982756499861304580",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "甲骨文回应：不会推迟建设与OpenAI合同承诺所需的站点",
           "url": "https://flash.jin10.com/detail/20251213021313071800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "甲骨文回应：不会推迟与OpenAI相关的数据中心建设",
+          "url": "https://flash.jin10.com/detail/20251213021313071800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -81,6 +105,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
+        },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
@@ -92,18 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 02时18分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时10分]"
         },
         {
           "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
@@ -151,11 +175,12 @@
           "ranks": [
             2,
             12,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时13分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
@@ -164,11 +189,12 @@
           "ranks": [
             3,
             13,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时13分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -237,8 +263,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         }
       ]
     },
