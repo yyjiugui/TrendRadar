@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:11:48.352025+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-13T19:09:40.654831+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时11分 ~ 18时11分]"
+          "appearance_count": 16,
+          "time_info": "[07时11分 ~ 19时09分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -150,8 +150,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 18时11分]"
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 19时09分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -164,8 +164,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时10分 ~ 18时11分]"
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 19时09分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -176,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时09分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -189,8 +189,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时11分 ~ 18时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时11分 ~ 19时09分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
@@ -207,6 +207,18 @@
           "time_info": "[11时43分 ~ 14时16分]"
         },
         {
+          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
+          "url": "https://www.cls.cn/detail/2228711",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时09分]"
+        },
+        {
           "title": "摩尔线程回应“75亿做理财”",
           "url": "https://www.toutiao.com/trending/7582398174749442089/",
           "source": "今日头条",
@@ -217,17 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
-          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
-          "url": "https://www.cls.cn/detail/2228711",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         }
       ]
     },
@@ -244,11 +245,12 @@
             5,
             6,
             8,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时09分]"
         },
         {
           "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
@@ -259,11 +261,12 @@
             7,
             8,
             10,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时09分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -421,8 +424,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时11分 ~ 18时11分]"
+          "appearance_count": 16,
+          "time_info": "[07时11分 ~ 19时09分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
