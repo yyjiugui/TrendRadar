@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T03:08:56.589293+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2025-12-14T04:12:06.105499+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1982179955761766626",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -61,11 +62,12 @@
             28,
             29,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -74,9 +76,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时12分]"
         }
       ]
     },
@@ -92,8 +94,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
@@ -103,8 +105,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时12分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -131,8 +133,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         }
       ]
     },
@@ -150,8 +152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时12分]"
         }
       ]
     }
