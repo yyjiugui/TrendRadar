@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:17:56.003447+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-12-13T13:12:09.844356+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 13时12分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -268,6 +268,72 @@
       ]
     },
     {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
+          "url": "https://www.cls.cn/detail/2228610",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时12分]"
+        },
+        {
+          "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
+          "url": "https://wallstreetcn.com/livenews/3020185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时12分]"
+        },
+        {
+          "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
+          "url": "https://www.cls.cn/detail/2227945",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "摩尔线程回应“75亿做理财”",
+          "url": "https://www.toutiao.com/trending/7582398174749442089/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 美债 美股",
       "match_count": 5,
       "titles": [
@@ -281,8 +347,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 13时12分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
@@ -332,49 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
-          "url": "https://www.cls.cn/detail/2228098",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
-          "url": "https://www.cls.cn/detail/2228610",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时17分]"
-        },
-        {
-          "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
-          "url": "https://wallstreetcn.com/livenews/3020185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时17分]"
         }
       ]
     },
