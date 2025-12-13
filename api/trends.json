@@ -1,8 +1,267 @@
 {
-  "generated_at": "2025-12-13T19:09:40.654831+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-12-13T20:19:40.059706+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
+          "url": "https://wallstreetcn.com/livenews/3020213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6,
+            8,
+            11,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 20时19分]"
+        },
+        {
+          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
+          "url": "https://wallstreetcn.com/livenews/3020211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8,
+            10,
+            13,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 20时19分]"
+        },
+        {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时10分 ~ 10时28分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
+          "url": "https://wallstreetcn.com/livenews/3020088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时13分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
+          "url": "https://wallstreetcn.com/livenews/3020087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时13分]"
+        },
+        {
+          "title": "广东省人工智能与机器人企业超3700家",
+          "url": "https://wallstreetcn.com/livenews/3020236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3020234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3020086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时10分]"
+        },
+        {
+          "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
+          "url": "https://flash.jin10.com/detail/20251213012656480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能 深化拓展“人工智能+”行动",
+          "url": "https://flash.jin10.com/detail/20251213190708740800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
+          "url": "https://www.cls.cn/detail/2228610",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 20时19分]"
+        },
+        {
+          "title": "摩尔线程回应“75亿做理财”",
+          "url": "https://www.douyin.com/hot/2335140",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 20时19分]"
+        },
+        {
+          "title": "如何看待摩尔线程市值超过百度？",
+          "url": "https://www.zhihu.com/question/1982179955761766626",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 20时19分]"
+        },
+        {
+          "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
+          "url": "https://www.cls.cn/detail/2227945",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时11分 ~ 20时19分]"
+        },
+        {
+          "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
+          "url": "https://www.zhihu.com/question/1982888799563452649",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
+          "url": "https://www.cls.cn/detail/2228711",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时19分]"
+        },
+        {
+          "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
+          "url": "https://wallstreetcn.com/livenews/3020185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时16分]"
+        },
+        {
+          "title": "摩尔线程回应“75亿做理财”",
+          "url": "https://www.toutiao.com/trending/7582398174749442089/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
@@ -21,8 +280,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时11分 ~ 19时09分]"
+          "appearance_count": 17,
+          "time_info": "[07时11分 ~ 20时19分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -124,218 +383,6 @@
       ]
     },
     {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
-          "url": "https://www.cls.cn/detail/2228098",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
-          "url": "https://www.cls.cn/detail/2228610",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时43分 ~ 19时09分]"
-        },
-        {
-          "title": "摩尔线程回应“75亿做理财”",
-          "url": "https://www.douyin.com/hot/2335140",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 19时09分]"
-        },
-        {
-          "title": "如何看待摩尔线程市值超过百度？",
-          "url": "https://www.zhihu.com/question/1982179955761766626",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 19时09分]"
-        },
-        {
-          "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
-          "url": "https://www.cls.cn/detail/2227945",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时11分 ~ 19时09分]"
-        },
-        {
-          "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
-          "url": "https://wallstreetcn.com/livenews/3020185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时16分]"
-        },
-        {
-          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
-          "url": "https://www.cls.cn/detail/2228711",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
-        },
-        {
-          "title": "摩尔线程回应“75亿做理财”",
-          "url": "https://www.toutiao.com/trending/7582398174749442089/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
-          "url": "https://wallstreetcn.com/livenews/3020213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            6,
-            8,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 19时09分]"
-        },
-        {
-          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
-          "url": "https://wallstreetcn.com/livenews/3020211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8,
-            10,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 19时09分]"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时10分 ~ 10时28分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时13分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时13分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时10分]"
-        },
-        {
-          "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
-          "url": "https://flash.jin10.com/detail/20251213012656480800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -424,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时11分 ~ 19时09分]"
+          "appearance_count": 17,
+          "time_info": "[07时11分 ~ 20时19分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
