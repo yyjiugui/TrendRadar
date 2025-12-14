@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:13:04.368251+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-12-14T14:17:16.291813+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 14时17分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -29,11 +29,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 14时17分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -79,8 +80,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 14时17分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -92,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时17分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
@@ -156,11 +157,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时17分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
@@ -181,11 +183,12 @@
           "ranks": [
             9,
             13,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时17分]"
         },
         {
           "title": "2025年人工智能核心产业规模有望破万亿元",
@@ -246,11 +249,12 @@
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时17分]"
         }
       ]
     },
@@ -285,11 +289,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 14时17分]"
         }
       ]
     }
