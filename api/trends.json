@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T07:11:20.552816+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-14T08:58:20.992963+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "摩尔线程 张建中",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 08时58分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 08时58分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 08时58分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -71,8 +71,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时58分]"
+        },
+        {
+          "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
+          "url": "https://wallstreetcn.com/articles/3761322",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时58分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -88,21 +100,21 @@
           "time_info": "[03时08分 ~ 07时11分]"
         },
         {
-          "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
-          "url": "https://wallstreetcn.com/articles/3761322",
-          "source": "华尔街见闻",
+          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228803",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时58分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "广东省人工智能与机器人企业超3700家",
@@ -128,6 +140,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时09分]"
+        },
+        {
+          "title": "2025年人工智能核心产业规模有望破万亿元",
+          "url": "https://wallstreetcn.com/livenews/3020294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -140,11 +163,12 @@
           "url": "https://flash.jin10.com/detail/20251213225118795800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时58分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -173,8 +197,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 08时58分]"
         }
       ]
     }
