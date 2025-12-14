@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:10:13.869902+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-14T20:19:37.233068+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 19时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 20时19分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 19时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 20时19分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -78,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 20时19分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -108,11 +108,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 20时19分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
@@ -144,11 +145,12 @@
           "url": "https://www.cls.cn/detail/2228876",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 20时19分]"
         },
         {
           "title": "砺算科技和摩尔线程的自研架构到底谁是真的？",
