@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T18:11:31.611788+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-14T19:10:13.869902+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "摩尔线程 张建中",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 19时10分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -45,26 +45,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时11分]"
-        },
-        {
-          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228803",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 18时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 19时10分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -78,6 +64,22 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时13分 ~ 13时13分]"
+        },
+        {
+          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时10分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -100,6 +102,19 @@
           "time_info": "[00时13分 ~ 14时17分]"
         },
         {
+          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
+          "url": "https://wallstreetcn.com/articles/3761256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 19时10分]"
+        },
+        {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
           "url": "https://wallstreetcn.com/articles/3761322",
           "source": "华尔街见闻",
@@ -110,18 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 08时58分]"
-        },
-        {
-          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
-          "url": "https://wallstreetcn.com/articles/3761256",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时11分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -137,13 +140,24 @@
           "time_info": "[03时08分 ~ 07时11分]"
         },
         {
+          "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228876",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
+        },
+        {
           "title": "砺算科技和摩尔线程的自研架构到底谁是真的？",
           "url": "https://www.zhihu.com/question/1982051710546511191",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
