@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T15:11:43.044826+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-12-14T16:14:37.560208+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -18,23 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 15时11分]"
-        },
-        {
-          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
-          "url": "https://www.cls.cn/detail/2228610",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 15时11分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时14分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -51,6 +36,22 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
+          "url": "https://www.cls.cn/detail/2228610",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时14分]"
+        },
+        {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
           "url": "https://www.zhihu.com/question/1982888799563452649",
           "source": "知乎",
@@ -62,6 +63,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时13分 ~ 13时13分]"
+        },
+        {
+          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 16时14分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -82,20 +98,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时13分 ~ 14时17分]"
-        },
-        {
-          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228803",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 15时11分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
@@ -160,11 +162,12 @@
             1,
             6,
             13,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时14分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
@@ -238,6 +241,19 @@
           "time_info": "[00时13分 ~ 13时13分]"
         },
         {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 16时14分]"
+        },
+        {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
@@ -247,18 +263,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 15时11分]"
         }
       ]
     },
@@ -297,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 15时11分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时14分]"
         }
       ]
     }
