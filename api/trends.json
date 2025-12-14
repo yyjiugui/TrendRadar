@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T01:10:11.479316+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2025-12-15T02:16:18.357176+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761256",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
@@ -26,19 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
           "url": "https://www.cls.cn/detail/2228803",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         }
       ]
     }
