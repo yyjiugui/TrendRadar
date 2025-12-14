@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:11:42.704281+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-14T18:11:31.611788+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "摩尔线程 张建中",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 18时11分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 18时11分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 17时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 18时11分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -112,6 +112,18 @@
           "time_info": "[07时11分 ~ 08时58分]"
         },
         {
+          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
+          "url": "https://wallstreetcn.com/articles/3761256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时11分]"
+        },
+        {
           "title": "摩尔线程回应“75亿做理财”",
           "url": "https://www.douyin.com/hot/2335140",
           "source": "抖音",
@@ -125,15 +137,15 @@
           "time_info": "[03时08分 ~ 07时11分]"
         },
         {
-          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
-          "url": "https://wallstreetcn.com/articles/3761256",
-          "source": "华尔街见闻",
+          "title": "砺算科技和摩尔线程的自研架构到底谁是真的？",
+          "url": "https://www.zhihu.com/question/1982051710546511191",
+          "source": "知乎",
           "ranks": [
-            10
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "18时11分"
         },
         {
           "title": "摩尔线程掀起市场狂欢",
@@ -312,8 +324,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 18时11分]"
         }
       ]
     }
