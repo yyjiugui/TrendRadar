@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:12:43.872817+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-12-15T20:23:58.949143+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 20时23分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -155,6 +155,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 美债 美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3020718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
@@ -203,26 +231,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 美债 美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3020718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "19时12分"
         }
       ]
     }
