@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T16:19:26.496735+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-12-15T17:22:20.774666+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -113,11 +113,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 17时22分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -149,7 +150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
