@@ -1,8 +1,102 @@
 {
-  "generated_at": "2025-12-15T22:16:43.588245+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-12-15T23:16:53.637669+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
+          "url": "https://wallstreetcn.com/articles/3761256",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228876",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "摩尔线程神操作!上市七天搞理财",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            8,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 23时16分]"
+        },
+        {
+          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "本周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
+          "url": "https://wallstreetcn.com/articles/3761256",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "AH股震荡调整，创业板跌1.77%，摩尔线程、CPO走弱，白酒走强，恒科指跌超2%，科技股普跌，铂金期货涨停，30年期国债收跌0.99%",
+          "url": "https://wallstreetcn.com/articles/3761388",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "如果华为海思上市，会达到摩尔线程一半的市值吗？",
+          "url": "https://www.zhihu.com/question/1983140374206756378",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 6,
@@ -78,89 +172,6 @@
       ]
     },
     {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
-          "url": "https://wallstreetcn.com/articles/3761256",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 08时57分]"
-        },
-        {
-          "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228876",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 08时57分]"
-        },
-        {
-          "title": "摩尔线程神操作!上市七天搞理财",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6,
-            8,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 22时16分]"
-        },
-        {
-          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228803",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "本周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
-          "url": "https://wallstreetcn.com/articles/3761256",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "AH股震荡调整，创业板跌1.77%，摩尔线程、CPO走弱，白酒走强，恒科指跌超2%，科技股普跌，铂金期货涨停，30年期国债收跌0.99%",
-          "url": "https://wallstreetcn.com/articles/3761388",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元 美债 美股",
       "match_count": 2,
       "titles": [
@@ -171,11 +182,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[20时23分 ~ 23时16分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
