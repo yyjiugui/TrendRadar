@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-16T18:14:29.665135+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-12-16T19:11:44.400167+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时11分]"
+        },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3021118",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
@@ -148,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -186,11 +186,12 @@
             21,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 18时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 19时11分]"
         },
         {
           "title": "2025 年买摩尔线程的显卡怎么样？",
@@ -211,11 +212,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时11分]"
         },
         {
           "title": "半导体芯片股震荡走低，神工股份跌超10%，摩尔线程跌逾5%，艾森股份、富创精密、宏微科技、英集芯等跟跌。",
@@ -292,7 +294,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -303,7 +305,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -314,7 +316,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -376,7 +378,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
