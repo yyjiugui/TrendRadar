@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T10:48:32.471900+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-12-16T11:54:17.963846+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时54分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
@@ -139,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "摩尔线程神操作!上市七天搞理财",
@@ -148,11 +148,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 10时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 11时54分]"
         },
         {
           "title": "半导体芯片股震荡走低，神工股份跌超10%，摩尔线程跌逾5%，艾森股份、富创精密、宏微科技、英集芯等跟跌。",
@@ -161,7 +162,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
