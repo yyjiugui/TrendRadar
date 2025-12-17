@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T05:11:50.779533+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-18T06:12:04.070208+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
+          "url": "https://wallstreetcn.com/livenews/3022611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -89,7 +100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -120,18 +131,18 @@
     },
     {
       "keyword_group": "美元 美债 美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
-          "url": "https://wallstreetcn.com/livenews/3022596",
+          "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
+          "url": "https://wallstreetcn.com/livenews/3022622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
@@ -144,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时14分]"
+        },
+        {
+          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
+          "url": "https://wallstreetcn.com/livenews/3022596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时12分]"
         }
       ]
     }
