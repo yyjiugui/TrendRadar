@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T12:25:23.952781+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-12-17T13:15:12.879643+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,12 @@
           "url": "https://flash.jin10.com/detail/20251217120220101800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
-          "url": "https://flash.jin10.com/detail/20251217115517049800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时15分]"
         },
         {
           "title": "科技巨头推动国会简化人工智能与芯片项目审批流程",
@@ -63,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 11时49分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217115517049800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时15分]"
         },
         {
           "title": "国际半导体设备与材料协会(SEMI)预测，随着芯片制造商扩大用于人工智能的逻辑和存储芯片产能，用于制造晶圆的设备销售将在2026年增长约9%，至1260亿美元，并在2027年进一步增长7.3%，至1350亿美元。",
@@ -93,7 +95,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -256,8 +258,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时11分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 13时15分]"
         },
         {
           "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
