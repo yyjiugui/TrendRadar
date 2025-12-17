@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:19:07.654850+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2025-12-17T15:16:07.484665+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -95,7 +95,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -269,8 +269,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 14时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 15时16分]"
         },
         {
           "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
