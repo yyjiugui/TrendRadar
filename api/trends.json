@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T02:18:57.208166+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-18T03:13:39.718361+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "url": "https://wallstreetcn.com/livenews/3022549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时13分]"
         },
         {
           "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
@@ -103,6 +104,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 美债 美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251218024123307800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
