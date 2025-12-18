@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T04:13:17.087952+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-12-19T05:11:10.681019+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
-          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3023316",
+          "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
+          "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4,
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
-          "url": "https://wallstreetcn.com/livenews/3023315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时11分]"
         },
         {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
@@ -48,21 +39,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
-          "url": "https://wallstreetcn.com/livenews/3023302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时13分]"
         },
         {
           "title": "OpenAI：推出GPT-5.2-Codex。",
@@ -77,13 +56,37 @@
           "time_info": "[03时12分 ~ 04时13分]"
         },
         {
+          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3023316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
           "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
           "url": "https://flash.jin10.com/detail/20251219031932942800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -94,7 +97,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -105,7 +108,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -116,7 +119,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -141,6 +144,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 美债 美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，彭博谷物分类指数涨0.29%，报29.1385点。 CBOT玉米期货涨0.79%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.72%，报10.6125美元/蒲式耳，豆粕期货持平，豆油期货跌0.54%。 CBOT瘦肉猪期货涨1.30%，活牛期货跌0.45%，饲牛期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3023323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
+          "url": "https://wallstreetcn.com/livenews/3023271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "美股涨幅扩大，纳指上涨2%，标普500指数上涨1.4%，道指上涨0.95%。",
+          "url": "https://flash.jin10.com/detail/20251219003915719800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美元指数18日上涨",
+          "url": "https://flash.jin10.com/detail/20251219042953556800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -190,7 +268,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -204,68 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 美债 美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
-          "url": "https://wallstreetcn.com/livenews/3023324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，彭博谷物分类指数涨0.29%，报29.1385点。 CBOT玉米期货涨0.79%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.72%，报10.6125美元/蒲式耳，豆粕期货持平，豆油期货跌0.54%。 CBOT瘦肉猪期货涨1.30%，活牛期货跌0.45%，饲牛期货跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3023323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
-          "url": "https://wallstreetcn.com/livenews/3023271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时18分]"
-        },
-        {
-          "title": "美股涨幅扩大，纳指上涨2%，标普500指数上涨1.4%，道指上涨0.95%。",
-          "url": "https://flash.jin10.com/detail/20251219003915719800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3023222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
