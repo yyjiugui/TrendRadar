@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:12:04.305167+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-18T20:22:35.194468+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时22分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -240,7 +240,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -283,8 +283,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时18分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[14时18分 ~ 20时22分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -429,6 +429,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程有没有机会追上英伟达？",
+          "url": "https://www.zhihu.com/question/633883979",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     }
