@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:10:54.468646+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-12-20T04:13:08.243589+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时13分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -104,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 04时13分]"
         }
       ]
     }
