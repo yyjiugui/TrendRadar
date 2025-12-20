@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:19:27.627870+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-20T21:21:24.284078+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "摩尔线程 张建中",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时10分 ~ 20时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时10分 ~ 21时21分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -140,6 +140,29 @@
           "time_info": "[13时11分 ~ 17时11分]"
         },
         {
+          "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1985671456869349373",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时21分]"
+        },
+        {
+          "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
+          "url": "https://wallstreetcn.com/livenews/3024288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
           "url": "https://wallstreetcn.com/articles/3761762",
           "source": "华尔街见闻",
@@ -151,21 +174,21 @@
           "time_info": "[14时17分 ~ 14时18分]"
         },
         {
-          "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1985671456869349373",
-          "source": "知乎",
+          "title": "全新架构、万卡集群、智算平台，摩尔线程开发者大会还有哪些亮点？",
+          "url": "https://www.cls.cn/detail/2235510",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -202,11 +225,24 @@
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 21时21分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
+          "time_info": "[20时19分 ~ 21时21分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -223,15 +259,15 @@
           "time_info": "[08时50分 ~ 12时17分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时21分"
         }
       ]
     },
@@ -260,11 +296,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时49分 ~ 20时19分]"
+          "appearance_count": 17,
+          "time_info": "[08时49分 ~ 21时21分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -316,11 +353,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时21分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
@@ -385,11 +423,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
