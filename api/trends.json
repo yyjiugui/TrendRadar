@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T10:28:19.291711+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2025-12-20T11:44:08.394159+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 10时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 11时44分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -113,55 +113,59 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "摩尔线程 张建中",
       "match_count": 3,
       "titles": [
         {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时11分 ~ 10时28分]"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 10时28分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
+          "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
+          "url": "https://wallstreetcn.com/livenews/3024227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            18
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "摩尔线程庐山芯片发布：3A游戏性能提升15倍",
+          "url": "https://flash.jin10.com/detail/20251220112833081800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "摩尔线程发布新一代GPU架构花港 支持10万卡以上规模智算集群",
+          "url": "https://flash.jin10.com/detail/20251220104552919800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
@@ -184,6 +188,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 11时44分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 11时44分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 11时44分]"
         }
       ]
     }
