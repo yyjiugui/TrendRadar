@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T04:11:41.743310+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-21T05:09:52.051541+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         },
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         },
         {
           "title": "全新架构、万卡集群、智算平台，摩尔线程开发者大会还有哪些亮点？",
@@ -41,19 +41,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
           "url": "https://wallstreetcn.com/livenews/3024288",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时09分]"
         }
       ]
     },
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -82,8 +83,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -94,20 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         }
       ]
     },
@@ -120,11 +122,12 @@
           "url": "https://wallstreetcn.com/livenews/3024278",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时09分]"
         }
       ]
     },
@@ -158,8 +161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时09分]"
         }
       ]
     }
