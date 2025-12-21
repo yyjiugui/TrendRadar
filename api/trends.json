@@ -1,8 +1,74 @@
 {
-  "generated_at": "2025-12-21T10:56:24.855231+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-12-21T11:57:32.768564+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家人工智能应用中试基地（医疗）浙江开园",
+          "url": "https://wallstreetcn.com/livenews/3024366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时57分]"
+        },
+        {
+          "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3024278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时09分]"
+        },
+        {
+          "title": "国家人工智能应用中试基地（医疗）浙江开园",
+          "url": "https://flash.jin10.com/detail/20251221104217092800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://flash.jin10.com/detail/20251221082842209800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时57分]"
+        },
+        {
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://wallstreetcn.com/livenews/3024329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
+        }
+      ]
+    },
     {
       "keyword_group": "摩尔线程 张建中",
       "match_count": 5,
@@ -13,11 +79,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         },
         {
           "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
@@ -42,11 +109,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -65,64 +133,12 @@
           "url": "https://www.cls.cn/detail/2235553",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国家人工智能应用中试基地（医疗）浙江开园",
-          "url": "https://wallstreetcn.com/livenews/3024366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3024278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时09分]"
-        },
-        {
-          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
-          "url": "https://flash.jin10.com/detail/20251221082842209800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时56分]"
-        },
-        {
-          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
-          "url": "https://wallstreetcn.com/livenews/3024329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 08时57分]"
+          "time_info": "[10时56分 ~ 11时57分]"
         }
       ]
     },
@@ -138,11 +154,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -151,11 +168,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -166,11 +184,12 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -192,6 +211,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时57分]"
+        },
+        {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
           "url": "https://wallstreetcn.com/livenews/3024274",
           "source": "华尔街见闻-快讯",
@@ -201,17 +232,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 04时11分]"
-        },
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         }
       ]
     },
@@ -230,8 +250,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时57分]"
         }
       ]
     }
