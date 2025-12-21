@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:32:45.215352+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-21T13:13:48.290122+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时13分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -26,11 +27,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时13分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -52,11 +54,12 @@
             2,
             14,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时13分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
@@ -86,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
@@ -116,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -141,8 +144,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时13分]"
         }
       ]
     },
@@ -162,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -192,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -221,11 +224,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时13分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -255,8 +259,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         }
       ]
     }
