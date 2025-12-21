@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:11:46.475706+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-12-21T19:09:59.108913+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
             7,
             10,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 19时09分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -141,8 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 19时09分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -155,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时56分 ~ 18时11分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 19时09分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -175,11 +176,12 @@
           "url": "https://www.cls.cn/detail/2235638",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时09分]"
         }
       ]
     },
@@ -314,8 +316,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 19时09分]"
         }
       ]
     }
