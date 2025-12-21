@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:11:53.490653+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-12-21T16:15:02.788474+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             7,
             9,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时11分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 16时15分]"
         },
         {
           "title": "日本将启动耗资190亿美元的国家人工智能项目",
@@ -44,11 +45,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -135,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 15时11分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时15分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -145,11 +147,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 15时11分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 16时15分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -246,11 +249,12 @@
             7,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 15时11分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 16时15分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -258,11 +262,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -289,11 +294,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 15时11分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时15分]"
         }
       ]
     }
