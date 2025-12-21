@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T13:13:48.290122+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-12-21T14:17:16.248348+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -15,11 +15,12 @@
             1,
             7,
             10,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 14时17分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -28,11 +29,12 @@
           "ranks": [
             5,
             7,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 14时17分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -60,6 +62,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时57分 ~ 13时13分]"
+        },
+        {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
@@ -119,8 +132,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时17分]"
+        },
+        {
+          "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
+          "url": "https://www.cls.cn/detail/2235553",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 14时17分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -133,19 +159,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时09分]"
-        },
-        {
-          "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
-          "url": "https://www.cls.cn/detail/2235553",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时13分]"
         }
       ]
     },
@@ -162,11 +175,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时17分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -192,11 +206,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时17分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -215,7 +230,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -225,11 +240,12 @@
             10,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 14时17分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -241,6 +257,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 04时11分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
@@ -259,8 +286,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时17分]"
         }
       ]
     }
