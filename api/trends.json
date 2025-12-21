@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T19:09:59.108913+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-12-21T20:19:58.791275+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -142,8 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 19时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 20时19分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -156,8 +156,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 20时19分]"
+        },
+        {
+          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2235638",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -170,18 +183,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时09分]"
-        },
-        {
-          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
-          "url": "https://www.cls.cn/detail/2235638",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
         }
       ]
     },
@@ -316,8 +317,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 19时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 20时19分]"
         }
       ]
     }
