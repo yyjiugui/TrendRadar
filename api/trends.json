@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T00:14:25.068580+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:11:49.371855+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
@@ -17,13 +17,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "美元 美债 美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
           "url": "https://wallstreetcn.com/livenews/3025022",
@@ -34,6 +56,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程庐山芯片发布，3A 游戏性能提升 15 倍，这会给国产游戏显卡市场带来哪些变化？",
+          "url": "https://www.zhihu.com/question/1985685922587624065",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     }
