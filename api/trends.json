@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T10:50:17.673230+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-12-23T11:56:21.621321+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时56分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -234,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时11分 ~ 11时56分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
@@ -275,11 +276,12 @@
             11,
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时11分 ~ 11时56分]"
         }
       ]
     },
