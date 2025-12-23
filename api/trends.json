@@ -1,8 +1,59 @@
 {
-  "generated_at": "2025-12-24T04:13:00.848523+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-12-24T05:11:49.282188+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元 美债 美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数23日下跌",
+          "url": "https://flash.jin10.com/detail/20251224044458759800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3025755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "周二（12月23日）纽约尾盘，ICE美元指数跌0.34%，报97.955点，日内交投区间为98.195-97.852点，北京时间20:32（美国GDP和耐用品订单数据发布前）刷新日低，之后一度回升至接近98.150的水平。 彭博美元指数跌0.34%，报1201.76点，日内交投区间为1205.35-1201.20点。",
+          "url": "https://wallstreetcn.com/livenews/3025753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
+          "url": "https://wallstreetcn.com/livenews/3025706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时12分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 1,
@@ -30,29 +81,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 美债 美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
-          "url": "https://wallstreetcn.com/livenews/3025706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
+            15,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时11分]"
         }
       ]
     }
