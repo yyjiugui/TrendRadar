@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-24T00:15:23.974952+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T01:13:36.873830+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251224000430869800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://yyjiugui.github.io/TrendRadar/img/news.jpg"
 }
