@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T12:31:05.252577+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-23T13:16:51.459726+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 9,
       "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223120023669800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
           "url": "https://flash.jin10.com/detail/20251223033826278800",
@@ -68,6 +57,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时12分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223120023669800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时16分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -132,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时16分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -246,8 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 12时31分]"
+          "appearance_count": 18,
+          "time_info": "[01时11分 ~ 13时16分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
@@ -291,8 +292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 12时31分]"
+          "appearance_count": 18,
+          "time_info": "[01时11分 ~ 13时16分]"
         }
       ]
     },
