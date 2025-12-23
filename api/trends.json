@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:11:24.814841+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-12-23T20:22:41.265614+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
@@ -144,7 +144,7 @@
     },
     {
       "keyword_group": "美元 美债 美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -170,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "（美股）费城金银指数收涨3.11%，报358.63点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.59%，报2549.22点，亚太时段以来微幅上涨，持稳于2480点附近，美股开盘时跳空走高——剩余时间高位震荡（大致呈现出M形走势）。",
@@ -284,8 +295,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时11分 ~ 19时11分]"
+          "appearance_count": 26,
+          "time_info": "[01时11分 ~ 20时22分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
