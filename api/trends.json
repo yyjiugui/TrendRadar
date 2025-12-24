@@ -1,305 +1,33 @@
 {
-  "generated_at": "2025-12-24T23:12:39.997995+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2025-12-25T00:15:00.462281+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 美债 美股",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3026259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时15分"
         },
         {
-          "title": "美元指数23日下跌",
-          "url": "https://flash.jin10.com/detail/20251224044458759800",
+          "title": "美股交投清淡 三大指数均持稳",
+          "url": "https://flash.jin10.com/detail/20251224230659751800",
           "source": "金十数据",
           "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
-          "url": "https://wallstreetcn.com/livenews/3025783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时11分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
-          "url": "https://wallstreetcn.com/livenews/3025706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时12分]"
-        },
-        {
-          "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3025755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "周二（12月23日）纽约尾盘，ICE美元指数跌0.34%，报97.955点，日内交投区间为98.195-97.852点，北京时间20:32（美国GDP和耐用品订单数据发布前）刷新日低，之后一度回升至接近98.150的水平。 彭博美元指数跌0.34%，报1201.76点，日内交投区间为1205.35-1201.20点。",
-          "url": "https://wallstreetcn.com/livenews/3025753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 23时12分]"
-        },
-        {
-          "title": "美元指数跌至97.777，为10月3日以来最低水平。欧元兑美元升至三个月高点1.180575。",
-          "url": "https://flash.jin10.com/detail/20251224094324089800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251224213209777800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
-          "url": "https://wallstreetcn.com/livenews/3025903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
-          "url": "https://wallstreetcn.com/livenews/3025785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美股开盘，道指跌0.1%，标普500指数跌0.03%，纳指跌0.02%。英特尔(INTC.O)跌3%，消息称英伟达暂停测试其18A制程工艺。耐克(NKE.N)涨3%，苹果CEO库克斥资约295万美元买入50000股耐克股票。德纳维制药(DVAX.O)涨38%，创四年来最大涨幅，赛诺菲斥资22亿美元收购德纳维制药。",
-          "url": "https://flash.jin10.com/detail/20251224223029222800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3025803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
-          "url": "https://flash.jin10.com/detail/20251224115857022800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时16分]"
-        },
-        {
-          "title": "北京市新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3026060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时16分]"
-        },
-        {
-          "title": "上海市新增9款已完成登记的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3025990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时19分]"
-        },
-        {
-          "title": "科技公司已利用华尔街投资者资助的特殊目的实体，将超过1200亿美元的数据中心支出从资产负债表上转移出去，这加剧了人们对他们在人工智能领域巨额投资所带来的财务风险的担忧。",
-          "url": "https://flash.jin10.com/detail/20251224130558797800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
-          "url": "https://wallstreetcn.com/livenews/3025901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
-          "url": "https://flash.jin10.com/detail/20251224000430869800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
-          "url": "https://wallstreetcn.com/livenews/3025735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时11分]"
-        },
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
-        },
-        {
-          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
-          "url": "https://flash.jin10.com/detail/20251224141858552800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "00时15分"
         }
       ]
     },
@@ -312,66 +40,28 @@
           "url": "https://www.cls.cn/detail/2238953",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 23时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
-          "url": "https://wallstreetcn.com/livenews/3026145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时12分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
-          "url": "https://wallstreetcn.com/livenews/3025770",
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
-          "url": "https://flash.jin10.com/detail/20251224130812700800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "00时15分"
         }
       ]
     }
