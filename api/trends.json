@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T08:53:40.790457+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2025-12-25T10:51:04.497664+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 10时51分]"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
