@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T10:51:04.497664+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-12-25T11:56:24.218713+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时56分]"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
@@ -103,7 +103,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225112406474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
