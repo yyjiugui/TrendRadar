@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-26T04:13:31.984790+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-12-26T05:11:25.583430+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
+          "url": "https://flash.jin10.com/detail/20251226040528613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -15,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时11分]"
         }
       ]
     },
@@ -32,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时11分]"
         }
       ]
     }
