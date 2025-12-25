@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T22:11:57.814830+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2025-12-25T23:11:53.942385+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
@@ -191,7 +191,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         }
@@ -211,8 +211,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 23时11分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
