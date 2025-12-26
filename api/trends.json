@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T16:16:14.864486+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-26T17:14:25.673077+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 17时14分]"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
@@ -175,8 +175,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 17时14分]"
         }
       ]
     },
