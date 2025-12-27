@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T10:45:53.407540+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-12-27T11:51:49.174580+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 11时51分]"
+        },
+        {
           "title": "美元指数本周跌约0.7%",
           "url": "https://wallstreetcn.com/livenews/3027455",
           "source": "华尔街见闻-快讯",
@@ -86,18 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时11分 ~ 08时52分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 10时45分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
