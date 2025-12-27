@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T11:51:49.174580+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-12-27T12:24:48.054825+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "ranks": [
             12,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 12时24分]"
         },
         {
           "title": "美元指数本周跌约0.7%",
