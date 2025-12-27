@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:12:28.889054+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-27T18:11:37.662258+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时11分]"
         },
         {
           "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
@@ -81,11 +82,12 @@
             12,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时52分 ~ 18时11分]"
         },
         {
           "title": "美元指数本周跌约0.7%",
