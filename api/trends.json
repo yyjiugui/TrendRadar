@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T14:46:04.382417+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-29T15:32:53.663839+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 14时46分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 15时32分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -98,6 +98,17 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 15时32分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -126,15 +137,18 @@
           "time_info": "[00时33分 ~ 05时25分]"
         },
         {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
           "ranks": [
-            10
+            29,
+            24,
+            23,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时54分 ~ 14时46分]"
+          "time_info": "[12时54分 ~ 15时32分]"
         },
         {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
@@ -262,19 +276,6 @@
           "time_info": "[03时21分 ~ 07时26分]"
         },
         {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 14时46分]"
-        },
-        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -362,6 +363,28 @@
           "time_info": "[04时31分 ~ 07时26分]"
         },
         {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时32分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://flash.jin10.com/detail/20251229041258772800",
           "source": "金十数据",
@@ -396,28 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时27分]"
-        },
-        {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "特朗普称俄乌“接近达成协议”",
@@ -720,7 +721,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -734,16 +735,28 @@
           "time_info": "[00时33分 ~ 11时54分]"
         },
         {
+          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
+          "url": "https://flash.jin10.com/detail/20251229150239734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时32分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
@@ -812,11 +825,12 @@
           "url": "https://wallstreetcn.com/livenews/3027940",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时32分]"
         }
       ]
     },
