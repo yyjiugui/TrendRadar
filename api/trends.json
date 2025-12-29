@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T20:59:05.567802+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-12-29T21:44:15.480626+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -39,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时45分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[14时45分 ~ 21时44分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -560,6 +560,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "特朗普见泽连斯基前后均与普京通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -977,8 +988,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 21时44分]"
         },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1031,7 +1042,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗：从俄罗斯发射三颗卫星到太空",
@@ -1047,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：周一，大量伊朗电话号码向以色列手机用户发送短信。以色列方面警告收件人不要回复。",
+          "url": "https://flash.jin10.com/detail/20251229213948529800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "三颗伊朗观测卫星搭乘俄火箭升空",
@@ -1084,11 +1106,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 20时59分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 21时44分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1098,8 +1121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 21时44分]"
         }
       ]
     },
