@@ -32,3 +32,7 @@ openai
 白酒
 !CBA
 !篮球
++价格
+
+github
+
