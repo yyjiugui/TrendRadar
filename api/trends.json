@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-05T18:34:40.389542+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-01-05T19:26:58.902067+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 19时26分]"
+        },
         {
           "title": "A股新年首个交易日迎开门红",
           "url": "https://www.toutiao.com/trending/7591770571378069030/",
@@ -31,18 +45,17 @@
           "time_info": "15时35分"
         },
         {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
+          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
+          "url": "https://www.cls.cn/detail/2248031",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            16,
-            17,
-            18
+            13,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时26分]"
         },
         {
           "title": "A股军工装备板块午后持续拉升，江龙船艇20cm涨停，中天火箭此前封板，北方长龙、长城军工、天海防务等多股拉升。",
@@ -62,11 +75,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时26分]"
         },
         {
           "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
@@ -81,16 +95,27 @@
           "time_info": "[13时40分 ~ 14时50分]"
         },
         {
-          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
-          "url": "https://www.cls.cn/detail/2248031",
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 19时26分]"
+        },
+        {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "A股开门红！沪指涨1.38%重回4000点，中证A500指数创阶段新高，脑机接口概念掀涨停潮",
@@ -102,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
-        },
-        {
-          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
-          "url": "https://www.cls.cn/detail/2248168",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "A股PCB概念股震荡拉升，胜宏科技涨近10%，深南电路涨近5%，股价续创历史新高，方邦股份、一博科技、方正科技、沪电股份、生益电子跟涨。",
@@ -206,7 +220,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -262,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
