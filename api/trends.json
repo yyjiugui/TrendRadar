@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T21:02:08.922724+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-01-05T21:49:52.270201+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股脑机接口概念集体爆发",
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 21时49分]"
         },
         {
           "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
@@ -32,8 +32,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 21时49分]"
+        },
+        {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时49分]"
         },
         {
           "title": "A股新年首个交易日迎开门红",
@@ -59,16 +71,18 @@
           "time_info": "15时35分"
         },
         {
-          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
-          "url": "https://www.cls.cn/detail/2248162",
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
           "source": "财联社热门",
           "ranks": [
-            11,
-            2
+            13,
+            9,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 21时49分]"
         },
         {
           "title": "A股军工装备板块午后持续拉升，江龙船艇20cm涨停，中天火箭此前封板，北方长龙、长城军工、天海防务等多股拉升。",
@@ -81,19 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时50分]"
-        },
-        {
-          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
-          "url": "https://www.cls.cn/detail/2248168",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "A股放量上涨收复4000点",
@@ -110,6 +111,18 @@
           "time_info": "[17时40分 ~ 21时02分]"
         },
         {
+          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 21时49分]"
+        },
+        {
           "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
           "url": "https://wallstreetcn.com/livenews/3030584",
           "source": "华尔街见闻-快讯",
@@ -122,15 +135,16 @@
           "time_info": "[13时40分 ~ 14时50分]"
         },
         {
-          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
-          "source": "澎湃新闻",
+          "title": "A股12连阳后怎么走",
+          "url": "https://www.toutiao.com/trending/7591825246697557514/",
+          "source": "今日头条",
           "ranks": [
-            20
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "time_info": "[21时02分 ~ 21时49分]"
         },
         {
           "title": "A股开门红！沪指涨1.38%重回4000点，中证A500指数创阶段新高，脑机接口概念掀涨停潮",
@@ -199,6 +213,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "A股脑机接口概念开盘大涨，三博脑科、美好医疗、岩山科技、创新医疗、南京熊猫等多股竞价涨停，翔宇医疗、爱朋医疗等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3030448",
           "source": "华尔街见闻-快讯",
@@ -210,6 +235,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "高盛：将中煤能源A股评级上调至买进，目标价15元人民币。 将兖矿能源A股评级上调至中性，目标价12元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3030889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "专家：三大利好助A股稳中有升",
           "url": "https://www.toutiao.com/trending/7591695597887819302/",
           "source": "今日头条",
@@ -219,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        },
-        {
-          "title": "A股12连阳后怎么走",
-          "url": "https://www.toutiao.com/trending/7591825246697557514/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "A股三大指数集体高开",
@@ -249,7 +274,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -257,7 +282,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -291,6 +316,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "汇丰策略师对美股接近最大程度超配",
+          "url": "https://wallstreetcn.com/livenews/3030912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105212007984800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -335,6 +382,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3030899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
+          "url": "https://flash.jin10.com/detail/20260105070426303800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美元指数DXY短线走低约10点，现报98.80。欧元兑美元EUR/USD日内跌幅达0.50%，现报1.1661。",
+          "url": "https://flash.jin10.com/detail/20260105210959234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -349,26 +435,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
-          "url": "https://flash.jin10.com/detail/20260105070426303800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "21时02分"
         }
       ]
     }
