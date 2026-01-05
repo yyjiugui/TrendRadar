@@ -1,567 +1,105 @@
 {
-  "generated_at": "2026-01-05T23:32:20.191046+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2026-01-06T00:36:23.496742+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 24,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16,
-            17,
-            18,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时34分 ~ 23时32分]"
-        },
         {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
           "url": "https://www.cls.cn/detail/2248162",
           "source": "财联社热门",
           "ranks": [
-            11,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 23时32分]"
-        },
-        {
-          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
-          "url": "https://www.cls.cn/detail/2248031",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时32分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
           "url": "https://www.cls.cn/detail/2248168",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "A股新年首个交易日迎开门红",
-          "url": "https://www.toutiao.com/trending/7591770571378069030/",
-          "source": "今日头条",
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
           "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 16时42分]"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105151438734800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时35分"
+          "time_info": "00时36分"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17,
-            19
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时01分 ~ 23时32分]"
-        },
-        {
-          "title": "A股军工装备板块午后持续拉升，江龙船艇20cm涨停，中天火箭此前封板，北方长龙、长城军工、天海防务等多股拉升。",
-          "url": "https://wallstreetcn.com/livenews/3030588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时50分]"
-        },
-        {
-          "title": "A股放量上涨收复4000点",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%94%BE%E9%87%8F%E4%B8%8A%E6%B6%A8%E6%94%B6%E5%A4%8D4000%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 21时02分]"
-        },
-        {
-          "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3030584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时32分]"
-        },
-        {
-          "title": "A股12连阳后怎么走",
-          "url": "https://www.toutiao.com/trending/7591825246697557514/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时49分]"
-        },
-        {
-          "title": "2026年A股开局透露哪些信号",
-          "url": "https://www.toutiao.com/trending/7591842589444148777/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时32分]"
-        },
-        {
-          "title": "A股开门红！沪指涨1.38%重回4000点，中证A500指数创阶段新高，脑机接口概念掀涨停潮",
-          "url": "https://wallstreetcn.com/livenews/3030644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "A股PCB概念股震荡拉升，胜宏科技涨近10%，深南电路涨近5%，股价续创历史新高，方邦股份、一博科技、方正科技、沪电股份、生益电子跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3030608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "A股三大指数高开 油气设服概念走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E6%B2%B9%E6%B0%94%E8%AE%BE%E6%9C%8D%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "A股商业航天概念延续涨势，雷科防务4连板，金风科技一字涨停，联创光电、久之洋、航天环宇、中国卫通等涨超6%，消息上，蓝箭航天科创板IPO获受理，公司拟融资金额75亿元。",
-          "url": "https://wallstreetcn.com/livenews/3030454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "A股油气股开盘强势，准油股份竞价涨停，通源石油、科力股份、潜能恒信、惠博普、石化油服等多股高开，消息上，美方已成功对委内瑞拉实施打击。",
-          "url": "https://wallstreetcn.com/livenews/3030450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "A股脑机接口概念开盘大涨，三博脑科、美好医疗、岩山科技、创新医疗、南京熊猫等多股竞价涨停，翔宇医疗、爱朋医疗等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3030448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "高盛：将中煤能源A股评级上调至买进，目标价15元人民币。 将兖矿能源A股评级上调至中性，目标价12元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3030889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "专家：三大利好助A股稳中有升",
-          "url": "https://www.toutiao.com/trending/7591695597887819302/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "A股三大指数集体高开",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "如何看A股新年开门红",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8BA%E8%82%A1%E6%96%B0%E5%B9%B4%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260105171032331800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260105070122345800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
-          "url": "https://flash.jin10.com/detail/20260105170758179800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "汇丰策略师对美股接近最大程度超配",
-          "url": "https://wallstreetcn.com/livenews/3030912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时32分]"
+          "time_info": "00时36分"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时32分]"
-        },
-        {
-          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "00时36分"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105212007984800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "2025年美股IPO成绩单：总体表现差强人意 基本面重归估值核心",
-          "url": "https://flash.jin10.com/detail/20260105221450191800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
-          "url": "https://wallstreetcn.com/articles/3762526",
-          "source": "华尔街见闻",
+          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3030982",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
-          "url": "https://flash.jin10.com/detail/20260105170146355800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
-          "url": "https://flash.jin10.com/detail/20260105190339497800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3030921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
-          "url": "https://wallstreetcn.com/livenews/3030899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美股无视委国变局领跑首周 市场静待非农就业数据",
-          "url": "https://flash.jin10.com/detail/20260105230128432800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
-          "url": "https://wallstreetcn.com/livenews/3030945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
-          "url": "https://flash.jin10.com/detail/20260105221438518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
-          "url": "https://flash.jin10.com/detail/20260105220255157800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
-          "url": "https://flash.jin10.com/detail/20260105070426303800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美元指数DXY短线走低约10点，现报98.80。欧元兑美元EUR/USD日内跌幅达0.50%，现报1.1661。",
-          "url": "https://flash.jin10.com/detail/20260105210959234800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
-          "url": "https://flash.jin10.com/detail/20260105200457445800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时36分"
         }
       ]
     }
