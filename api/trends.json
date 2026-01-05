@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:26:53.171013+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-06T04:33:40.505491+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
@@ -101,8 +101,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
@@ -140,11 +140,12 @@
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时33分]"
         }
       ]
     },
