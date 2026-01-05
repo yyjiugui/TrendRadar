@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T04:33:40.505491+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-01-06T05:29:09.289093+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -27,8 +27,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260106050521518800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3031100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260106050512402800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股收盘：道指创新高 雪佛龙涨5%",
+          "url": "https://flash.jin10.com/detail/20260106050116385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -77,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -88,8 +132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
@@ -101,8 +145,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
+        },
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 05时29分]"
         },
         {
           "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
@@ -116,18 +173,62 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 03时26分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3031019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
+          "url": "https://wallstreetcn.com/livenews/3031082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20260106042022412800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星今年将为8亿设备配备谷歌AI",
+          "url": "https://wallstreetcn.com/livenews/3031083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -141,28 +242,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3031019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时29分]"
         }
       ]
     }
