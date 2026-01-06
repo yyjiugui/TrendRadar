@@ -1,8 +1,201 @@
 {
-  "generated_at": "2026-01-06T14:44:39.311868+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-01-06T15:32:59.850611+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时27分]"
+        },
+        {
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时27分]"
+        },
+        {
+          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时28分]"
+        },
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时28分]"
+        },
+        {
+          "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
+        },
+        {
+          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
+          "url": "https://www.cls.cn/detail/2248740",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 15时32分]"
+        },
+        {
+          "title": "A股商业航天板块午后再度发力，中国卫通触及涨停，金风科技涨超8%再创新高，航天电子、中航西飞纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3031380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时44分]"
+        },
+        {
+          "title": "A股无人驾驶板块午后持续拉升，万集科技20cm涨停，雷尔伟、浙江世宝、合众思壮、兴民智通等股此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3031376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时44分]"
+        },
+        {
+          "title": "A股互联金融概念震荡走强，大智慧午后涨停，赢时胜，中科金财、瑞达期货、银之杰等纷纷冲高。同花顺短线走强涨超10%，成交额超69亿元。",
+          "url": "https://wallstreetcn.com/livenews/3031412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "超40家A股公司2025年业绩“预喜”，四大行业释放经营暖意",
+          "url": "https://wallstreetcn.com/livenews/3031140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "A股零售板块短线拉升，上海九百涨停，永辉超市涨超3%，百大集团、广百股份、茂业商业、益民集团等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3031398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "A股脑机接口概念继续大涨，三博脑科、美好医疗、创新医疗、普利特、塞力医疗、岩山科技、盈趣科技等均2连板，爱朋医疗、熵基科技、翔宇医疗、伟思医疗等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3031240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "A股风电板块震荡拉升，明阳智能尾盘涨停，远东股份此前封板，泰胜风能、中环海陆、电气风电、三一重能涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3031432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股放量2602亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%94%BE%E9%87%8F2602%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "业内：A股春季攻势与全面行情将继续",
+          "url": "https://www.toutiao.com/trending/7592087690342829595/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 13,
@@ -20,6 +213,18 @@
           "time_info": "[00时36分 ~ 06时28分]"
         },
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 15时32分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
@@ -34,18 +239,6 @@
           "time_info": "[00时36分 ~ 13时32分]"
         },
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时44分]"
-        },
-        {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
           "url": "https://www.cls.cn/detail/2248624",
           "source": "财联社热门",
@@ -55,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 15时32分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -164,154 +357,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
-          "url": "https://www.cls.cn/detail/2248162",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
-          "url": "https://www.cls.cn/detail/2248168",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时28分]"
-        },
-        {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时28分]"
-        },
-        {
-          "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时26分]"
-        },
-        {
-          "title": "A股商业航天板块午后再度发力，中国卫通触及涨停，金风科技涨超8%再创新高，航天电子、中航西飞纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3031380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时44分]"
-        },
-        {
-          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
-          "url": "https://www.cls.cn/detail/2248740",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时44分]"
-        },
-        {
-          "title": "A股无人驾驶板块午后持续拉升，万集科技20cm涨停，雷尔伟、浙江世宝、合众思壮、兴民智通等股此前涨停。",
-          "url": "https://wallstreetcn.com/livenews/3031376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时44分]"
-        },
-        {
-          "title": "A股互联金融概念震荡走强，大智慧午后涨停，赢时胜，中科金财、瑞达期货、银之杰等纷纷冲高。同花顺短线走强涨超10%，成交额超69亿元。",
-          "url": "https://wallstreetcn.com/livenews/3031412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "超40家A股公司2025年业绩“预喜”，四大行业释放经营暖意",
-          "url": "https://wallstreetcn.com/livenews/3031140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "A股零售板块短线拉升，上海九百涨停，永辉超市涨超3%，百大集团、广百股份、茂业商业、益民集团等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3031398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "A股脑机接口概念继续大涨，三博脑科、美好医疗、创新医疗、普利特、塞力医疗、岩山科技、盈趣科技等均2连板，爱朋医疗、熵基科技、翔宇医疗、伟思医疗等高开超10%。",
-          "url": "https://wallstreetcn.com/livenews/3031240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -324,8 +369,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时32分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
