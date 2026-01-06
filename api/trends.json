@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:34:36.205347+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-01-06T18:32:04.434219+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时27分]"
+        },
+        {
+          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
+          "url": "https://www.cls.cn/detail/2248740",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 18时32分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -44,28 +58,15 @@
           "time_info": "[00时36分 ~ 06时28分]"
         },
         {
-          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
-          "url": "https://www.cls.cn/detail/2248740",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 17时34分]"
-        },
-        {
           "title": "2026年A股牛市有望持续吗",
           "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时32分]"
         },
         {
           "title": "A股脑机接口概念集体爆发",
@@ -93,6 +94,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 03时26分]"
+        },
+        {
+          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
+          "url": "https://www.cls.cn/detail/2249345",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时32分]"
         },
         {
           "title": "A股商业航天板块午后再度发力，中国卫通触及涨停，金风科技涨超8%再创新高，航天电子、中航西飞纷纷拉升。",
@@ -153,17 +166,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
-          "url": "https://www.cls.cn/detail/2249345",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "A股零售板块短线拉升，上海九百涨停，永辉超市涨超3%，百大集团、广百股份、茂业商业、益民集团等纷纷走高。",
           "url": "https://wallstreetcn.com/livenews/3031398",
           "source": "华尔街见闻-快讯",
@@ -173,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "2025年12月A股新开户数259.67万户 2025年累计新开2743.69万户",
+          "url": "https://wallstreetcn.com/livenews/3031576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "A股脑机接口概念继续大涨，三博脑科、美好医疗、创新医疗、普利特、塞力医疗、岩山科技、盈趣科技等均2连板，爱朋医疗、熵基科技、翔宇医疗、伟思医疗等高开超10%。",
@@ -233,8 +246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 18时32分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -391,11 +404,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 18时32分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
