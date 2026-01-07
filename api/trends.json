@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:32:45.451047+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-01-07T14:43:48.017020+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时38分 ~ 10时10分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 14时43分]"
+        },
+        {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -45,28 +57,17 @@
           "time_info": "[00时38分 ~ 06时29分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时32分]"
-        },
-        {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
           "url": "https://wallstreetcn.com/articles/3762638",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 14时43分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -200,7 +201,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -245,7 +246,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -271,8 +272,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 14时43分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
@@ -285,6 +286,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 03时23分]"
+        },
+        {
+          "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时43分]"
         },
         {
           "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
@@ -320,15 +333,26 @@
           "time_info": "10时10分"
         },
         {
-          "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
-          "source": "澎湃新闻",
+          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3032136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "14时43分"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3032134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
