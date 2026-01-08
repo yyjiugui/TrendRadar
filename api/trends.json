@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:27:47.875976+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-01-08T21:01:13.040748+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 21时01分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -183,7 +183,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
@@ -226,11 +226,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 21时01分]"
         },
         {
           "title": "A股今日共112只个股涨停",
