@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-09T02:39:00.740733+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-01-09T03:26:48.938621+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
+          "url": "https://flash.jin10.com/detail/20260109021642687800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -16,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时26分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -28,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时26分]"
         }
       ]
     },
@@ -63,25 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 02时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
-          "url": "https://flash.jin10.com/detail/20260109021642687800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "appearance_count": 4,
+          "time_info": "[01时33分 ~ 03时26分]"
         }
       ]
     }
