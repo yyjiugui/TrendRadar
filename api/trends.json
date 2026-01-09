@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T17:35:57.828789+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-09T18:31:51.059827+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 18时31分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -32,6 +32,19 @@
           "time_info": "[00时39分 ~ 06时29分]"
         },
         {
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 18时31分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
           "url": "https://www.cls.cn/detail/2252454",
           "source": "财联社热门",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时24分 ~ 15时32分]"
-        },
-        {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 17时35分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -189,7 +189,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股创新药板块午后拉升，维康药业涨超15%，前沿生物、上海谊众涨超10%，联环药业、泓博医药、智翔金泰、诚达药业跟涨。",
@@ -201,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -255,7 +266,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
