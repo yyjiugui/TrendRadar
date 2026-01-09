@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T02:41:42.806590+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-10T03:26:34.638473+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -26,11 +27,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
+        },
+        {
+          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
+          "url": "https://wallstreetcn.com/livenews/3034339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时26分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -42,17 +56,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
-          "url": "https://wallstreetcn.com/livenews/3034339",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20260110030900508800",
+          "source": "金十数据",
           "ranks": [
-            18
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110030422872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -69,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
