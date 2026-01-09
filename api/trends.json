@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T13:33:11.691000+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-01-09T14:44:17.143243+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时39分 ~ 06时29分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 14时44分]"
+        },
+        {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2252232",
           "source": "财联社热门",
@@ -35,18 +47,6 @@
           "time_info": "[00时39分 ~ 10时11分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时33分]"
-        },
-        {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 14时44分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 14时44分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -273,7 +273,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
