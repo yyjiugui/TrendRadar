@@ -1,462 +1,106 @@
 {
-  "generated_at": "2026-01-10T23:27:08.013356+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-01-11T00:33:36.812192+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2253788",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时35分 ~ 23时27分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 16时35分]"
-        },
-        {
-          "title": "中信证券：人心思涨的环境下开年后A股市场震荡向上的概率更高",
-          "url": "https://wallstreetcn.com/livenews/3034482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 15时26分]"
-        },
-        {
-          "title": "券商：今年A股将现三大分化趋势",
-          "url": "https://www.toutiao.com/trending/7593276405656404006/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时28分]"
-        },
-        {
-          "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
-          "url": "https://www.cls.cn/detail/2253862",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时25分 ~ 23时27分]"
-        },
-        {
-          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 10时07分]"
-        },
-        {
-          "title": "李大霄谈A股3.15万亿成交量",
-          "url": "https://www.douyin.com/hot/2363461",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时26分]"
-        },
-        {
-          "title": "A股铜业上市公司业绩大幅回暖",
-          "url": "https://wallstreetcn.com/livenews/3034464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时42分]"
-        },
-        {
-          "title": "如何在A股商业航天板块选中真正龙头",
-          "url": "https://www.toutiao.com/trending/7593638265589075499/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时53分]"
-        },
-        {
-          "title": "A股16连阳 4100点上方是危险边缘吗",
-          "url": "https://www.toutiao.com/trending/7593268657476603401/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "李大霄谈A股3.15万亿成交量",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88A%E8%82%A13.15%E4%B8%87%E4%BA%BF%E6%88%90%E4%BA%A4%E9%87%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
-          "url": "https://flash.jin10.com/detail/20260109232712672800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "A股慢牛驶入2026",
-          "url": "https://www.toutiao.com/trending/7593703350294564406/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            13,
-            8,
-            5,
-            4,
-            2,
-            3,
-            6,
-            15
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时32分 ~ 15时26分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时07分 ~ 23时27分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时27分 ~ 21时34分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            4,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "UP主解读DeepSeek进化史",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 23时27分]"
-        },
-        {
-          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
-          "url": "https://www.zhihu.com/question/1993329446883651767",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时53分 ~ 23时27分]"
-        },
-        {
-          "title": "DeepSeek能第二次震惊世界吗",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 18时28分]"
-        },
-        {
-          "title": "DeepSeek准备第二次震惊全世界",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "00时33分"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "A股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
+          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2253788",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            9,
-            13,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 14时39分]"
-        },
-        {
-          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260110030422872800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "00时33分"
         },
         {
-          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://flash.jin10.com/detail/20260110030900508800",
-          "source": "金十数据",
+          "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
+          "url": "https://www.cls.cn/detail/2253862",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时32分]"
-        },
-        {
-          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3034365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时32分]"
-        },
-        {
-          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
-          "url": "https://flash.jin10.com/detail/20260110031815505800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "SB ENERGY：OpenAI签署1.2吉瓦数据中心租赁协议，用于初始数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260110031752436800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时07分 ~ 23时27分]"
-        },
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时28分]"
-        },
-        {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时28分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
-          "url": "https://wallstreetcn.com/livenews/3034432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
-          "url": "https://wallstreetcn.com/livenews/3034339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时26分]"
-        },
-        {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -466,100 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时07分 ~ 23时27分]"
-        },
-        {
-          "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
-          "url": "https://wallstreetcn.com/livenews/3034392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达挖角谷歌云业务高管",
-          "url": "https://wallstreetcn.com/livenews/3034397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌涨幅扩大至1.6%，报330.83美元/股，盘中市值突破4万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3034302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
-          "url": "https://wallstreetcn.com/livenews/3034411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
-          "url": "https://flash.jin10.com/detail/20260110115435338800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时26分]"
+          "time_info": "00时33分"
         }
       ]
     }
