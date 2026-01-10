@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T00:33:36.812192+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:24:45.325469+08:00",
+  "total_titles_processed": 338,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -26,19 +26,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -48,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     },
@@ -65,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -76,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     },
@@ -90,11 +91,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     },
@@ -107,11 +109,12 @@
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     }
