@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T19:23:13.797975+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-10T20:53:45.265623+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -29,11 +29,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 20时53分]"
         },
         {
           "title": "中信证券：人心思涨的环境下开年后A股市场震荡向上的概率更高",
@@ -90,6 +91,18 @@
           "time_info": "[10时07分 ~ 12时42分]"
         },
         {
+          "title": "如何在A股商业航天板块选中真正龙头",
+          "url": "https://www.toutiao.com/trending/7593638265589075499/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时53分]"
+        },
+        {
           "title": "A股16连阳 4100点上方是危险边缘吗",
           "url": "https://www.toutiao.com/trending/7593268657476603401/",
           "source": "今日头条",
@@ -112,15 +125,15 @@
           "time_info": "16时35分"
         },
         {
-          "title": "如何在A股商业航天板块选中真正龙头",
-          "url": "https://www.toutiao.com/trending/7593638265589075499/",
-          "source": "今日头条",
+          "title": "李大霄谈A股3.15万亿成交量",
+          "url": "https://www.douyin.com/hot/2363461",
+          "source": "抖音",
           "ranks": [
-            25
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "20时53分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -137,7 +150,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -168,8 +181,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时07分 ~ 20时53分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -183,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时27分 ~ 19时23分]"
+          "appearance_count": 18,
+          "time_info": "[07时27分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -197,8 +210,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 20时53分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -211,8 +224,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -238,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
@@ -334,8 +358,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时07分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[10时07分 ~ 20时53分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -414,8 +438,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时07分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[10时07分 ~ 20时53分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
