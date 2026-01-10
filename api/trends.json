@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:28:10.671377+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-01-10T18:28:07.392477+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时28分]"
         },
         {
           "title": "中信证券：人心思涨的环境下开年后A股市场震荡向上的概率更高",
@@ -55,11 +56,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时28分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
@@ -152,11 +154,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 17时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 18时28分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -169,8 +172,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -182,8 +185,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -192,11 +195,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 18时28分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -208,8 +212,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -317,8 +321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 18时28分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -397,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 18时28分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
