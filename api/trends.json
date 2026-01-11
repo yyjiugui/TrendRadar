@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:23:16.200735+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-01-11T20:54:43.915873+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 19时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -104,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 19时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 20时54分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -116,11 +116,12 @@
             9,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 19时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 20时54分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -151,6 +152,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "下周看点：美股Q4财报季拉开帷幕",
+          "url": "https://www.toutiao.com/trending/7593513607846166538/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -172,36 +214,6 @@
           "source": "百度热搜",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "下周看点：美股Q4财报季拉开帷幕",
-          "url": "https://www.toutiao.com/trending/7593513607846166538/",
-          "source": "今日头条",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
