@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T02:38:03.544128+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2026-01-12T03:22:07.260016+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -55,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     },
@@ -72,8 +72,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     },
@@ -89,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     }
