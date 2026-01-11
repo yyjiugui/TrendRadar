@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:29:03.316627+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-01-11T19:23:16.200735+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 18时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 19时23分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -104,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 18时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 19时23分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -115,11 +115,12 @@
             8,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 18时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 19时23分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -143,7 +144,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
