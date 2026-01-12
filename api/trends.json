@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:42:59.933759+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-13T03:28:08.118687+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "李大霄解读A股成交额创历史",
@@ -69,11 +69,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "A股涨疯了一天创2项纪录",
@@ -81,11 +82,12 @@
           "source": "微博",
           "ranks": [
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         }
       ]
     },
@@ -101,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -176,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -187,8 +189,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -199,8 +201,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时28分]"
         }
       ]
     }
