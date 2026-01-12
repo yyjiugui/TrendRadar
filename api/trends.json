@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:27:46.568933+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-12T21:02:00.362955+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时02分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -41,19 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时27分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时15分 ~ 21时02分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -65,8 +66,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时36分 ~ 21时02分]"
+        },
+        {
+          "title": "A股成交额破纪录",
+          "url": "https://www.douyin.com/hot/2365292",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时36分 ~ 19时27分]"
+          "time_info": "[15时34分 ~ 21时02分]"
+        },
+        {
+          "title": "A股今天为什么这么猛",
+          "url": "https://www.toutiao.com/trending/7594406924137795091/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "A股公司砸580万年薪返聘 最大近90岁",
@@ -81,29 +105,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时36分 ~ 18时34分]"
-        },
-        {
-          "title": "A股今天为什么这么猛",
-          "url": "https://www.toutiao.com/trending/7594406924137795091/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时27分]"
-        },
-        {
-          "title": "A股成交额破纪录",
-          "url": "https://www.douyin.com/hot/2365292",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 19时27分]"
         },
         {
           "title": "A股实现17连阳",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "李大霄解读A股成交额创历史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "龙头11连板 本周披露并购重组进展的A股名单一览",
@@ -228,6 +240,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时40分 ~ 19时27分]"
+        },
+        {
+          "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
+          "url": "https://www.cls.cn/detail/2255101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时02分]"
         },
         {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
@@ -376,17 +400,6 @@
           "time_info": "15时35分"
         },
         {
-          "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
-          "url": "https://www.cls.cn/detail/2255101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "增量资金加速流入，A股春季行情或仍有演绎空间",
           "url": "https://wallstreetcn.com/livenews/3034779",
           "source": "华尔街见闻-快讯",
@@ -453,13 +466,24 @@
           "time_info": "14时48分"
         },
         {
+          "title": "A股为何这么猛",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E7%8C%9B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "马光远：A股爆发背后的三重乐观叙事",
           "url": "https://www.toutiao.com/trending/7594401720633921078/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -481,19 +505,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时22分 ~ 19时27分]"
-        },
-        {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
@@ -504,6 +515,32 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时22分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 21时02分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -518,18 +555,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时22分 ~ 16时41分]"
-        },
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时27分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -595,6 +620,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时48分 ~ 21时02分]"
+        },
+        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -607,19 +645,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时48分 ~ 19时27分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
