@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T18:34:15.339190+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-01-12T19:27:46.568933+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时15分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 19时27分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -51,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时27分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -64,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时36分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时36分 ~ 19时27分]"
         },
         {
           "title": "A股公司砸580万年薪返聘 最大近90岁",
@@ -82,6 +83,18 @@
           "time_info": "[13时36分 ~ 18时34分]"
         },
         {
+          "title": "A股今天为什么这么猛",
+          "url": "https://www.toutiao.com/trending/7594406924137795091/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时27分]"
+        },
+        {
           "title": "A股成交额破纪录",
           "url": "https://www.douyin.com/hot/2365292",
           "source": "抖音",
@@ -89,19 +102,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 18时34分]"
-        },
-        {
-          "title": "A股今天为什么这么猛",
-          "url": "https://www.toutiao.com/trending/7594406924137795091/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 19时27分]"
         },
         {
           "title": "A股实现17连阳",
@@ -215,6 +217,19 @@
           "time_info": "[16时41分 ~ 18时34分]"
         },
         {
+          "title": "杨德龙：2026年A股牛市行情愈演愈烈",
+          "url": "https://www.toutiao.com/trending/7593606965743648777/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时27分]"
+        },
+        {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
@@ -250,16 +265,16 @@
           "time_info": "[14时48分 ~ 15时35分]"
         },
         {
-          "title": "杨德龙：2026年A股牛市行情愈演愈烈",
-          "url": "https://www.toutiao.com/trending/7593606965743648777/",
-          "source": "今日头条",
+          "title": "A股创新高的原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%88%9B%E6%96%B0%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            22,
-            12
+            30,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 19时27分]"
         },
         {
           "title": "A股午盘：三大指数集体上涨",
@@ -361,6 +376,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
+          "url": "https://www.cls.cn/detail/2255101",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "增量资金加速流入，A股春季行情或仍有演绎空间",
           "url": "https://wallstreetcn.com/livenews/3034779",
           "source": "华尔街见闻-快讯",
@@ -427,24 +453,24 @@
           "time_info": "14时48分"
         },
         {
+          "title": "马光远：A股爆发背后的三重乐观叙事",
+          "url": "https://www.toutiao.com/trending/7594401720633921078/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "和讯投顾：A股当前位置无需担心",
           "url": "https://www.toutiao.com/trending/7594364799674580998/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "A股创新高的原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%88%9B%E6%96%B0%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -464,8 +490,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时22分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时22分 ~ 19时27分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -498,11 +524,12 @@
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时27分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -582,6 +609,19 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时48分 ~ 19时27分]"
+        },
+        {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
           "url": "https://flash.jin10.com/detail/20260111230441184800",
           "source": "金十数据",
@@ -594,19 +634,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 18时34分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
