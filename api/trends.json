@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:33:25.893057+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2026-01-14T23:33:13.510925+08:00",
+  "total_titles_processed": 2129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时21分 ~ 22时33分]"
+          "appearance_count": 17,
+          "time_info": "[10时21分 ~ 23时33分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -144,9 +155,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
@@ -199,7 +221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -221,6 +243,19 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
+          "url": "https://www.cls.cn/detail/2257341",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时33分]"
+        },
+        {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
           "url": "https://wallstreetcn.com/articles/3763139",
           "source": "华尔街见闻",
@@ -234,19 +269,6 @@
           "time_info": "[00时41分 ~ 16时40分]"
         },
         {
-          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
-          "url": "https://www.cls.cn/detail/2257341",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时32分 ~ 22时33分]"
-        },
-        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -256,8 +278,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时33分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -266,11 +288,12 @@
           "ranks": [
             9,
             4,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 22时33分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 23时33分]"
         },
         {
           "title": "【监管“降温”组合拳出手 专家：政策调控旨在为市场“降温”，而非“熄火”】14日，A股三大指数冲高回落。截至收盘，沪指跌0.31%，报4126.09点；深证成指涨0.56%，创业板指涨0.82%。市场成交额逼近4万亿元，超半数个股上涨。午间收盘后，沪深北交易所发布通知，针对新开融资合约，适度调整融资保证金比例从80%提高至100%。午盘沪指迅速跳水翻绿，最低下跌0.85%至4103.62点。南开大学金融发展研究院院长田利辉表示，融资政策的调整叠加热门概念股的高效监管，说明A股监管的“组合拳”已经打出。政策调控旨在为市场“降温”，而非“熄火”，未来市场将更强调基本面与合规性。短期波动难免，但“慢牛”“长牛”格局正逐步夯实。投资者需摒弃短期博弈思维，以理性与耐心穿越市场波动，共享中国经济高质量发展的红利。（央广网）",
@@ -574,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时33分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
@@ -625,7 +648,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
