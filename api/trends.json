@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T10:21:44.380389+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-01-14T12:13:25.586670+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时21分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 12时13分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -40,9 +40,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 12时13分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -150,7 +150,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -162,6 +162,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 06时31分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 12时13分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -176,18 +188,6 @@
           "time_info": "[00时41分 ~ 05时29分]"
         },
         {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 10时21分]"
-        },
-        {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
@@ -198,6 +198,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 06时31分]"
+        },
+        {
+          "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
+          "url": "https://www.cls.cn/detail/2256720",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -255,8 +266,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时13分]"
         },
         {
           "title": "A股金融科技股震荡走高，同花顺涨超10%创新高，金桥信息、拉卡拉涨停，新致软件、汇金股份、四方精创等跟涨。",
@@ -265,7 +276,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -276,7 +287,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         }
@@ -297,8 +308,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时13分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -308,11 +319,12 @@
             10,
             6,
             9,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 10时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 12时13分]"
         }
       ]
     }
