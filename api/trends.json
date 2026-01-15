@@ -1,11 +1,259 @@
 {
-  "generated_at": "2026-01-15T19:27:51.279083+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-01-15T21:00:37.578557+08:00",
+  "total_titles_processed": 1912,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 15时32分]"
+        },
+        {
+          "title": "A股调整融资保证金有何影响",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            7,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 12时08分]"
+        },
+        {
+          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
+          "url": "https://www.cls.cn/detail/2257341",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时33分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115151900842800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股智能电网概念异动拉升，保变电气快速涨停，安靠智电涨近10%，摩恩电气、中国西电、新特电气、特变电工等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3037624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "A股算力硬件股震荡走强，环旭电子午后涨停，罗博特科、源杰科技、中际旭创、联特科技、仕佳光子、新易盛均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3037618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "A股半导体设备午后持续走强，矽电股份涨超10%盘中创新高，芯源微、京仪装备、中科飞测、强一股份、微导纳米跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3037549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时43分]"
+        },
+        {
+          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 21时00分]"
+        },
+        {
+          "title": "机构：A股或站上5000点",
+          "url": "https://www.toutiao.com/trending/7595224717343539209/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 21时00分]"
+        },
+        {
+          "title": "A股三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7595394704323756070/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时35分]"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
+          "title": "A股要慢牛不要疯牛",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A6%81%E6%85%A2%E7%89%9B%E4%B8%8D%E8%A6%81%E7%96%AF%E7%89%9B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时08分]"
+        },
+        {
+          "title": "A股卫星ETF(SH:563230)午后跌停，成分股中，中国卫星、航天电子、中国卫通等多股跌停。",
+          "url": "https://wallstreetcn.com/livenews/3037606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "融资保证金比例上调对A股有何影响",
+          "url": "https://www.toutiao.com/trending/7595143622165532214/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "A股三大指数集体翻红。",
+          "url": "https://wallstreetcn.com/livenews/3037438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "12月以来披露8起案例，A股公司跨境并购民企唱主角",
+          "url": "https://wallstreetcn.com/livenews/3037328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "A股调整到位了吗",
+          "url": "https://www.toutiao.com/trending/7595540979696799282/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "A股半日缩量3472亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E7%BC%A9%E9%87%8F3472%E4%BA%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "Penumbra股价盘前飙升10%。",
+          "url": "https://flash.jin10.com/detail/20260115200146419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "A股万科A短线拉升涨近5%。港股万科企业现涨近7%。万科境内债“22万科04”、“22万科02”、“22万科06”、“23万科01”和“21万科04”均涨超20%，临时停牌；“21万科06”跌20%，触发临停。",
+          "url": "https://wallstreetcn.com/livenews/3037571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "2026年A股机会藏在哪里",
+          "url": "https://www.toutiao.com/trending/7595502020291726884/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +263,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[10时09分 ~ 21时00分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -169,9 +417,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3037995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
@@ -183,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "高盛：第四季度净营收134.5亿美元，同比下降3%。 第四季度投资银行业务营收25.8亿美元，同比+25%。 第四季度每股收益14.01美元。 第四季度FICC业务销售和交易营收 31.1亿美元，市场预估29.5亿美元。 第四季度股票销售和交易业务营收43.1亿美元，市场预估36.5亿美元。 高盛美股盘前涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -202,7 +472,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -216,219 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 15时32分]"
-        },
-        {
-          "title": "A股调整融资保证金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            7,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 12时08分]"
-        },
-        {
-          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
-          "url": "https://www.cls.cn/detail/2257341",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时33分]"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-15）",
-          "url": "https://flash.jin10.com/detail/20260115151900842800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "A股智能电网概念异动拉升，保变电气快速涨停，安靠智电涨近10%，摩恩电气、中国西电、新特电气、特变电工等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3037624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "A股算力硬件股震荡走强，环旭电子午后涨停，罗博特科、源杰科技、中际旭创、联特科技、仕佳光子、新易盛均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3037618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "A股半导体设备午后持续走强，矽电股份涨超10%盘中创新高，芯源微、京仪装备、中科飞测、强一股份、微导纳米跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3037549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时43分]"
-        },
-        {
-          "title": "A股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7595394704323756070/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时35分]"
-        },
-        {
-          "title": "A股要慢牛不要疯牛",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A6%81%E6%85%A2%E7%89%9B%E4%B8%8D%E8%A6%81%E7%96%AF%E7%89%9B%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时08分]"
-        },
-        {
-          "title": "机构：A股或站上5000点",
-          "url": "https://www.toutiao.com/trending/7595224717343539209/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "A股卫星ETF(SH:563230)午后跌停，成分股中，中国卫星、航天电子、中国卫通等多股跌停。",
-          "url": "https://wallstreetcn.com/livenews/3037606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "融资保证金比例上调对A股有何影响",
-          "url": "https://www.toutiao.com/trending/7595143622165532214/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股三大指数集体翻红。",
-          "url": "https://wallstreetcn.com/livenews/3037438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "12月以来披露8起案例，A股公司跨境并购民企唱主角",
-          "url": "https://wallstreetcn.com/livenews/3037328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "A股半日缩量3472亿",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E7%BC%A9%E9%87%8F3472%E4%BA%BF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "A股万科A短线拉升涨近5%。港股万科企业现涨近7%。万科境内债“22万科04”、“22万科02”、“22万科06”、“23万科01”和“21万科04”均涨超20%，临时停牌；“21万科06”跌20%，触发临停。",
-          "url": "https://wallstreetcn.com/livenews/3037571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "2026年A股机会藏在哪里",
-          "url": "https://www.toutiao.com/trending/7595502020291726884/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         }
       ]
     },
@@ -523,8 +580,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 21时00分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -563,7 +620,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -577,6 +634,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 07时24分]"
+        },
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -632,7 +700,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -643,7 +711,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
