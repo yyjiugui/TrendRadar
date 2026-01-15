@@ -1,8 +1,312 @@
 {
-  "generated_at": "2026-01-15T22:32:31.951170+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2026-01-15T23:34:09.281007+08:00",
+  "total_titles_processed": 2196,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时09分 ~ 23时34分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时24分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时43分]"
+        },
+        {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时33分]"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
+        },
+        {
+          "title": "科技股重挫拖累美股，银铜新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
+          "url": "https://flash.jin10.com/detail/20260115142957597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3037301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260115050531249800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260115050517521800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：纳指跌1% 携程跌17%",
+          "url": "https://flash.jin10.com/detail/20260115050258501800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
+          "url": "https://wallstreetcn.com/livenews/3037317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时24分]"
+        },
+        {
+          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3037995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
+          "url": "https://wallstreetcn.com/livenews/3037834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "高盛：第四季度净营收134.5亿美元，同比下降3%。 第四季度投资银行业务营收25.8亿美元，同比+25%。 第四季度每股收益14.01美元。 第四季度FICC业务销售和交易营收 31.1亿美元，市场预估29.5亿美元。 第四季度股票销售和交易业务营收43.1亿美元，市场预估36.5亿美元。 高盛美股盘前涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股集体高开 半导体板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260115013113108800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "台积电美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3037925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260115013047739800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115215848815800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3038083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "A股",
       "match_count": 23,
@@ -47,6 +351,31 @@
           "time_info": "[00时39分 ~ 01时33分]"
         },
         {
+          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 23时34分]"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时59分 ~ 23时34分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-01-15）",
           "url": "https://flash.jin10.com/detail/20260115151900842800",
           "source": "金十数据",
@@ -80,18 +409,6 @@
           "time_info": "14时43分"
         },
         {
-          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 22时32分]"
-        },
-        {
           "title": "A股半导体设备午后持续走强，矽电股份涨超10%盘中创新高，芯源微、京仪装备、中科飞测、强一股份、微导纳米跟涨。",
           "url": "https://wallstreetcn.com/livenews/3037549",
           "source": "华尔街见闻-快讯",
@@ -116,17 +433,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时27分 ~ 22时32分]"
-        },
-        {
-          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
-          "url": "https://wallstreetcn.com/articles/3763340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时59分 ~ 22时32分]"
         },
         {
           "title": "A股调整到位了吗",
@@ -259,7 +565,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -277,266 +583,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 22时32分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 07时24分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时42分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时43分]"
-        },
-        {
-          "title": "美股集体低开 携程跌近17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时33分]"
-        },
-        {
-          "title": "科技股重挫拖累美股，银铜新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
-          "url": "https://flash.jin10.com/detail/20260115142957597800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3037301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260115050531249800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260115050517521800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：纳指跌1% 携程跌17%",
-          "url": "https://flash.jin10.com/detail/20260115050258501800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
-          "url": "https://wallstreetcn.com/livenews/3037317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时24分]"
-        },
-        {
-          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3037945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3037995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
-          "url": "https://wallstreetcn.com/livenews/3037834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "高盛：第四季度净营收134.5亿美元，同比下降3%。 第四季度投资银行业务营收25.8亿美元，同比+25%。 第四季度每股收益14.01美元。 第四季度FICC业务销售和交易营收 31.1亿美元，市场预估29.5亿美元。 第四季度股票销售和交易业务营收43.1亿美元，市场预估36.5亿美元。 高盛美股盘前涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3037993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3038052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260115013113108800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "台积电美股盘前涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3037925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260115013047739800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
-          "url": "https://flash.jin10.com/detail/20260115215848815800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
@@ -548,8 +594,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时32分]"
+          "appearance_count": 4,
+          "time_info": "[21时49分 ~ 23时34分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -637,11 +683,12 @@
             11,
             14,
             23,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 23时34分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -701,11 +748,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时59分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[20时59分 ~ 23时34分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
