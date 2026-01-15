@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:31:19.838291+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-16T04:34:45.538845+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -28,19 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时34分]"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -69,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -120,11 +121,12 @@
             20,
             21,
             17,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         }
       ]
     },
@@ -140,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
@@ -152,8 +154,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         }
       ]
     },
@@ -167,11 +169,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时34分]"
         }
       ]
     },
