@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T05:29:43.169534+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-16T06:29:57.971667+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -28,63 +28,68 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260116050523142800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
           "url": "https://wallstreetcn.com/livenews/3038227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260116050517374800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3038226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
           "url": "https://wallstreetcn.com/livenews/3038225",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -95,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 06时29分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
@@ -105,9 +110,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
+          "url": "https://wallstreetcn.com/livenews/3038238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -136,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -187,7 +203,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -198,7 +214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -208,17 +224,6 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
-        {
-          "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
-          "url": "https://flash.jin10.com/detail/20260116010451484800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
         {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
@@ -231,8 +236,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
+        },
+        {
+          "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
+          "url": "https://flash.jin10.com/detail/20260116010451484800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     },
@@ -248,8 +264,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
@@ -279,8 +295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         }
       ]
     }
