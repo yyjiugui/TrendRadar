@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-16T17:34:34.323115+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-01-16T18:33:18.948673+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 18时33分]"
+        },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 07时28分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 17时34分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -56,6 +56,20 @@
           "time_info": "[07时28分 ~ 13时33分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时33分 ~ 18时33分]"
+        },
+        {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -65,19 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 17时34分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -182,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -193,7 +194,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -212,7 +213,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -267,11 +268,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时33分]"
         },
         {
           "title": "A股收盘：沪指险守4100点",
@@ -295,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "A股四连跌是反转信号还是慢牛休整",
+          "url": "https://www.toutiao.com/trending/7595875962982501942/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "广东清远：“十四五”期间新增A股上市企业数居粤东西北前列",
@@ -394,8 +407,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 17时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 18时33分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
