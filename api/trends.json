@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T02:37:49.241812+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-01-18T03:21:20.709467+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
@@ -26,8 +26,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
