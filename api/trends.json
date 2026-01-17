@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T14:40:07.728717+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-01-17T15:26:13.153750+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,21 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 15时26分]"
+        },
+        {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
           "url": "https://www.cls.cn/detail/2260838",
           "source": "财联社热门",
@@ -31,21 +46,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时38分 ~ 13时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时40分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -158,7 +158,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -181,11 +181,23 @@
             13,
             14,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 15时26分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
