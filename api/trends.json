@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:28:04.372634+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-17T18:28:04.823845+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 18时28分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -158,7 +159,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -180,8 +181,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时28分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -274,6 +275,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
+        },
+        {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -386,7 +398,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "官媒：A股不要“疯牛”要“长牛”",
@@ -394,22 +406,52 @@
           "source": "今日头条",
           "ranks": [
             5,
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时28分]"
+        },
+        {
+          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2261163",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "A股为何四连跌退守4100点",
           "url": "https://www.toutiao.com/trending/7595882246855200306/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     }
