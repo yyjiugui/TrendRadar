@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:34:14.992350+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-17T22:26:24.498323+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时27分 ~ 21时34分]"
+          "appearance_count": 20,
+          "time_info": "[07时27分 ~ 22时26分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -171,8 +171,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 22时26分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -370,8 +370,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时26分]"
         },
         {
           "title": "央广财评：坚持稳字当头 A股要的不是“疯牛”而是“长牛”",
@@ -380,11 +380,12 @@
           "ranks": [
             3,
             15,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时26分]"
         },
         {
           "title": "官媒：A股不要“疯牛”要“长牛”",
@@ -406,11 +407,12 @@
           "ranks": [
             6,
             14,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时26分]"
         },
         {
           "title": "A股为何四连跌退守4100点",
