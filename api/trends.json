@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T22:26:24.498323+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-01-17T23:27:11.830756+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时27分 ~ 22时26分]"
+          "appearance_count": 22,
+          "time_info": "[07时27分 ~ 23时27分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -168,11 +168,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 22时26分]"
+          "appearance_count": 9,
+          "time_info": "[15时26分 ~ 23时27分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -370,8 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时27分 ~ 22时26分]"
+          "appearance_count": 10,
+          "time_info": "[18时27分 ~ 23时27分]"
         },
         {
           "title": "央广财评：坚持稳字当头 A股要的不是“疯牛”而是“长牛”",
@@ -388,6 +389,21 @@
           "time_info": "[19时23分 ~ 22时26分]"
         },
         {
+          "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
+          "url": "https://wallstreetcn.com/livenews/3039118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            18,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 23时27分]"
+        },
+        {
           "title": "官媒：A股不要“疯牛”要“长牛”",
           "url": "https://www.toutiao.com/trending/7595911602277793819/",
           "source": "今日头条",
@@ -399,20 +415,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时34分 ~ 18时28分]"
-        },
-        {
-          "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
-          "url": "https://wallstreetcn.com/livenews/3039118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 22时26分]"
         },
         {
           "title": "A股为何四连跌退守4100点",
