@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:28:35.905305+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-01-18T18:28:58.064074+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时40分 ~ 18时28分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -40,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 18时28分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -83,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时28分]"
         },
         {
           "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
