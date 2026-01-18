@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T19:22:29.697059+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-01-18T20:53:51.638230+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 20时53分]"
         },
         {
           "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
@@ -45,6 +46,18 @@
           "time_info": "[14时41分 ~ 15时26分]"
         },
         {
+          "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2261401",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时53分]"
+        },
+        {
           "title": "下周A股怎么走",
           "url": "https://www.toutiao.com/trending/7595966744246861830/",
           "source": "今日头条",
@@ -61,22 +74,23 @@
           "url": "https://flash.jin10.com/detail/20260118180625220800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时53分]"
         },
         {
-          "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2261401",
-          "source": "财联社热门",
+          "title": "招商策略：A股在创出前期新高后，有望转为震荡走势",
+          "url": "https://flash.jin10.com/detail/20260118192505005800",
+          "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "20时53分"
         }
       ]
     },
@@ -84,6 +98,19 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 20时53分]"
+        },
         {
           "title": "解读ChatGPT加入广告背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
@@ -97,19 +124,6 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 19时22分]"
-        },
-        {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
@@ -118,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时30分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[13时30分 ~ 20时53分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -155,11 +169,12 @@
           "url": "https://wallstreetcn.com/articles/3763534",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时53分]"
         }
       ]
     },
