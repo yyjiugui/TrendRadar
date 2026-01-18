@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:24:57.980599+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-01-19T06:27:06.098972+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -54,11 +54,12 @@
             16,
             18,
             10,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "A股哪类板块值得关注",
@@ -86,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -116,8 +117,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时27分]"
         }
       ]
     },
