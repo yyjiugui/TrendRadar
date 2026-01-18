@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-19T04:31:10.736997+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-01-19T05:24:57.980599+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2261451",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2261163",
@@ -17,20 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
-        },
-        {
-          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2261451",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
@@ -41,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -56,8 +57,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "A股哪类板块值得关注",
@@ -85,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -115,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时24分]"
         }
       ]
     },
@@ -130,11 +131,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         }
       ]
     }
