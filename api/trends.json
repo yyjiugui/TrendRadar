@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T14:50:42.219023+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-01-19T15:35:56.317557+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
@@ -70,11 +70,12 @@
           "url": "https://wallstreetcn.com/livenews/3039578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时35分]"
         },
         {
           "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
@@ -118,9 +119,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "A股收盘：沪指缩量涨0.29%，黄金、电网设备股走强",
+          "url": "https://wallstreetcn.com/livenews/3039595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -166,7 +178,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -182,13 +194,24 @@
           "time_info": "[00时33分 ~ 05时24分]"
         },
         {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
           "url": "https://wallstreetcn.com/livenews/3039552",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -205,11 +228,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 14时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 15时35分]"
         }
       ]
     }
