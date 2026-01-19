@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T10:23:29.804278+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-19T12:16:48.833865+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时16分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -124,7 +124,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         }
@@ -140,11 +140,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时16分]"
         }
       ]
     },
