@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:42:37.361549+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-01-19T17:42:43.532206+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时27分]"
+        },
+        {
+          "title": "A股超3500股上涨",
+          "url": "https://www.toutiao.com/trending/7596541352129593350/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
@@ -142,7 +153,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -150,7 +161,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -183,9 +194,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
