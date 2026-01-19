@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T07:27:03.158248+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-19T10:23:29.804278+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -40,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -82,7 +84,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -90,7 +92,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -100,8 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -114,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -130,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时23分]"
         }
       ]
     },
