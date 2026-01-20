@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T17:40:18.013982+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-20T18:37:03.429656+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -167,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时37分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -210,7 +210,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -221,7 +221,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -274,7 +274,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -353,11 +353,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
@@ -397,11 +398,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时37分]"
         }
       ]
     }
