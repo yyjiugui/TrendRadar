@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-01-21T04:17:06.069354+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-01-21T05:29:02.106652+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
+        },
+        {
+          "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
+          "url": "https://flash.jin10.com/detail/20260121032659165800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260121050558433800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260121050557571800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股收盘：三大股指大跌 英伟达跌超4%",
+          "url": "https://flash.jin10.com/detail/20260121050048735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015850758800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015752975800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
@@ -37,7 +142,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -59,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -70,81 +175,49 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3040609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时55分]"
         },
         {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时17分]"
-        },
-        {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时17分]"
-        },
-        {
-          "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
-          "url": "https://flash.jin10.com/detail/20260121032659165800",
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20260121044831880800",
           "source": "金十数据",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "05时29分"
         },
         {
-          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260121015850758800",
-          "source": "金十数据",
+          "title": "美元指数跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3040662",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260121015752975800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "05时29分"
         }
       ]
     },
@@ -159,29 +232,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3040609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
         }
       ]
     },
