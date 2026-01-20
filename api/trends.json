@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:37:03.429656+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-20T19:31:48.830802+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -167,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 18时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时28分 ~ 19时31分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -354,11 +354,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
@@ -399,11 +400,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时31分]"
         }
       ]
     }
