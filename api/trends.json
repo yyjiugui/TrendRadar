@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:21:43.102385+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-01-21T12:10:20.935891+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时43分 ~ 06时29分]"
         },
         {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 12时10分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -30,19 +44,6 @@
           "time_info": "[00时43分 ~ 05时29分]"
         },
         {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 10时21分]"
-        },
-        {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
@@ -50,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时10分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -59,22 +60,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时10分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
           "url": "https://www.cls.cn/detail/2264320",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 12时10分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -196,7 +199,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
@@ -205,7 +208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -244,6 +247,39 @@
           "time_info": "04时17分"
         },
         {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
+          "url": "https://flash.jin10.com/detail/20260121113200635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
           "url": "https://flash.jin10.com/detail/20260121002446496800",
           "source": "金十数据",
@@ -280,7 +316,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股行情",
@@ -294,6 +330,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2374735",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
@@ -313,7 +360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -324,9 +371,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "A股贵金属板块涨幅扩大，中国瑞林直线涨停，招金黄金、白银有色、湖南白银等多股封板，四川黄金、豫光金铅涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3040911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -367,6 +425,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260121115138760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "钻石价格大跌 同期黄金价格涨超400%",
+          "url": "https://www.toutiao.com/trending/7596937973166833710/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
