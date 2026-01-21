@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:36:27.931036+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-01-21T14:48:33.311594+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时48分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -76,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时21分 ~ 14时48分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 14时48分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
@@ -161,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
-          "url": "https://www.cls.cn/detail/2264507",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
         },
         {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
@@ -275,7 +276,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -338,8 +339,21 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2374735",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时48分]"
+        },
         {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=29&Refer=top",
@@ -354,16 +368,15 @@
           "time_info": "[00时44分 ~ 07时31分]"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2374735",
-          "source": "抖音",
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
@@ -383,7 +396,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -394,7 +407,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -416,9 +429,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "A股CPO概念股持续走高，致尚科技20CM涨停，联特科技、罗博特科、科翔股份、思瑞浦均涨超10%，兴森科技、通富微电等此前涨停，快克智能、本川智能、南亚新材等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3040991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "A股贵金属板块开盘领涨，湖南白银逼近涨停，晓程科技、山东黄金涨超5%，赤峰黄金、山金国际、西部黄金、招金黄金等跟涨。",
@@ -437,6 +461,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "对价格“不敏感”的央行需求或将支撑黄金",
+          "url": "https://flash.jin10.com/detail/20260121143821991800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260121115138760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "钻石价格大跌 同期黄金价格涨超400%",
+          "url": "https://www.toutiao.com/trending/7596937973166833710/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -485,34 +548,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260121115138760800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "钻石价格大跌 同期黄金价格涨超400%",
-          "url": "https://www.toutiao.com/trending/7596937973166833710/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -522,11 +557,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时48分]"
         }
       ]
     },
