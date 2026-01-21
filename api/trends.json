@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:40:48.658878+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-21T18:38:01.127893+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 17时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时30分 ~ 18时38分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -154,6 +154,17 @@
           "time_info": "[06时29分 ~ 07时31分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -205,7 +216,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -216,7 +227,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -256,6 +267,156 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260121100758131800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时37分]"
+        },
+        {
+          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
+          "url": "https://flash.jin10.com/detail/20260121010536923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
+          "url": "https://wallstreetcn.com/livenews/3040648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
+          "url": "https://flash.jin10.com/detail/20260121113200635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "马斯克：不要让你的亲人使用 ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260121002446496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
+          "url": "https://flash.jin10.com/detail/20260121030605835800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
+          "url": "https://flash.jin10.com/detail/20260121030319652800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 13,
       "titles": [
@@ -269,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时48分 ~ 18时38分]"
         },
         {
           "title": "A股",
@@ -411,137 +572,23 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260121100758131800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3040591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时37分]"
-        },
-        {
-          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
-          "url": "https://flash.jin10.com/detail/20260121010536923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
-          "url": "https://wallstreetcn.com/livenews/3040648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
-          "url": "https://flash.jin10.com/detail/20260121113244610800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
-          "url": "https://flash.jin10.com/detail/20260121131506452800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3040928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
-          "url": "https://flash.jin10.com/detail/20260121113200635800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "马斯克：不要让你的亲人使用 ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260121002446496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
-          "url": "https://flash.jin10.com/detail/20260121030605835800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
-          "url": "https://flash.jin10.com/detail/20260121030319652800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 18时38分]"
+        },
         {
           "title": "对价格“不敏感”的央行需求或将支撑黄金",
           "url": "https://flash.jin10.com/detail/20260121143821991800",
@@ -552,19 +599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 17时40分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
@@ -643,11 +677,12 @@
             6,
             8,
             5,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 18时38分]"
         }
       ]
     },
