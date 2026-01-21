@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T05:35:31.865664+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-22T06:33:02.817882+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 06时33分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -28,52 +28,56 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 06时33分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3041528",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260122050522975800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260122050514062800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
         },
         {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
           "url": "https://flash.jin10.com/detail/20260122050202493800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -89,6 +93,18 @@
           "time_info": "[03时34分 ~ 05时35分]"
         },
         {
+          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3041520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
+        },
+        {
           "title": "美股涨幅大幅收窄，数字货币大跌",
           "url": "https://wallstreetcn.com/livenews/3041446",
           "source": "华尔街见闻-快讯",
@@ -101,15 +117,26 @@
           "time_info": "[02时53分 ~ 03时34分]"
         },
         {
-          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3041520",
+          "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
+          "url": "https://wallstreetcn.com/livenews/3041537",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时33分"
+        },
+        {
+          "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3041529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
@@ -151,6 +178,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260122045020837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
+        },
+        {
           "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
           "url": "https://wallstreetcn.com/livenews/3041496",
           "source": "华尔街见闻-快讯",
@@ -173,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时34分]"
-        },
-        {
-          "title": "美元指数21日上涨",
-          "url": "https://flash.jin10.com/detail/20260122045020837800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     },
@@ -199,8 +227,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 06时33分]"
         }
       ]
     },
@@ -219,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时35分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时33分]"
         }
       ]
     },
@@ -255,8 +283,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 06时33分]"
         }
       ]
     }
