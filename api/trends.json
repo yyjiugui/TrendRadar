@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T13:36:21.373589+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-01-22T14:46:22.864365+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时46分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时46分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -64,6 +64,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时46分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -101,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时36分]"
         },
         {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
@@ -224,7 +224,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股中字头个股震荡走高，中信重工、中国铁物、中国一重涨停，中国软件、中国核建、中国通号、中钨高新、中稀有色跟涨。",
@@ -244,7 +244,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -280,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "A股可控核聚变板块震荡走高，浙富控股午后涨停，雪人集团、西部材料此前封板，中国核建、哈焊华通、王子新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3041785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -357,11 +368,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时46分]"
         },
         {
           "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
@@ -442,8 +454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时46分]"
         }
       ]
     },
@@ -481,7 +493,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         }
