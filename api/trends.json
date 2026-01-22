@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-22T16:42:04.876724+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-01-22T17:40:28.674520+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 17时40分]"
+        },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
@@ -32,17 +43,6 @@
           "time_info": "[01时05分 ~ 06时33分]"
         },
         {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 16时42分]"
-        },
-        {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
           "url": "https://www.cls.cn/detail/2265761",
           "source": "财联社热门",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 16时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 17时40分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "格陵兰养老基金考虑因特朗普“夺岛”言论撤出美股投资",
+          "url": "https://wallstreetcn.com/livenews/3041951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -127,6 +138,18 @@
           "time_info": "[05时35分 ~ 06时33分]"
         },
         {
+          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
+          "url": "https://www.cls.cn/detail/2266096",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时40分]"
+        },
+        {
           "title": "美股集体高开 百度涨5%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
           "source": "百度热搜",
@@ -164,17 +187,6 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
-          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
-          "url": "https://www.cls.cn/detail/2266096",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
           "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
           "url": "https://wallstreetcn.com/livenews/3041529",
           "source": "华尔街见闻-快讯",
@@ -187,6 +199,18 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "高盛：美股别追涨要抄底",
+          "url": "https://www.toutiao.com/trending/7598077319067995686/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时40分]"
+        },
+        {
           "title": "美股涨幅大幅收窄，数字货币大跌",
           "url": "https://wallstreetcn.com/livenews/3041446",
           "source": "华尔街见闻-快讯",
@@ -197,6 +221,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时34分]"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)美股盘前一度涨超5%，消息面上，公司据悉拟让AI芯片制造部门“平头哥”进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260122170412556800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "美股盘前，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
@@ -221,6 +267,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "阿里巴巴美股夜盘直线拉升，现涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3041923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260122014724780800",
           "source": "金十数据",
@@ -230,23 +287,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        },
-        {
-          "title": "高盛：美股别追涨要抄底",
-          "url": "https://www.toutiao.com/trending/7598077319067995686/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股中字头个股震荡走高，中信重工、中国铁物、中国一重涨停，中国软件、中国核建、中国通号、中钨高新、中稀有色跟涨。",
@@ -313,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "A股可控核聚变板块震荡走高，浙富控股午后涨停，雪人集团、西部材料此前封板，中国核建、哈焊华通、王子新材跟涨。",
@@ -427,7 +484,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
