@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T23:39:05.600581+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-01-23T00:43:33.884663+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -15,682 +15,86 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时22分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
+          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
+          "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时33分]"
-        },
-        {
-          "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
           "url": "https://wallstreetcn.com/articles/3763863",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时22分 ~ 23时39分]"
-        },
-        {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍走高，网络股指数ETF涨1.8%，全球航空业ETF、半导体ETF、全球科技股指数ETF、科技行业ETF至少涨1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3042144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3041528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时33分]"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050522975800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050514062800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "美股收盘：特朗普助力 三大股指涨超1%",
-          "url": "https://flash.jin10.com/detail/20260122050202493800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "格陵兰养老基金考虑因特朗普“夺岛”言论撤出美股投资",
-          "url": "https://wallstreetcn.com/livenews/3041951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
-          "url": "https://www.cls.cn/detail/2266096",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时36分]"
-        },
-        {
-          "title": "美股集体高开 百度涨5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时35分]"
-        },
-        {
-          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3041520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
-          "url": "https://wallstreetcn.com/livenews/3041537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
-          "url": "https://wallstreetcn.com/livenews/3041529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "高盛：美股别追涨要抄底",
-          "url": "https://www.toutiao.com/trending/7598077319067995686/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时40分]"
-        },
-        {
-          "title": "美股涨幅大幅收窄，数字货币大跌",
-          "url": "https://wallstreetcn.com/livenews/3041446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时34分]"
-        },
-        {
-          "title": "雅培第四季度净销售额114.6亿美元，预估118亿美元。 第四季度经调整后每股收益1.5美元，预估1.5美元。 雅培预计2026年经调整后每股收益5.55-5.8美元，市场预估5.68美元。 雅培美股盘前跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3042079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股盘前一度涨超5%，消息面上，公司据悉拟让AI芯片制造部门“平头哥”进行IPO。",
-          "url": "https://flash.jin10.com/detail/20260122170412556800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-22）",
-          "url": "https://flash.jin10.com/detail/20260122214419415800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "美股盘前，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3041934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3041483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260122014817463800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "阿里巴巴美股夜盘直线拉升，现涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3041923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260122014724780800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3042112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "A股中字头个股震荡走高，中信重工、中国铁物、中国一重涨停，中国软件、中国核建、中国通号、中钨高新、中稀有色跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3041665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "A股商业航天板块午后维持活跃，信维通信涨超10%，北摩高科涨停，航宇科技、天银机电、天宜新材纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3041768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "A股商业航天概念震荡拉升，三角防务20cm涨停，北摩高科、航宇科技、航天电子、江航装备、航发科技等涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3041659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "A股“易中天”大涨",
-          "url": "https://www.toutiao.com/trending/7598039639648026630/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时38分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "A股油气股震荡拉升，洲际油气、和顺石油双双涨停，科力股份、潜能恒信涨超7%，中国海油、中国石油、泰山石油、中国石化等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3041652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "A股存储芯片板块延续强势，盈方微3连板，朗科科技涨超10%，澜起科技、聚辰股份、广合科技、普冉股份等涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3041643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "A股收盘：创业板指探底回升涨超1%，商业航天、油气股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3041849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "兆易创新：使用A股募集资金5亿元向全资子公司增资",
-          "url": "https://wallstreetcn.com/livenews/3042048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "A股短线仍有红盘可能",
-          "url": "https://www.toutiao.com/trending/7597762493546217499/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "A股可控核聚变板块震荡走高，浙富控股午后涨停，雪人集团、西部材料此前封板，中国核建、哈焊华通、王子新材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3041785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
-          "url": "https://wallstreetcn.com/livenews/3041424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
-          "url": "https://flash.jin10.com/detail/20260122063934524800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时43分"
         },
         {
-          "title": "为了500亿美元巨额融资，OpenAI的CEO会见中东投资者",
-          "url": "https://wallstreetcn.com/livenews/3041550",
+          "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3042182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20260122063100035800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 07时33分]"
-        },
-        {
-          "title": "黄金价格会崩吗",
-          "url": "https://www.toutiao.com/trending/7597976651418308122/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时35分]"
-        },
-        {
-          "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
-          "url": "https://flash.jin10.com/detail/20260122105858083800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "黄金价格再创新高背后",
-          "url": "https://www.toutiao.com/trending/7597964523915447862/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数21日上涨",
-          "url": "https://flash.jin10.com/detail/20260122045020837800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
-          "url": "https://wallstreetcn.com/livenews/3041496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时35分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
-          "url": "https://wallstreetcn.com/livenews/3041450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时34分]"
-        },
-        {
-          "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
-          "url": "https://wallstreetcn.com/livenews/3042173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
-          "url": "https://www.cls.cn/detail/2265495",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 10时22分]"
-        },
-        {
-          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
-          "url": "https://www.cls.cn/detail/2265781",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 15时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek Model 1悄然现身",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            9,
-            3,
-            15,
-            21,
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 13时36分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "消息称谷歌将把旗下TPU服务器的L10~L11组装订单，交由英业达代工。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3041754",
+          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
+          "url": "https://wallstreetcn.com/livenews/3042190",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000407972800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY跌约0.5% 非美货币日内走高",
+          "url": "https://flash.jin10.com/detail/20260123002146902800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
