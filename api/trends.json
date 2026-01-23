@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T15:33:29.726509+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-23T16:40:00.001972+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -241,7 +241,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -255,8 +255,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时31分 ~ 15时33分]"
+          "appearance_count": 10,
+          "time_info": "[05时31分 ~ 16时39分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-01-23）",
@@ -265,7 +265,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -332,9 +332,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "2026年A股核心投资主线是什么",
+          "url": "https://www.toutiao.com/trending/7597682423765975076/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "A股商业航天概念持续走强，烽火通信、睿创微纳、西部材料、凯盛科技、润贝航科、瑞华泰涨停，中超控股、巨力索具、飞沃科技此前涨停。",
@@ -450,7 +461,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -472,7 +483,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -565,8 +576,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时39分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
