@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T07:29:20.397631+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-01-23T10:11:53.373789+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 10时11分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后跌超4%。",
@@ -165,7 +166,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -187,7 +188,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -417,6 +418,75 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 10时11分]"
+        },
+        {
+          "title": "A股光伏板块继续走强，双良节能接近涨停，迈为股份涨超10%，钧达股份、高测股份、奥特维、捷佳伟创等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3042451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "A股贵金属板块继续大涨，白银有色4连板，湖南白银、中金黄金、山金国际、晓程科技、盛达资源等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3042448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -434,41 +504,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3042361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
-          "url": "https://wallstreetcn.com/articles/3763888",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
         }
       ]
     }
