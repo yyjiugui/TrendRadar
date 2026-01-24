@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:24:46.365057+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-01-25T02:39:25.072402+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -67,19 +67,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
           "url": "https://www.cls.cn/detail/2268650",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         }
       ]
     },
@@ -95,8 +96,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         }
       ]
     }
