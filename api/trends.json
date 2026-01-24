@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:27:12.584993+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-25T07:26:42.171658+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时26分]"
         }
       ]
     },
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -67,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -79,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时26分]"
         }
       ]
     },
