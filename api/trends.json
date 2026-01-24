@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T14:41:12.031615+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-01-24T15:26:45.686541+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时26分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时26分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -323,8 +323,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时26分]"
         }
       ]
     }
