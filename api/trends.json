@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T15:26:45.686541+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-01-24T16:35:50.639752+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 15时26分]"
-        },
-        {
-          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -40,8 +29,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 16时35分]"
+        },
+        {
+          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时34分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -267,7 +267,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -295,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时29分]"
+        },
+        {
+          "title": "谷歌高管谈AI开发的危与机",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -323,8 +334,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时35分]"
         }
       ]
     }
