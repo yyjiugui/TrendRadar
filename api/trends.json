@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:27:25.707755+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-01-24T23:27:36.159408+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时29分 ~ 22时27分]"
+          "appearance_count": 19,
+          "time_info": "[07时29分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时29分 ~ 22时27分]"
+          "appearance_count": 19,
+          "time_info": "[07时29分 ~ 23时27分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时30分 ~ 07时29分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -281,8 +292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 23时27分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -306,8 +317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 23时27分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -315,11 +326,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 23时27分]"
         }
       ]
     },
