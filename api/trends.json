@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:29:30.190544+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-01-25T18:29:54.909546+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时29分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时29分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -84,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时29分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -141,11 +141,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时29分]"
         }
       ]
     }
