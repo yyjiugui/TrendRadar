@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T02:39:23.564100+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-01-26T03:23:11.115831+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
-        },
-        {
-          "title": "六大机构A股最新研判来了",
-          "url": "https://www.toutiao.com/trending/7598640352895008809/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
@@ -39,8 +27,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时23分]"
+        },
+        {
+          "title": "六大机构A股最新研判来了",
+          "url": "https://www.toutiao.com/trending/7598640352895008809/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "多家A股公司预计2025年业绩大增",
@@ -49,11 +50,12 @@
           "ranks": [
             23,
             30,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     },
@@ -69,8 +71,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     }
