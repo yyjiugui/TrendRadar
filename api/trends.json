@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T01:24:57.690347+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2026-01-26T02:39:23.564100+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "六大机构A股最新研判来了",
           "url": "https://www.toutiao.com/trending/7598640352895008809/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
@@ -38,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "多家A股公司预计2025年业绩大增",
@@ -47,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            30
+            30,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -67,8 +69,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -84,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     }
