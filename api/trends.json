@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:26:42.171658+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-01-25T10:29:25.862329+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 10时29分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -35,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时29分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时29分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -68,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时29分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -80,14 +82,14 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时29分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -99,6 +101,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
