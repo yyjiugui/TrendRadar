@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T15:27:58.832486+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-01-25T16:36:08.985287+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -42,8 +42,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时36分]"
+        },
+        {
+          "title": "警惕美股波动性卷土重来",
+          "url": "https://www.toutiao.com/trending/7599171605310213651/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -60,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时36分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -73,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时36分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -86,8 +97,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时36分]"
         }
       ]
     },
@@ -117,6 +128,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 13时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3043358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     }
