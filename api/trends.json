@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T07:27:42.499673+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-26T10:28:35.832060+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -58,12 +58,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 03时23分]"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3043556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "A股算力概念股盘初走强，优刻得、大位科技双双涨停，首都在线涨超10%，光环新网、润泽科技、奥飞数据、数据港等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3043546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -75,6 +97,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 04时32分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
+          "url": "https://wallstreetcn.com/livenews/3043547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -109,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
