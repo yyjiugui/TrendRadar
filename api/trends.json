@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:38:16.339894+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-01-26T14:49:58.719108+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -77,7 +77,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -88,9 +88,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "A股又突然跳水了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "A股机器人概念股震荡走低，浙江荣泰午后跌停，力星股份、昊志机电、奕帆传动跌超10%，国机精工、步科股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3043711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "A股三大指数集体翻绿，创业板指跌近1%。",
@@ -147,11 +169,12 @@
           "url": "https://www.zhihu.com/question/1999025860699710314",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时49分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -159,11 +182,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时49分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -179,6 +203,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -190,8 +242,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时49分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -206,23 +258,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         }
       ]
     },
