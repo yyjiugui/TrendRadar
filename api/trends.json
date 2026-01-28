@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:37:19.311240+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-01-28T19:30:18.432615+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -225,8 +236,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时20分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时20分 ~ 19时30分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -235,7 +246,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -293,7 +304,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -315,7 +326,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -326,7 +337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -348,7 +359,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -617,11 +628,12 @@
             3,
             2,
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时30分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -685,7 +697,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -697,19 +709,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 18时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 19时30分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时30分]"
+        },
+        {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
