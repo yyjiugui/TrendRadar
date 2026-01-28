@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:35:54.372416+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-28T14:47:50.412386+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时47分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -122,6 +123,17 @@
           "time_info": "[02时51分 ~ 03时34分]"
         },
         {
+          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -131,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -188,11 +211,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时47分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -297,7 +321,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -320,19 +344,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 14时47分]"
+        },
+        {
+          "title": "A股商业航天概念局部回暖，巨力索具6天4板，再升科技此前涨停，雷科防务、通宇通讯、中超控股、超捷股份、西部材料、烽火通信跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3045283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时47分]"
         },
         {
           "title": "A股三大指数全线翻绿。",
@@ -389,11 +425,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时47分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -464,11 +501,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时47分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -553,11 +591,12 @@
           "ranks": [
             4,
             7,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 14时47分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -588,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 13时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 14时47分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -600,8 +639,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时47分]"
         }
       ]
     },
