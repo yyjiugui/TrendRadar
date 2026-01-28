@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T15:34:03.238488+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-01-28T16:42:00.421040+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -345,8 +345,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 15时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "A股商业航天概念局部回暖，巨力索具6天4板，再升科技此前涨停，雷科防务、通宇通讯、中超控股、超捷股份、西部材料、烽火通信跟涨。",
@@ -379,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -434,7 +434,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -453,8 +453,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时20分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时20分 ~ 16时42分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 16时42分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -503,24 +514,13 @@
           "time_info": "01时35分"
         },
         {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
           "url": "https://wallstreetcn.com/livenews/3045359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -537,11 +537,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时42分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -627,11 +628,12 @@
             4,
             7,
             5,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 14时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -650,7 +652,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -662,8 +664,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -674,8 +676,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 16时42分]"
+        },
+        {
+          "title": "黄金价格短线持续走高，现货黄金向上触及5310美元/盎司，日内涨2.52%。纽约期金向上触及5300美元/盎司，日内涨4.28%。",
+          "url": "https://flash.jin10.com/detail/20260128163325569800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
