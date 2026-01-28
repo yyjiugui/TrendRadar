@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:47:50.412386+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-01-28T15:34:03.238488+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 15时34分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -129,7 +129,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -151,7 +151,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -215,8 +215,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时34分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -321,7 +321,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -341,22 +341,24 @@
           "url": "https://wallstreetcn.com/articles/3764225",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 14时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 15时34分]"
         },
         {
           "title": "A股商业航天概念局部回暖，巨力索具6天4板，再升科技此前涨停，雷科防务、通宇通讯、中超控股、超捷股份、西部材料、烽火通信跟涨。",
           "url": "https://wallstreetcn.com/livenews/3045332",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时34分]"
         },
         {
           "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
@@ -369,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 14时47分]"
+        },
+        {
+          "title": "A股收盘：沪指震荡涨0.27%，资源股全线爆发",
+          "url": "https://wallstreetcn.com/livenews/3045356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "A股三大指数全线翻绿。",
@@ -413,12 +426,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        },
+        {
+          "title": "【A股ETF成交额再创新高 热门宽基ETF异常放量】A股ETF市场交投热度持续飙升，当前ETF成交额达到7525亿元，再度突破纪录，其中沪深300ETF华泰柏瑞（510300）成交额近400亿元，沪深300ETF华夏（510330）成交额达268亿元，上证500ETF（510050）、中证500ETF（510500）均超200亿元。",
+          "url": "https://wallstreetcn.com/livenews/3045347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -429,8 +453,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时20分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时20分 ~ 15时34分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -488,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -505,8 +540,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时34分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -627,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 14时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时34分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -639,8 +674,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时34分]"
         }
       ]
     },
