@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T01:43:35.893304+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-30T02:58:38.315295+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -36,9 +36,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013122983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013040868800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -66,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时58分]"
         }
       ]
     },
@@ -80,11 +102,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时58分]"
         }
       ]
     },
@@ -101,8 +124,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时58分]"
         }
       ]
     }
