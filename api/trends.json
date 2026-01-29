@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:58:38.315295+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-30T03:37:07.401345+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时37分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -26,8 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时37分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013122983800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时37分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -41,24 +53,13 @@
           "time_info": "01时43分"
         },
         {
-          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260130013122983800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -85,11 +86,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时37分]"
         }
       ]
     },
@@ -103,11 +105,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时37分]"
         }
       ]
     },
@@ -124,8 +127,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时37分]"
         }
       ]
     }
