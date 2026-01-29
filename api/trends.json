@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T10:36:39.114478+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-29T12:44:18.490033+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时48分 ~ 10时36分]"
         },
         {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 12时44分]"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013122619800",
           "source": "金十数据",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 10时36分]"
         },
         {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
@@ -204,7 +205,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -216,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -274,7 +286,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
@@ -337,6 +349,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
+          "url": "https://www.zhihu.com/question/1999819158431503971",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -349,8 +378,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 12时44分]"
         }
       ]
     }
