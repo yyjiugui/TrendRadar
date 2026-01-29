@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:37:07.401345+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-01-30T04:40:53.860702+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时40分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时40分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -87,11 +87,12 @@
           "ranks": [
             3,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 04时40分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时40分]"
         }
       ]
     },
@@ -127,8 +128,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 04时40分]"
         }
       ]
     }
