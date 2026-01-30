@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T01:41:02.854491+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-01-31T02:55:23.657301+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -36,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -51,11 +52,12 @@
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 02时55分]"
         }
       ]
     },
