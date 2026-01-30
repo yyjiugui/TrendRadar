@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T06:34:22.818262+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-01-31T07:33:31.402755+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -58,33 +69,47 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时34分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时33分]"
         },
         {
           "title": "（美股）费城金银指数收盘暴跌12.51%，连续第二个交易日下挫，报382.33点，本周累计下跌12%，1月份累计上涨11.70%。 （全球时段）纽约证交所ARCA金矿开采商指数暴跌11.44%，报2743.86点，本周累跌9.71%，1月份累涨12.49%。 （美股）原材料指数收跌3.91%，报248.74点，1月份累涨9.99%。 （美股）金属与矿业指数收跌4.21%，报245.40点，1月份累涨13.99%。",
           "url": "https://wallstreetcn.com/livenews/3047594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，1月份累计下跌0.27%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌0.75%。",
           "url": "https://wallstreetcn.com/livenews/3047586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "美股三大指数飘绿 黄金白银深夜暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%A3%98%E7%BB%BF+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "07时33分"
         }
       ]
     },
@@ -92,6 +117,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 07时33分]"
+        },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
@@ -105,18 +142,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时40分 ~ 06时34分]"
-        },
-        {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 06时34分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -134,8 +159,31 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "明晟公司MSCI新兴市场基准股票指数跌1.7%，创2025年11月以来最差单日表现，1月份累计涨幅收窄至大约9%，仍然创2012年以来最佳单月表现。 新兴市场外汇指数跌约0.3%，使得1月份累计涨幅收窄至0.6%。 周五当天，南非兰特兑美元跌2.6%，创4月份以来最差表现。",
+          "url": "https://wallstreetcn.com/livenews/3047609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
+          "url": "https://wallstreetcn.com/livenews/3047589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
         {
           "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
           "url": "https://wallstreetcn.com/livenews/3047570",
@@ -146,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        },
-        {
-          "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
-          "url": "https://wallstreetcn.com/livenews/3047589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         }
       ]
     },
