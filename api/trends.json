@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T02:42:29.555511+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-01T03:27:31.060804+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -48,8 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         }
       ]
     },
@@ -66,8 +66,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
@@ -78,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时27分]"
         }
       ]
     },
@@ -93,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         }
       ]
     },
@@ -113,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时27分]"
         }
       ]
     }
