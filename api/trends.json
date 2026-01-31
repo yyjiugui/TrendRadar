@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T12:40:18.612324+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-01-31T13:43:38.756911+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时43分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -96,8 +96,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时43分]"
+        },
+        {
+          "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
+          "url": "https://wallstreetcn.com/livenews/3047617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时40分]"
+          "time_info": "[10时32分 ~ 13时43分]"
         },
         {
           "title": "美股三大指数飘绿 黄金白银深夜暴跌",
@@ -122,18 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时33分]"
-        },
-        {
-          "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
-          "url": "https://wallstreetcn.com/livenews/3047617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，1月份累计下跌0.27%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌0.75%。",
@@ -205,11 +206,12 @@
           "ranks": [
             3,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 13时43分]"
         },
         {
           "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
@@ -245,11 +247,12 @@
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时43分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -257,11 +260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 13时43分]"
         }
       ]
     },
@@ -291,6 +295,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股1月收官走出“深V”行情",
+          "url": "https://www.toutiao.com/trending/7601039362419212330/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     }
