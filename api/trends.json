@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:32:07.420904+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-31T23:31:44.281546+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时32分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[10时32分 ~ 23时31分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -188,6 +188,19 @@
           "time_info": "[10时32分 ~ 15时35分]"
         },
         {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时31分]"
+        },
+        {
           "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
           "url": "https://flash.jin10.com/detail/20260131190934573800",
           "source": "金十数据",
@@ -201,28 +214,17 @@
           "time_info": "[19时28分 ~ 22时32分]"
         },
         {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时32分]"
-        },
-        {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
           "url": "https://flash.jin10.com/detail/20260131203337844800",
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -230,11 +232,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时31分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -242,11 +245,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时31分]"
         }
       ]
     },
@@ -288,11 +292,12 @@
           "ranks": [
             6,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时31分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -401,11 +406,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时32分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时31分]"
         },
         {
           "title": "A股1月收官走出“深V”行情",
