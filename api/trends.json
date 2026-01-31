@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T05:29:43.571402+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-01T06:31:15.153451+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -25,11 +25,12 @@
           "ranks": [
             19,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -39,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -50,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -61,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 06时31分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "2026年A股上市公司第一批退市名单",
@@ -89,11 +90,12 @@
           "ranks": [
             2,
             27,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         }
       ]
     },
@@ -112,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         }
       ]
     },
@@ -129,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     }
