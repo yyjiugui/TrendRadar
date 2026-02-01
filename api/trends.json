@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T14:59:56.760015+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-02-01T15:43:36.098552+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 14时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时43分]"
         },
         {
           "title": "2026年A股上市公司第一批退市名单",
@@ -106,9 +106,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时43分]"
         }
       ]
     },
