@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-01T07:31:08.618162+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:58:13.033874+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 10时58分]"
+        },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
           "url": "https://flash.jin10.com/detail/20260131204002785800",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时31分]"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时34分 ~ 07时31分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 10时58分]"
         },
         {
           "title": "2026年A股上市公司第一批退市名单",
