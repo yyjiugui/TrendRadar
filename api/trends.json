@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:33:36.703858+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-01T23:33:33.331061+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
             1,
             6,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 23时33分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -111,7 +112,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -121,11 +122,12 @@
             11,
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时59分 ~ 22时33分]"
+          "appearance_count": 12,
+          "time_info": "[14时59分 ~ 23时33分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
@@ -138,8 +140,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 22时33分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 23时33分]"
         },
         {
           "title": "2026年A股上市公司第一批退市名单",
@@ -161,11 +163,12 @@
           "url": "https://www.cls.cn/detail/2276515",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时04分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时33分]"
         },
         {
           "title": "十大机构看后市：A股有望春节前企稳",
@@ -191,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时05分 ~ 22时33分]"
+        },
+        {
+          "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2276870",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
@@ -221,8 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时04分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时33分]"
         }
       ]
     },
