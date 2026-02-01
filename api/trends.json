@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:43:36.098552+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-02-01T16:41:33.604299+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时41分]"
         },
         {
           "title": "2026年A股上市公司第一批退市名单",
@@ -104,11 +105,12 @@
           "url": "https://www.cls.cn/detail/2276583",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 16时41分]"
         }
       ]
     },
