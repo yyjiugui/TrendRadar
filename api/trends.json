@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:59:28.970126+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-02-02T19:43:16.882446+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,18 @@
           "time_info": "[00时39分 ~ 10时47分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 19时43分]"
+        },
+        {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2276497",
           "source": "财联社热门",
@@ -49,16 +61,18 @@
           "time_info": "[00时39分 ~ 07时33分]"
         },
         {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2387054",
+          "source": "抖音",
           "ranks": [
-            8,
-            5
+            6,
+            24,
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时11分 ~ 19时43分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -70,19 +84,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2387054",
-          "source": "抖音",
-          "ranks": [
-            6,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时11分 ~ 18时00分]"
         },
         {
           "title": "A股人形机器人板块午后异动拉升，五洲新春直线拉升涨超5%，国机精工、昊志机电、华伍股份、新兴装备等个股跟涨。",
@@ -112,11 +113,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "A股三大股指跌超2% 有色金属板块大跌",
@@ -124,11 +126,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 18时00分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "A股三大指数均跌超2%，贵金属、有色、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4400只。",
@@ -265,7 +268,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -355,8 +358,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 18时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 19时43分]"
         }
       ]
     }
