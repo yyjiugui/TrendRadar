@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T10:43:59.050506+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-02-03T12:53:53.079287+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[00时51分 ~ 10时43分]"
         },
         {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时53分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -57,15 +68,16 @@
           "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 12时53分]"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -77,18 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时43分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -231,7 +231,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
