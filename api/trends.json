@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:50:37.168844+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-02-03T17:53:57.424456+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "券商：A股迎低吸窗口",
@@ -19,6 +19,18 @@
           "time_info": "[00时52分 ~ 01时45分]"
         },
         {
+          "title": "融资保证金比例上调至100%后，A股影响有多大？",
+          "url": "https://www.cls.cn/detail/2278910",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时53分]"
+        },
+        {
           "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
           "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 07时36分]"
-        },
-        {
-          "title": "融资保证金比例上调至100%后，A股影响有多大？",
-          "url": "https://www.cls.cn/detail/2278910",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
@@ -65,6 +66,30 @@
           "time_info": "[13时56分 ~ 15时03分]"
         },
         {
+          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
+          "url": "https://www.cls.cn/detail/2278887",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时53分]"
+        },
+        {
+          "title": "A股收评：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时53分]"
+        },
+        {
           "title": "A股光伏设备板块午后进一步走强，帝科股份20cm涨停，晶盛机电、海优新材、拉普拉斯涨超10%，奥特维、双良节能、钧达股份此前封板。",
           "url": "https://wallstreetcn.com/livenews/3048825",
           "source": "华尔街见闻-快讯",
@@ -76,26 +101,15 @@
           "time_info": "13时56分"
         },
         {
-          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
-          "url": "https://www.cls.cn/detail/2278887",
-          "source": "财联社热门",
+          "title": "2026年1月A股新开户数491.58万户，同比增长213%",
+          "url": "https://wallstreetcn.com/livenews/3048992",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "A股收评：全市场超4800只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "17时53分"
         },
         {
           "title": "A股算力租赁板块持续拉升，南凌科技盘中创新高，利通电子触及涨停，顺网科技涨超15%，网宿科技涨超10%，光环新网、青云科技、优刻得、创业黑马、首都在线跟涨。",
@@ -134,7 +148,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -144,8 +158,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时50分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 17时53分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -218,6 +232,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
+          "url": "https://wallstreetcn.com/livenews/3048993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -305,6 +341,34 @@
       ]
     },
     {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩尔线程AI Coding Plan上线",
+          "url": "https://wallstreetcn.com/livenews/3049004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "寒武纪-U跌超10%，成交额超100亿元。摩尔线程、沐曦股份跌超4％。",
+          "url": "https://wallstreetcn.com/livenews/3048738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -354,26 +418,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "寒武纪-U跌超10%，成交额超100亿元。摩尔线程、沐曦股份跌超4％。",
-          "url": "https://wallstreetcn.com/livenews/3048738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "16时50分"
         }
       ]
     },
@@ -386,11 +433,12 @@
           "url": "https://www.cls.cn/detail/2278690",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时53分]"
         }
       ]
     }
