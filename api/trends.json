@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T13:55:38.739994+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-02-04T15:02:57.448918+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -84,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -96,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时02分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -135,23 +135,24 @@
           "time_info": "[05时42分 ~ 06时37分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时02分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时55分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时36分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "AMD(AMD.O)美股盘后跌超4.5%。",
@@ -331,26 +343,27 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时02分]"
+        },
+        {
           "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
           "url": "https://flash.jin10.com/detail/20260204131636619800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时55分]"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -416,7 +429,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -534,7 +547,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -561,15 +574,27 @@
           "time_info": "[01时05分 ~ 07时36分]"
         },
         {
+          "title": "A股油气股再度拉升，洲际油气直线涨停，准油股份、通源石油、石化油服、山东墨龙、潜能恒信等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3049628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "A股煤炭板块午后进一步走强，潞安环能、宝泰隆、山西焦化、中煤能源、陕西黑猫、兖矿能源等近10股涨停。",
           "url": "https://wallstreetcn.com/livenews/3049590",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时02分]"
         },
         {
           "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
@@ -578,9 +603,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "宁德时代A股涨超5%，H股涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3049617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股光伏设备板块午后涨幅扩大",
@@ -589,9 +625,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "A股金融股异动拉升，华林证券涨超8%，赢时胜、指南针、银之杰、大智慧、东方财富等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3049615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股民航板块震荡走高，中国东航逼近涨停，华夏航空、中国国航、南方航空涨超5%，吉祥航空、春秋航空跟涨。",
@@ -653,8 +700,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 15时02分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
