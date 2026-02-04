@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:50:43.331657+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-02-04T19:39:55.892635+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时35分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 19时39分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时37分 ~ 19时39分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 06时37分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时37分 ~ 18时50分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 19时39分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -102,6 +102,19 @@
           "time_info": "[07时35分 ~ 15时02分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 19时39分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -112,19 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时02分 ~ 18时50分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 18时50分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -715,8 +715,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时05分 ~ 18时50分]"
+          "appearance_count": 19,
+          "time_info": "[01时05分 ~ 19时39分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
