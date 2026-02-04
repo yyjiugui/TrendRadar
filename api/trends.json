@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:02:57.448918+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-02-04T16:54:25.745847+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时05分 ~ 06时37分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时54分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -30,15 +42,16 @@
           "time_info": "[01时05分 ~ 06时37分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时54分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时05分 ~ 10时38分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -96,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时54分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -109,6 +111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时54分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -140,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时54分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -181,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时36分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         },
         {
           "title": "AMD(AMD.O)美股盘后跌超4.5%。",
@@ -580,7 +584,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -614,7 +618,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -636,7 +640,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -700,8 +704,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时05分 ~ 15时02分]"
+          "appearance_count": 16,
+          "time_info": "[01时05分 ~ 16时54分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
