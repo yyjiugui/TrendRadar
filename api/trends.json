@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:01:13.667720+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-05T03:46:55.590464+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -88,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -98,22 +98,24 @@
           "ranks": [
             19,
             22,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 03时46分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时46分]"
         }
       ]
     },
@@ -145,7 +147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
