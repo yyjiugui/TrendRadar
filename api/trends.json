@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T17:55:04.654016+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-02-05T18:51:30.180040+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 18时51分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时40分 ~ 17时55分]"
+          "time_info": "[12时54分 ~ 18时51分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -33,19 +46,6 @@
           "time_info": "[10时40分 ~ 16时54分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时55分]"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
@@ -54,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 18时51分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -219,7 +219,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -399,11 +399,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 18时51分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
@@ -448,7 +449,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -486,6 +487,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美股收盘：纳指跌1.5% AMD大跌17%",
           "url": "https://flash.jin10.com/detail/20260205050057305800",
           "source": "金十数据",
@@ -497,6 +509,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "蔚来美股盘前涨超8.6%，公司预计2025年第四季度经调整经营利润约7亿元至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
           "url": "https://wallstreetcn.com/livenews/3050002",
           "source": "华尔街见闻-快讯",
@@ -506,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "蔚来美股盘前涨超9%，公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元",
+          "url": "https://wallstreetcn.com/livenews/3050574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
@@ -670,7 +704,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -757,8 +791,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 18时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲航空航天与国防指数下跌2%，跌至一个月低点，较1月份的纪录高位下跌逾11%。",
+          "url": "https://flash.jin10.com/detail/20260205180747408800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     }
