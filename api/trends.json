@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:54:27.439633+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-05T14:01:54.822153+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时01分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时01分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时37分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -217,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
@@ -339,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 14时01分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -472,7 +472,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -502,6 +502,17 @@
           "time_info": "[01时00分 ~ 06时37分]"
         },
         {
+          "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
@@ -526,6 +537,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
           "url": "https://wallstreetcn.com/livenews/3050266",
           "source": "华尔街见闻-快讯",
@@ -535,6 +557,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "A股银行股午后继续走强，厦门银行涨超8%，重庆银行、上海银行涨超4%，南京银行、渝农商行、宁波银行等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3050367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "A股免税概念午后走强，海南发展直线拉升涨超7%，凯撒旅业、珠免集团、中百集团、海峡股份等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "A股太空光伏概念集体调整，钧达股份、金辰股份接近跌停，奥特维跌超10%，迈为股份、东方日升、晶盛机电、晶科能源跌超7%。",
