@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:31:33.511499+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-02-06T10:41:01.830174+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -47,6 +47,17 @@
           "time_info": "[00时59分 ~ 07时31分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
@@ -71,6 +82,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时41分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
@@ -156,15 +179,127 @@
           "time_info": "[05时38分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时31分]"
+        },
+        {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 10时41分]"
+        },
+        {
+          "title": "A股春节休市安排来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时31分]"
+        },
+        {
+          "title": "A股三大指数全线翻红。",
+          "url": "https://wallstreetcn.com/livenews/3051059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
+          "url": "https://wallstreetcn.com/livenews/3050816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时01分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2391220",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "A股电网设备股快速反弹，杭电股份、积成电子双双涨停，亿能电力、通光线缆、三变科技、汇金通等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3051021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股零售股震荡调整，百大集团触及跌停，新华百货逼近跌停，三江购物、友好集团、国光连锁、上海九百跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3051019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，贵金属、AI应用、油气、零售等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3051015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
@@ -246,64 +381,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股2026年春节休市安排公布",
-          "url": "https://www.cls.cn/detail/2281758",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 07时31分]"
-        },
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 07时31分]"
-        },
-        {
-          "title": "A股春节休市安排来了",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时31分]"
-        },
-        {
-          "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
-          "url": "https://wallstreetcn.com/livenews/3050816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -338,8 +417,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 10时41分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
         }
       ]
     },
@@ -383,7 +473,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
