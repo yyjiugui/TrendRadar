@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:59:40.422911+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-02-06T15:08:32.370310+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时08分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时08分]"
         },
         {
           "title": "美股",
@@ -231,8 +231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 13时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 15时08分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -269,8 +269,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时08分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -291,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -457,8 +457,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时08分]"
         }
       ]
     },
