@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T06:34:57.274690+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-02-08T07:37:38.837925+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -67,11 +67,12 @@
             16,
             8,
             23,
-            28
+            28,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时37分]"
         }
       ]
     },
@@ -84,11 +85,12 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时37分]"
         }
       ]
     }
