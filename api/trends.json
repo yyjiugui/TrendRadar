@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:38:24.878660+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-02-07T18:35:11.715820+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时33分 ~ 17时38分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 18时35分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时33分 ~ 17时38分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 18时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 17时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时56分 ~ 18时35分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -216,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 17时38分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 18时35分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
@@ -407,11 +407,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时49分 ~ 17时38分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 18时35分]"
         }
       ]
     },
