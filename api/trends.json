@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:29:07.807963+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-02-07T21:04:32.467077+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 19时29分]"
+          "appearance_count": 16,
+          "time_info": "[07时33分 ~ 21时04分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -37,11 +37,12 @@
             8,
             3,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 19时29分]"
+          "appearance_count": 16,
+          "time_info": "[07时33分 ~ 21时04分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -54,11 +55,12 @@
             8,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时56分 ~ 19时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 21时04分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -416,11 +418,12 @@
           "url": "https://www.cls.cn/detail/2283724",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时04分]"
         }
       ]
     },
@@ -440,8 +443,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时49分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时49分 ~ 21时04分]"
         }
       ]
     },
