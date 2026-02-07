@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T13:50:15.135138+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-02-07T14:54:00.469010+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -19,6 +19,30 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 14时54分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 14时54分]"
+        },
+        {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2283417",
           "source": "财联社热门",
@@ -30,19 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 13时50分]"
-        },
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 13时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 14时54分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 06时33分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 13时50分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -173,6 +174,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美股成交额前20：英伟达结束五连跌",
+          "url": "https://www.toutiao.com/trending/7603404451794485302/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "美股延续涨势，纳指上涨2.00%。",
           "url": "https://flash.jin10.com/detail/20260207020033176800",
           "source": "金十数据",
@@ -190,6 +202,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 14时54分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -199,18 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 13时50分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -389,8 +402,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 14时54分]"
         }
       ]
     },
