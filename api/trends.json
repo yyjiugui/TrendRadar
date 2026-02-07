@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T05:34:09.958214+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-08T06:34:57.274690+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -66,11 +66,12 @@
             14,
             16,
             8,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     }
