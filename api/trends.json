@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:40:43.001258+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-02-07T17:38:24.878660+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 17时38分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 17时38分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -51,11 +52,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 17时38分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -89,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 17时38分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -214,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 17时38分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
@@ -404,11 +406,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 17时38分]"
         }
       ]
     },
