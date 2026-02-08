@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:01:27.534957+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-02-08T15:46:11.118471+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 15时46分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 06时34分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         }
       ]
     },
@@ -55,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 15时46分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -85,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时01分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 15时46分]"
         }
       ]
     },
