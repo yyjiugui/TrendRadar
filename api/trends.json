@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:30:45.981762+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-02-08T21:05:00.625446+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 19时30分]"
+          "appearance_count": 25,
+          "time_info": "[00时39分 ~ 21时05分]"
         },
         {
           "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 19时30分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 21时05分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -54,11 +54,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时05分]"
         },
         {
           "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
@@ -66,11 +67,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时05分]"
         }
       ]
     },
@@ -100,8 +102,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时30分]"
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -110,11 +112,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 19时30分]"
+          "appearance_count": 25,
+          "time_info": "[00时39分 ~ 21时05分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -162,8 +165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 19时30分]"
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 21时05分]"
         }
       ]
     },
@@ -180,8 +183,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时05分]"
         }
       ]
     },
@@ -212,11 +215,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时05分]"
         }
       ]
     }
