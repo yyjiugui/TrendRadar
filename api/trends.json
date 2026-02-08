@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-02-08T17:38:08.123385+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-02-08T18:35:58.093556+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2283724",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时35分]"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 18时35分]"
+        },
+        {
+          "title": "A股再添一位“00”后董事长",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E2%80%9C00%E2%80%9D%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            14,
+            16,
+            8,
+            23,
+            28,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 11时19分]"
+        },
+        {
+          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
+          "url": "https://wallstreetcn.com/livenews/3051813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
+          "url": "https://wallstreetcn.com/livenews/3051812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 4,
@@ -27,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 17时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -48,58 +117,12 @@
           "ranks": [
             9,
             8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 17时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2283724",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 17时38分]"
-        },
-        {
-          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
-          "url": "https://www.cls.cn/detail/2283734",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 17时38分]"
-        },
-        {
-          "title": "A股再添一位“00”后董事长",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E2%80%9C00%E2%80%9D%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            14,
-            16,
-            8,
-            23,
-            28,
             5,
-            27
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 11时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 18时35分]"
         }
       ]
     },
@@ -131,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时35分]"
         }
       ]
     },
@@ -148,11 +172,12 @@
           "url": "https://wallstreetcn.com/articles/3765244",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时35分]"
         }
       ]
     },
@@ -167,9 +192,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     }
