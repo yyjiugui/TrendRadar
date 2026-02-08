@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T07:37:38.837925+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-08T11:19:21.238920+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 11时19分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -44,7 +45,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 11时19分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -68,11 +69,23 @@
             8,
             23,
             28,
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 11时19分]"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
