@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T23:34:32.157275+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-02-09T00:39:36.990519+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -15,167 +15,91 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时39分 ~ 23时34分]"
-        },
-        {
-          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
-          "url": "https://www.cls.cn/detail/2283734",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时19分 ~ 23时34分]"
-        },
-        {
-          "title": "A股再添一位“00”后董事长",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E2%80%9C00%E2%80%9D%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            14,
-            16,
-            8,
-            23,
-            28,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 11时19分]"
-        },
-        {
-          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
-          "url": "https://wallstreetcn.com/livenews/3051813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 23时34分]"
-        },
-        {
-          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
-          "url": "https://wallstreetcn.com/livenews/3051812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            15,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "一夜之间4家A股公司被立案或处罚",
           "url": "https://www.toutiao.com/trending/7604445809202957874/",
           "source": "今日头条",
           "ranks": [
-            5,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2283877",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
+          "url": "https://wallstreetcn.com/livenews/3051813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
+          "url": "https://wallstreetcn.com/livenews/3051812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时45分 ~ 23时34分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时39分 ~ 22时36分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     },
@@ -188,49 +112,11 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时41分 ~ 23时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么最近黄金价格波动这么大",
-          "url": "https://www.toutiao.com/trending/7604386572770741796/",
-          "source": "今日头条",
-          "ranks": [
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时38分"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -243,15 +129,11 @@
           "url": "https://wallstreetcn.com/livenews/3051817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7,
-            10,
-            15,
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
