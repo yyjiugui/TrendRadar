@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T21:24:31.911485+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-02-09T23:01:44.890816+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2284984",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时01分]"
         },
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
@@ -195,7 +196,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -227,11 +228,35 @@
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时01分]"
+        },
+        {
+          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3052393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "23时01分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时01分]"
         },
         {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
@@ -269,17 +294,6 @@
           "time_info": "[17时02分 ~ 17时03分]"
         },
         {
-          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2285010",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "美股软件股盘前上涨，微软(MSFT.O)涨0.8%，Datadog涨 1.2%，ServiceNow涨0.8%。",
           "url": "https://flash.jin10.com/detail/20260209180250782800",
           "source": "金十数据",
@@ -308,9 +322,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3052372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
@@ -327,7 +352,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -347,11 +372,23 @@
           "url": "https://wallstreetcn.com/livenews/3052364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 23时01分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.14%，标普500指数跌0.24%，纳指跌0.34%。谷歌A(GOOGL.O)跌0.58%，母公司公司Alphabet拟通过美元债券发行筹集约150亿美元。诺和诺德(NVO.N)涨4.4%，Hims & Hers(HIMS.N)跌22.6%，诺和诺德就Wegovy仿制减肥药起诉后者。",
+          "url": "https://flash.jin10.com/detail/20260209223024338800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "23时01分"
         },
         {
           "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
@@ -382,7 +419,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -422,7 +459,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -433,7 +470,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         }
@@ -466,11 +503,29 @@
           "url": "https://wallstreetcn.com/livenews/3052361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 23时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Voyager Technologies(VOYG.N)涨0.5%，此前公司获得美国国家航空航天局休斯顿飞行中心价值2450万美元的任务管理合同。",
+          "url": "https://flash.jin10.com/detail/20260209223106975800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "23时01分"
         }
       ]
     }
