@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:12:35.194254+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-02-11T16:59:34.442113+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[01时10分 ~ 06时50分]"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时59分]"
+        },
+        {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时45分]"
-        },
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -83,11 +83,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时59分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -242,7 +243,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -292,7 +293,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -303,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -320,7 +321,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
