@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:59:34.442113+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-02-11T18:04:34.827529+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 18时04分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -87,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 18时04分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -183,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
+          "url": "https://www.cls.cn/detail/2286766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
