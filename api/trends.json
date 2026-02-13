@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:55:32.289237+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-02-13T18:50:55.241655+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 17时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 18时50分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -90,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 17时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 18时50分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -103,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 18时50分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -164,6 +164,17 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时50分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213050512806800",
           "source": "金十数据",
@@ -212,17 +223,6 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时55分]"
-        },
-        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -230,8 +230,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时50分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -322,7 +322,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -456,8 +456,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时50分]"
+        },
+        {
+          "title": "A股蛇年十大牛股",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%9B%87%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%89%9B%E8%82%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 18时50分]"
         },
         {
           "title": "A股",
@@ -470,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 16时54分]"
-        },
-        {
-          "title": "A股蛇年十大牛股",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%9B%87%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%89%9B%E8%82%A1%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "A股三大指数均跌超1%，军工板块逆势走强",
@@ -519,11 +519,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 17时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 18时50分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -538,11 +539,12 @@
             15,
             14,
             18,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 17时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 18时50分]"
         },
         {
           "title": "Deepseek被指变冷淡了",
@@ -575,28 +577,16 @@
           "time_info": "[07时37分 ~ 14时08分]"
         },
         {
-          "title": "DeepSeek回应被指变冷淡",
-          "url": "https://www.toutiao.com/trending/7606192815403437609/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时55分]"
-        },
-        {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时50分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -605,7 +595,21 @@
           "ranks": [
             29,
             30,
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时50分]"
+        },
+        {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
