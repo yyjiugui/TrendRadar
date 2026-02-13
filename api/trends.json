@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T05:43:40.698023+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-02-14T06:41:04.934638+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -86,30 +86,54 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
+        },
+        {
+          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
+          "url": "https://wallstreetcn.com/livenews/3055388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
           "url": "https://wallstreetcn.com/livenews/3055367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
           "url": "https://wallstreetcn.com/livenews/3055365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "美国通胀降温，美股指涨跌互现，美债收益率走低，原油日内跌近1%",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
         },
         {
           "title": "中概指数在美股早盘实现V形反转",
@@ -121,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3055368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅收窄至将近0.5%，美股盘初一度跌超1%。",
@@ -137,8 +172,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
+          "url": "https://wallstreetcn.com/livenews/3055390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
@@ -150,6 +196,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时50分 ~ 05时43分]"
+        },
+        {
+          "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
+          "url": "https://wallstreetcn.com/livenews/3055387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3055385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
+          "url": "https://wallstreetcn.com/livenews/3055379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -184,11 +263,12 @@
           "url": "https://wallstreetcn.com/livenews/3055377",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时41分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -227,11 +307,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 06时41分]"
         }
       ]
     },
