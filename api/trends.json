@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T15:42:02.672425+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-02-15T16:42:13.714019+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 16时42分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 16时42分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -115,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时42分]"
         }
       ]
     },
@@ -133,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
