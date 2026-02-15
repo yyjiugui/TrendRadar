@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:29:47.941872+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-02-15T21:06:06.830106+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时51分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[10时51分 ~ 21时06分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -105,6 +105,18 @@
           "time_info": "[00时39分 ~ 10时52分]"
         },
         {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时06分]"
+        },
+        {
           "title": "DeepSeek“变冷淡”不是翻车",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
@@ -116,17 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时29分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         }
       ]
     },
@@ -160,8 +161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时39分 ~ 21时06分]"
         }
       ]
     },
