@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T07:32:25.397757+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-15T10:52:01.299553+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -25,11 +25,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时52分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时52分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -44,16 +58,26 @@
           "time_info": "[00时39分 ~ 07时32分]"
         },
         {
-          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
-          "source": "澎湃新闻",
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
+        },
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         }
       ]
     },
@@ -81,11 +105,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时52分]"
         }
       ]
     },
@@ -94,23 +119,23 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
-          "url": "https://www.cls.cn/detail/2289993",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时32分]"
-        },
-        {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
           "url": "https://www.cls.cn/detail/2290257",
           "source": "财联社热门",
           "ranks": [
             3,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时52分]"
+        },
+        {
+          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
+          "url": "https://www.cls.cn/detail/2289993",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -128,11 +153,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时52分]"
         }
       ]
     },
@@ -149,8 +175,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
+          "url": "https://wallstreetcn.com/articles/3765726",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         }
       ]
     }
