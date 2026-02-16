@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T13:06:30.051341+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-02-16T15:14:10.224625+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时14分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -32,6 +33,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时34分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 15时14分]"
+        },
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 15时14分]"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -56,28 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "OpenClaw之父加入OpenAI",
@@ -106,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时14分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
