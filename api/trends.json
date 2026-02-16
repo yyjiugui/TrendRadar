@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:05:49.419107+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-02-16T19:44:28.086985+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 19时44分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -120,7 +121,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -132,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 18时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -155,11 +156,23 @@
           "url": "https://wallstreetcn.com/livenews/3055703",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时44分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "19时44分"
         }
       ]
     },
@@ -191,8 +204,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 19时44分]"
         }
       ]
     },
