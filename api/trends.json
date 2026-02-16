@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T02:55:22.149203+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-17T03:37:28.289029+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时37分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时37分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时37分]"
         }
       ]
     },
