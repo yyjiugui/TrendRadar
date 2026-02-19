@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-19T18:56:28.412738+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-19T19:43:48.821691+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 18时56分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 19时43分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时16分 ~ 18时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时16分 ~ 19时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -67,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时16分 ~ 18时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时16分 ~ 19时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时16分 ~ 18时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时16分 ~ 19时43分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -96,6 +97,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 05时41分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时43分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -135,29 +149,30 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时56分]"
-        },
-        {
           "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
           "url": "https://wallstreetcn.com/livenews/3056610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时43分]"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时43分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -184,16 +199,15 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -284,6 +298,17 @@
           "time_info": "[06时41分 ~ 07时37分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时43分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -294,17 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 04时50分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
@@ -429,11 +443,12 @@
           "url": "https://wallstreetcn.com/livenews/3056623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时43分]"
         }
       ]
     },
