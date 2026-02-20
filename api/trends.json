@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:47:29.947724+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-02-20T23:43:17.004776+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时40分 ~ 22时47分]"
+          "appearance_count": 15,
+          "time_info": "[06时40分 ~ 23时43分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时40分 ~ 22时47分]"
+          "appearance_count": 13,
+          "time_info": "[10时40分 ~ 23时43分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -69,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 22时47分]"
+          "appearance_count": 22,
+          "time_info": "[01时04分 ~ 23时43分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 22时47分]"
+          "appearance_count": 22,
+          "time_info": "[01时04分 ~ 23时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -116,11 +116,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时43分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -132,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
@@ -162,7 +152,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -189,6 +179,31 @@
           "time_info": "05时40分"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时43分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -199,18 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时47分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -243,9 +246,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "美国通胀压力依然顽固，美股三大股指集体走低",
+          "url": "https://wallstreetcn.com/livenews/3056973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -265,17 +279,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时04分 ~ 10时40分]"
-        },
-        {
-          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
@@ -299,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 10时40分]"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -356,7 +371,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -367,7 +382,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -490,6 +505,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
+          "url": "https://wallstreetcn.com/livenews/3056755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫20点，最低至97.71。",
+          "url": "https://flash.jin10.com/detail/20260220230300265800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -503,24 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
-          "url": "https://wallstreetcn.com/livenews/3056755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
         }
       ]
     },
