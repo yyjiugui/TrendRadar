@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T18:46:58.897487+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-02-20T19:38:54.575896+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 19时38分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时40分 ~ 19时38分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -45,20 +59,6 @@
           "time_info": "[01时04分 ~ 10时40分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时40分 ~ 18时46分]"
-        },
-        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时04分 ~ 18时46分]"
+          "appearance_count": 19,
+          "time_info": "[01时04分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -80,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时04分 ~ 18时46分]"
+          "appearance_count": 19,
+          "time_info": "[01时04分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -130,6 +130,18 @@
           "time_info": "05时40分"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 19时38分]"
+        },
+        {
           "title": "美股三大股指均收跌",
           "url": "https://flash.jin10.com/detail/20260220050222862800",
           "source": "金十数据",
@@ -150,18 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -246,11 +246,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时38分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
