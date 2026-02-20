@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-20T14:01:04.599288+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-02-20T15:10:54.062467+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 15时10分]"
+        },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
@@ -32,18 +44,6 @@
           "time_info": "[01时04分 ~ 10时40分]"
         },
         {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 14时01分]"
-        },
-        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时04分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时04分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -89,19 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 14时01分]"
-        },
-        {
-          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260220050552220800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时10分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -113,8 +102,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时10分]"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050552220800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
@@ -199,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时10分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
@@ -379,6 +379,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美航空航天局认定“星际客机”载人试飞为最高等级事故",
+          "url": "https://flash.jin10.com/detail/20260220144045329800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     }
