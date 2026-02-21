@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:40:06.759914+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-02-21T17:38:21.588203+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时35分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 17时38分]"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 17时38分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -41,20 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 16时40分]"
-        },
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -142,11 +142,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 17时38分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -289,19 +290,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时35分 ~ 16时40分]"
-        },
-        {
           "title": "实测Gemini 3.1 Pro",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
@@ -312,8 +300,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 17时38分]"
+        },
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时35分 ~ 17时38分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -380,11 +381,12 @@
           "url": "https://www.cls.cn/detail/2292289",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时38分]"
         }
       ]
     },
