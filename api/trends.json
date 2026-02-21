@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T22:34:25.118400+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-02-21T23:32:55.076705+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时35分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[07时35分 ~ 23时32分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -28,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时33分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[10时33分 ~ 23时32分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -44,6 +45,23 @@
           "time_info": "[00时50分 ~ 06时35分]"
         },
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 23时32分]"
+        },
+        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -54,24 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时50分 ~ 22时34分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 22时34分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 23时32分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -204,6 +206,21 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 23时32分]"
+        },
+        {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
           "source": "金十数据",
@@ -234,20 +251,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时36分 ~ 15时38分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时34分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -321,8 +324,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 23时32分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -405,11 +408,12 @@
             13,
             11,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 23时32分]"
         }
       ]
     },
