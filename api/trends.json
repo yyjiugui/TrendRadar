@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:30:58.227027+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-22T06:33:04.977562+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -29,19 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
             13,
             10,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     },
@@ -103,11 +105,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     }
