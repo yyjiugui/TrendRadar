@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T10:33:54.010581+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-02-21T12:43:04.436495+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 10时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时43分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -37,11 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 10时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时43分]"
+        },
+        {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时43分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -67,16 +80,16 @@
           "time_info": "[00时50分 ~ 02时58分]"
         },
         {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
           "ranks": [
             3,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时33分]"
+          "time_info": "[10时33分 ~ 12时43分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -90,27 +103,17 @@
           "time_info": "[00时50分 ~ 04时41分]"
         },
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
           "url": "https://wallstreetcn.com/livenews/3057139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时43分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -118,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时43分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -165,7 +169,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
@@ -176,27 +180,29 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时43分]"
+        },
+        {
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时33分]"
+          "time_info": "[10时33分 ~ 12时43分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -217,11 +223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时43分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -257,11 +264,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时43分]"
+        },
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 12时43分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -276,18 +296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时33分 ~ 10时33分]"
-        },
-        {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 10时33分]"
         },
         {
           "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
@@ -340,11 +348,12 @@
           "url": "https://flash.jin10.com/detail/20260221081933045800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 12时43分]"
         }
       ]
     }
