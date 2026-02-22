@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:32:46.908019+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:34:17.894959+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     },
@@ -43,19 +43,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -83,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     },
@@ -104,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     }
