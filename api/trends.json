@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:39:21.352616+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-02-22T18:33:59.580569+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时33分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时33分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 18时33分]"
         }
       ]
     },
@@ -91,11 +91,12 @@
             6,
             11,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 17时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 18时33分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -138,8 +139,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时33分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -160,11 +161,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时33分]"
         }
       ]
     },
@@ -182,8 +184,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时33分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -195,8 +197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 18时33分]"
         }
       ]
     },
@@ -216,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 18时33分]"
         }
       ]
     },
