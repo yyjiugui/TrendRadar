@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T15:01:12.570208+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-02-22T15:44:53.434082+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -63,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 15时44分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -98,11 +99,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 15时44分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -119,7 +121,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -130,8 +132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -142,8 +144,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 15时44分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -161,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -173,8 +186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 15时44分]"
         }
       ]
     },
@@ -189,11 +202,12 @@
           "ranks": [
             16,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 15时44分]"
         }
       ]
     },
