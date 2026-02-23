@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T01:01:10.430141+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-24T01:07:41.855091+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         },
         {
           "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -48,19 +48,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         },
         {
           "title": "A股开市在即 哪些板块将领涨",
           "url": "https://www.toutiao.com/trending/7610049830315888147/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时07分]"
         },
         {
           "title": "A股即将开市 外围提前传来积极信号",
@@ -69,7 +70,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         }
@@ -87,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -98,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 01时07分]"
         }
       ]
     },
@@ -114,9 +115,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时07分]"
         }
       ]
     },
@@ -131,9 +132,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时07分]"
         }
       ]
     }
