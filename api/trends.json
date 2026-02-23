@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T03:23:55.326320+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-02-24T04:54:04.727178+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时54分]"
         },
         {
           "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时54分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时54分]"
         },
         {
           "title": "A股开市在即 哪些板块将领涨",
@@ -60,11 +60,12 @@
           "ranks": [
             8,
             10,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时54分]"
         },
         {
           "title": "A股即将开市 外围提前传来积极信号",
@@ -81,7 +82,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -91,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时54分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -103,8 +104,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时54分]"
+        },
+        {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
@@ -113,7 +125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -124,7 +136,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -132,7 +144,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -144,6 +156,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时07分]"
+        },
+        {
+          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
+          "url": "https://wallstreetcn.com/livenews/3057622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+          "url": "https://flash.jin10.com/detail/20260224031211079800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
+          "url": "https://flash.jin10.com/detail/20260224030646410800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -161,6 +206,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
+          "url": "https://wallstreetcn.com/livenews/3057635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }
