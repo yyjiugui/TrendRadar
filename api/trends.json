@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T06:41:31.489166+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-02-25T07:40:50.620004+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -51,19 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时41分]"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时40分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -75,6 +64,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -171,6 +172,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -207,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时40分]"
         },
         {
           "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
@@ -219,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时40分]"
         },
         {
           "title": "马年A股开门红",
@@ -230,22 +242,24 @@
             27,
             22,
             9,
-            24
+            24,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 06时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 07时40分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
           "url": "https://wallstreetcn.com/livenews/3058377",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
@@ -330,11 +344,12 @@
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时40分]"
         }
       ]
     },
@@ -348,11 +363,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 07时40分]"
         }
       ]
     },
