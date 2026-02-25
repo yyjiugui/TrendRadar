@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T07:40:50.620004+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-02-25T10:44:53.478521+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 10时44分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -64,6 +64,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时44分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
@@ -172,17 +184,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -208,7 +209,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -262,6 +263,17 @@
           "time_info": "[06时41分 ~ 07时40分]"
         },
         {
+          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
+          "url": "https://www.cls.cn/detail/2294203",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
           "url": "https://m.thepaper.cn/newsDetail_forward_32649321",
           "source": "澎湃新闻",
@@ -273,6 +285,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "A股有色板块盘初走强，云南锗业、中色股份涨停，章源钨业、锡业股份、北方稀土、华锡有色、盛和资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "如何理解A股“春季行情”",
           "url": "https://www.toutiao.com/trending/7610015143008714779/",
           "source": "今日头条",
@@ -282,13 +305,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "A股房地产板块盘初拉升，城投控股、光明地产触及涨停，我爱我家、上实发展、特发服务、广宇集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股磷化工板块延续涨势，澄星股份2连板，和邦生物、金正大、六国化工、恒光股份、川金诺等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3058442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
           "url": "https://wallstreetcn.com/livenews/3058274",
