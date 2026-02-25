@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T13:00:56.168527+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-02-25T14:11:39.321003+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 14时11分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -209,7 +209,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -256,11 +256,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时11分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -273,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时40分]"
+        },
+        {
+          "title": "A股商业航天板块震荡走高，航天发展午后涨停，科顺股份、星环科技涨超15%，神剑股份、航天宏图跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
@@ -306,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "A股房地产板块盘初拉升，城投控股、光明地产触及涨停，我爱我家、上实发展、特发服务、广宇集团跟涨。",
@@ -344,8 +367,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时11分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -458,7 +481,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         }
