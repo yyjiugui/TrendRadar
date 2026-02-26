@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T07:36:20.940439+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-02-26T10:40:31.117051+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 10时40分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -39,9 +39,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时40分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时40分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -152,7 +153,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -166,6 +167,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226062302497800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "据The Information：OpenAI聘请了Meta的AI研究员Ruoming Pang，他此前曾领导过苹果的AI模型团队。",
+          "url": "https://wallstreetcn.com/livenews/3059204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "据The Information：OpenAI正讨论扩大云服务协议，以纳入Trainium芯片。",
+          "url": "https://wallstreetcn.com/livenews/3059202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "据The Information：亚马逊对OpenAI的500亿美元投资可能取决于其IPO进程及AGI（通用人工智能）的实现。",
+          "url": "https://wallstreetcn.com/livenews/3059201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "Thrive Capital以2850亿美元估值投资OpenAI",
+          "url": "https://flash.jin10.com/detail/20260226011557830800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
+          "url": "https://wallstreetcn.com/livenews/3059072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "OpenAI聘请Meta公司的AI研究员庞若鸣，他曾领导苹果的模型团队。",
+          "url": "https://flash.jin10.com/detail/20260226095745692800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
+          "url": "https://flash.jin10.com/detail/20260226011101407800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI讨论将云协议扩展至包含Tranium芯片。",
+          "url": "https://flash.jin10.com/detail/20260226095541144800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。Thrive将其新基金中的约10亿美元投资于OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260226010942985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "亚马逊对OpenAI的500亿美元投资可能取决于其首次公开募股和通用人工智能情况。",
+          "url": "https://flash.jin10.com/detail/20260226095357061800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
@@ -245,78 +384,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
-          "url": "https://flash.jin10.com/detail/20260226062302497800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3059000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "Thrive Capital以2850亿美元估值投资OpenAI",
-          "url": "https://flash.jin10.com/detail/20260226011557830800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
-          "url": "https://wallstreetcn.com/livenews/3059072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
-          "url": "https://flash.jin10.com/detail/20260226011101407800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。Thrive将其新基金中的约10亿美元投资于OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260226010942985800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -356,6 +423,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 1,
       "titles": [
@@ -366,7 +450,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -386,8 +470,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时05分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[02时05分 ~ 10时40分]"
         }
       ]
     }
