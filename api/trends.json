@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:01:18.651201+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-02-26T19:50:58.075780+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 19时01分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 19时50分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -155,7 +155,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -188,7 +188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -441,8 +441,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时50分]"
         },
         {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
@@ -609,11 +609,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 14时04分]"
+          "appearance_count": 12,
+          "time_info": "[02时05分 ~ 19时50分]"
         }
       ]
     }
