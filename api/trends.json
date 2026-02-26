@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:04:38.522961+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-26T15:55:20.369626+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 14时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时55分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 14时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时55分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -310,7 +311,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
@@ -380,6 +381,89 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
+          "url": "https://wallstreetcn.com/livenews/3059104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "William O’Neil恢复跟踪赣锋锂业A股，评级买进。",
+          "url": "https://wallstreetcn.com/livenews/3059383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-26）",
+          "url": "https://flash.jin10.com/detail/20260226151335203800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "A股商业航天板块午后再度拉升，春晖智控20cm涨停，电科蓝天、迈信林、飞沃科技涨超10%，航天动力此前涨停，中集集团、信科移动跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3059286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股PCB概念股午后持续拉升，胜宏科技、同宇新材涨超10%，沪电股份、深南电路、大族激光此前涨停，东山精密、四会富仕、生益科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3059281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股收盘：沪指探底回升微跌，算力硬件股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3059363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
@@ -423,45 +507,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
-          "url": "https://wallstreetcn.com/livenews/3059104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "A股商业航天板块午后再度拉升，春晖智控20cm涨停，电科蓝天、迈信林、飞沃科技涨超10%，航天动力此前涨停，中集集团、信科移动跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3059286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "A股PCB概念股午后持续拉升，胜宏科技、同宇新材涨超10%，沪电股份、深南电路、大族激光此前涨停，东山精密、四会富仕、生益科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3059281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "摩尔线程 张建中",
       "match_count": 1,
       "titles": [
@@ -472,7 +517,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -488,11 +533,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 15时55分]"
         }
       ]
     },
