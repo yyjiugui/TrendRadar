@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T10:40:31.117051+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-02-26T12:57:33.944604+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 10时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 12时57分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时57分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时57分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -192,7 +192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -214,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -225,7 +225,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -258,7 +258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -280,7 +280,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -302,7 +302,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -431,11 +431,12 @@
           "url": "https://www.cls.cn/detail/2295242",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时57分]"
         }
       ]
     },
@@ -470,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时05分 ~ 10时40分]"
+          "appearance_count": 10,
+          "time_info": "[02时05分 ~ 12时57分]"
         }
       ]
     }
