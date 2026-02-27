@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:07:16.579140+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-02-27T16:52:37.822671+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -127,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -427,8 +427,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 15时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 16时52分]"
         },
         {
           "title": "【A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强】市场全天震荡分化，三大指数涨跌互现。有色板块集体走强，章源钨业、翔鹭钨业等多股涨停。稀土永磁板块拉升，中稀有色涨停，包钢股份接近涨停。算力租赁概念活跃，城地香江、利通电子等涨停。下跌方面，玻纤概念股下挫，国际复材跌近10%。个股涨多跌少，沪深京三市超3200股飘红，今日成交逾2.5万亿。截止收盘沪指涨0.39%，深成指跌0.06%，创业板指跌1.04%。",
@@ -437,7 +437,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -458,11 +458,12 @@
           "url": "https://www.cls.cn/detail/2296693",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时52分]"
         },
         {
           "title": "A股太空光伏概念持续走强，双良节能拉升封板，钧达股份回封涨停，聚和材料涨超10%，亿晶光电、帝尔激光、拉普拉斯等涨幅靠前。",
@@ -622,11 +623,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时52分]"
         }
       ]
     }
