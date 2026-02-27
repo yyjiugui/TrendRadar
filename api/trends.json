@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T01:42:13.321107+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-02-28T02:55:36.013498+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时55分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -26,8 +26,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时55分]"
         }
       ]
     },
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时55分]"
         }
       ]
     }
