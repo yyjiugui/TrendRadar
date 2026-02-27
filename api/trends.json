@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:38:35.225492+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-02-27T21:14:13.542609+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
@@ -453,6 +453,20 @@
           "time_info": "[00时00分 ~ 16时52分]"
         },
         {
+          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
+          "url": "https://www.cls.cn/detail/2297139",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 21时14分]"
+        },
+        {
           "title": "【A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强】市场全天震荡分化，三大指数涨跌互现。有色板块集体走强，章源钨业、翔鹭钨业等多股涨停。稀土永磁板块拉升，中稀有色涨停，包钢股份接近涨停。算力租赁概念活跃，城地香江、利通电子等涨停。下跌方面，玻纤概念股下挫，国际复材跌近10%。个股涨多跌少，沪深京三市超3200股飘红，今日成交逾2.5万亿。截止收盘沪指涨0.39%，深成指跌0.06%，创业板指跌1.04%。",
           "url": "https://wallstreetcn.com/livenews/3060064",
           "source": "华尔街见闻-快讯",
@@ -462,19 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
-          "url": "https://www.cls.cn/detail/2297139",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时38分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
@@ -680,7 +681,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
