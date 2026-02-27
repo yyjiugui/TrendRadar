@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-28T00:50:25.108209+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-28T01:42:13.321107+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
-          "url": "https://flash.jin10.com/detail/20260228002339246800",
-          "source": "金十数据",
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -24,6 +24,17 @@
           "source": "百度热搜",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时42分]"
+        },
+        {
+          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
+          "url": "https://flash.jin10.com/detail/20260228002339246800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -60,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时42分]"
         }
       ]
     }
