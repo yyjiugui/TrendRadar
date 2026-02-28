@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:32:08.940112+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-02-28T19:26:23.149022+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时35分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[05时35分 ~ 19时26分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -50,6 +50,18 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 19时26分]"
+        },
+        {
           "title": "OpenAI获1100亿美元新投资",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E6%8A%95%E8%B5%84",
           "source": "bilibili 热搜",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 18时32分]"
         },
         {
           "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
@@ -212,8 +223,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 19时26分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -251,8 +262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 19时26分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -264,6 +275,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -288,17 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
