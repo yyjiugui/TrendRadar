@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:31:38.580157+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2026-02-28T23:31:57.049287+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 22时31分]"
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 23时31分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -240,8 +240,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时28分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时28分 ~ 23时31分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -252,8 +252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时34分 ~ 22时31分]"
+          "appearance_count": 12,
+          "time_info": "[15时34分 ~ 23时31分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -283,6 +283,21 @@
           "time_info": "[00时50分 ~ 06时31分]"
         },
         {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            8,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时31分 ~ 23时31分]"
+        },
+        {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
@@ -292,20 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时31分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
