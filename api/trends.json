@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:42:44.031497+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2026-02-28T22:31:38.580157+08:00",
+  "total_titles_processed": 2036,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时35分 ~ 21时42分]"
+          "appearance_count": 19,
+          "time_info": "[05时35分 ~ 22时31分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -45,11 +45,12 @@
             8,
             16,
             12,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时50分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 22时31分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -97,6 +98,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时36分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时31分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -190,17 +203,6 @@
           "time_info": "12时20分"
         },
         {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -238,8 +240,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时28分 ~ 21时42分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 22时31分]"
+        },
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时34分 ~ 22时31分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -269,18 +283,6 @@
           "time_info": "[00时50分 ~ 06时31分]"
         },
         {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 21时42分]"
-        },
-        {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
@@ -298,11 +300,12 @@
           "ranks": [
             14,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时31分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -350,11 +353,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时42分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时31分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
