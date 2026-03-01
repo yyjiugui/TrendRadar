@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-01T15:01:51.574482+08:00",
-  "total_titles_processed": 1198,
-  "failed_sources": [],
+  "generated_at": "2026-03-01T16:40:09.295363+08:00",
+  "total_titles_processed": 1279,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
@@ -22,8 +24,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 15时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 16时40分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -76,7 +78,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
