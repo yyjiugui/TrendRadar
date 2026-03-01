@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T14:01:39.125525+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-01T15:01:51.574482+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -18,11 +18,12 @@
             19,
             10,
             9,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 14时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 15时01分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
