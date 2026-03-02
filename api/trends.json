@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:56:55.745733+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-03-02T19:36:52.768234+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -127,6 +127,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 19时36分]"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 13时58分]"
-        },
-        {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时56分]"
         },
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
@@ -210,7 +210,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
