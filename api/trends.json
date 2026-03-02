@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T06:35:38.767115+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-03T07:34:23.919272+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -23,11 +23,34 @@
           "url": "https://www.cls.cn/detail/2300294",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时58分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -54,6 +77,30 @@
           "time_info": "[00时58分 ~ 02时59分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
+          "url": "https://wallstreetcn.com/livenews/3062168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
+          "url": "https://wallstreetcn.com/livenews/3062167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
@@ -66,26 +113,15 @@
           "time_info": "[01时54分 ~ 02时59分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
-          "url": "https://wallstreetcn.com/livenews/3062168",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛：美股往上走的唯一途径就是先向下走",
+          "url": "https://flash.jin10.com/detail/20260303063803425800",
+          "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
-          "url": "https://wallstreetcn.com/livenews/3062167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时34分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览（美股收盘）",
@@ -116,7 +152,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -130,6 +166,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "2026年A股驱动逻辑或将发生变化",
+          "url": "https://www.toutiao.com/trending/7612666220537450027/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            26,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "摩根大通证券股份有限公司将中远海能A股评级上调至超配。",
+          "url": "https://wallstreetcn.com/livenews/3062090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时43分]"
+        },
+        {
+          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
+          "url": "https://www.cls.cn/detail/2300191",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -172,11 +251,12 @@
           "url": "https://flash.jin10.com/detail/20260303061532268800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
         },
         {
           "title": "美元指数涨0.8%",
@@ -189,38 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026年A股驱动逻辑或将发生变化",
-          "url": "https://www.toutiao.com/trending/7612666220537450027/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时35分]"
-        },
-        {
-          "title": "摩根大通证券股份有限公司将中远海能A股评级上调至超配。",
-          "url": "https://wallstreetcn.com/livenews/3062090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时43分]"
         }
       ]
     }
