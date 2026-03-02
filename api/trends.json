@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-03-02T07:32:19.156193+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-02T10:41:55.347488+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2415839",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "直击A股港股开盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BBA%E8%82%A1%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
+          "url": "https://wallstreetcn.com/livenews/3061271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股油气股开盘大涨，通源石油、中海油服、中曼石油、准油股份、石化油服、贝肯能源等多股一字涨停，潜能恒信、新锦动力等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -14,9 +77,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "美股股指期货低开1%",
@@ -25,7 +99,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -54,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -72,11 +146,12 @@
             14,
             15,
             16,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 10时41分]"
         }
       ]
     },
@@ -97,25 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时35分 ~ 07时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
-          "url": "https://wallstreetcn.com/livenews/3061271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时32分]"
         }
       ]
     }
