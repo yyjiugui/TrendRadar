@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T16:53:00.431229+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-03-03T17:54:09.572778+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 17时54分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -95,7 +96,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -123,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "美股狂欢到头了吗",
+          "url": "https://www.toutiao.com/trending/7612896770523155974/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "美股狂欢到头了吗",
-          "url": "https://www.toutiao.com/trending/7612896770523155974/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
@@ -294,6 +296,18 @@
           "time_info": "[02时59分 ~ 03时43分]"
         },
         {
+          "title": "代表建议A股延至下午4点闭市",
+          "url": "https://www.toutiao.com/trending/7612868591275212843/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
+        },
+        {
           "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
           "url": "https://wallstreetcn.com/livenews/3062442",
           "source": "华尔街见闻-快讯",
@@ -338,17 +352,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "代表建议A股延至下午4点闭市",
-          "url": "https://www.toutiao.com/trending/7612868591275212843/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "“三桶油”A股连续第二日集体涨停。",
           "url": "https://wallstreetcn.com/livenews/3062385",
           "source": "华尔街见闻-快讯",
@@ -377,7 +380,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -407,8 +410,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
+          "url": "https://flash.jin10.com/detail/20260303175117671800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
@@ -426,11 +440,12 @@
           "url": "https://www.cls.cn/detail/2300871",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -492,7 +507,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
