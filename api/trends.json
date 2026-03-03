@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T00:58:35.199327+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-04T01:53:33.495205+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         }
       ]
     },
@@ -43,19 +43,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
           "url": "https://www.toutiao.com/trending/7612660746741104650/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "url": "https://wallstreetcn.com/livenews/3062902",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
         }
       ]
     }
