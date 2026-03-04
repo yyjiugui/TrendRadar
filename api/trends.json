@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:57:03.685604+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:46:12.146572+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 01时46分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 01时46分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 01时46分]"
         }
       ]
     },
@@ -53,7 +53,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         },
@@ -64,7 +64,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         }
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 01时46分]"
         }
       ]
     },
@@ -99,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 01时46分]"
         }
       ]
     }
