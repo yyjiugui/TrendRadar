@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:37:39.942615+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2026-03-04T21:12:03.737897+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时36分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[10时36分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "风险资产全线反弹，美股期指转涨，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -242,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 21时12分]"
         },
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -273,6 +284,19 @@
           "time_info": "[00时58分 ~ 04时40分]"
         },
         {
+          "title": "中国石油A股市值重回第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时12分]"
+        },
+        {
           "title": "中石油时隔七年重夺A股市值冠军",
           "url": "https://www.toutiao.com/trending/7612223959422337066/",
           "source": "今日头条",
@@ -283,18 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时51分 ~ 18时45分]"
-        },
-        {
-          "title": "中国石油A股市值重回第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时37分]"
         },
         {
           "title": "A股农业股午后再度拉升，神农种业、秋乐种业涨超15%，农发种业、亚盛集团此前涨停，康农种业、登海种业、荃银高科、隆平高科涨逾7%。",
