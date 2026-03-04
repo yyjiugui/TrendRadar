@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-04T13:51:27.784861+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-04T14:58:58.018500+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 14时58分]"
+        },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 06时37分]"
-        },
-        {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 13时51分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 14时58分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -185,7 +185,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -222,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 14时58分]"
         },
         {
           "title": "A股农业股午后再度拉升，神农种业、秋乐种业涨超15%，农发种业、亚盛集团此前涨停，康农种业、登海种业、荃银高科、隆平高科涨逾7%。",
@@ -232,9 +232,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3063401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "中国石油A股盘中闪崩触及跌停，随后快速拉升转涨。 中国海洋、中国石化盘中也均触及跌停，随后快速拉升收窄跌幅。",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "A股福建本地股局部异动，海峡创新涨超14%，平潭发展、永福股份、红相股份涨超8%，路桥信息、漳州发展等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3063382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
