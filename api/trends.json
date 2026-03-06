@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:44:07.769950+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T19:36:42.656722+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时55分 ~ 18时44分]"
+          "appearance_count": 15,
+          "time_info": "[07时55分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -202,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -357,11 +357,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时37分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时37分 ~ 19时36分]"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
@@ -485,11 +486,12 @@
           "url": "https://www.cls.cn/detail/2304913",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时36分]"
         }
       ]
     }
