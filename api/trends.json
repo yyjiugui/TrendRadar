@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-03-06T13:52:32.264936+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-03-06T15:01:39.612267+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 15时01分]"
+        },
+        {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时39分 ~ 15时01分]"
+        },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
           "url": "https://wallstreetcn.com/articles/3766762",
@@ -30,17 +54,6 @@
           "time_info": "[02时11分 ~ 06时39分]"
         },
         {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 13时52分]"
-        },
-        {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时11分 ~ 13时52分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时39分 ~ 13时52分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -197,20 +197,114 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "keyword_group": "A股",
+      "match_count": 9,
       "titles": [
         {
-          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
-          "url": "https://flash.jin10.com/detail/20260306120949776800",
-          "source": "金十数据",
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
           "ranks": [
-            5
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 07时56分]"
+        },
+        {
+          "title": "A股三大指数全线翻红，此前创业板一度跌超1%。 港股持续走高，恒生指数涨幅扩大至1%，恒生科技指数涨幅扩大至2.38%。",
+          "url": "https://wallstreetcn.com/livenews/3064800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "10时37分"
         },
+        {
+          "title": "A股机器人概念股震荡拉升，宗申动力涨停，上纬新材涨超10%，国茂股份、许昌智能、恒辉安防、科德数控涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3064796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股有机硅概念震荡拉升，晨光新材涨停，宏柏新材、硅宝科技、集泰股份、回天新材、东岳硅材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "A股化工股持续拉升，卫星化学午后涨停，股价创历史新高，红墙股份、红宝丽此前封板，滨化股份、齐翔腾达、怡达股份、氯碱化工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "A股PCB概念股震荡走高，华工科技盘中创新高，奥士康2连板，科翔股份涨超15%，日联科技、中一科技、泰永长征、共进股份、迅捷兴跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "A股算力租赁概念震荡走强，美利云2连板，城地香江涨停，中贝通信、海天瑞声、云赛智联、铜牛信息跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股算力租赁板块午后拉升，宁波建工直线涨停，亚康股份、科华数据、东方国信纷纷上涨。",
+          "url": "https://wallstreetcn.com/livenews/3064879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "A股油气股延续跌势，洲际油气接近跌停，准油股份、石化油服、科力股份、中海油服、中曼石油等纷纷低开。",
+          "url": "https://wallstreetcn.com/livenews/3064762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
@@ -221,8 +315,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 15时01分]"
+        },
+        {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -292,100 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
-          "url": "https://finance.ifeng.com/loc/cbslt2026",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时56分]"
-        },
-        {
-          "title": "A股三大指数全线翻红，此前创业板一度跌超1%。 港股持续走高，恒生指数涨幅扩大至1%，恒生科技指数涨幅扩大至2.38%。",
-          "url": "https://wallstreetcn.com/livenews/3064800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "A股机器人概念股震荡拉升，宗申动力涨停，上纬新材涨超10%，国茂股份、许昌智能、恒辉安防、科德数控涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3064796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "A股化工股持续拉升，卫星化学午后涨停，股价创历史新高，红墙股份、红宝丽此前封板，滨化股份、齐翔腾达、怡达股份、氯碱化工跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3064891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "A股PCB概念股震荡走高，华工科技盘中创新高，奥士康2连板，科翔股份涨超15%，日联科技、中一科技、泰永长征、共进股份、迅捷兴跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3064883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "A股算力租赁概念震荡走强，美利云2连板，城地香江涨停，中贝通信、海天瑞声、云赛智联、铜牛信息跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3064779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "A股算力租赁板块午后拉升，宁波建工直线涨停，亚康股份、科华数据、东方国信纷纷上涨。",
-          "url": "https://wallstreetcn.com/livenews/3064879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "A股油气股延续跌势，洲际油气接近跌停，准油股份、石化油服、科力股份、中海油服、中曼石油等纷纷低开。",
-          "url": "https://wallstreetcn.com/livenews/3064762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         }
       ]
     },
