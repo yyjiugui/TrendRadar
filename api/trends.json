@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T16:50:17.016453+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-06T17:50:32.317300+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时55分 ~ 16时50分]"
+          "appearance_count": 12,
+          "time_info": "[07时55分 ~ 17时50分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -230,7 +230,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -349,8 +349,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时37分 ~ 16时50分]"
+          "appearance_count": 10,
+          "time_info": "[10时37分 ~ 17时50分]"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
@@ -462,6 +462,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时56分 ~ 06时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郑栅洁：集成电路、航空航天、生物医药等六大新兴支柱产业相关产值到2030年有望扩大到十万亿元以上",
+          "url": "https://www.cls.cn/detail/2304913",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     }
