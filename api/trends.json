@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-08T01:28:53.770026+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-08T02:43:13.797704+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Techmeme：OpenAI硬件与机器人工程负责人Caitlin Kalinowski辞职，原因是美国对国内监控和致命自主武器系统的担忧。",
+          "url": "https://flash.jin10.com/detail/20260308014504453800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -15,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时43分]"
         }
       ]
     },
@@ -32,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时43分]"
         }
       ]
     },
@@ -49,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时43分]"
         }
       ]
     }
