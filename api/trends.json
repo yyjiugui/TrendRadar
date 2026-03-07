@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:31:57.212262+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-03-07T19:27:29.260601+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时34分 ~ 19时27分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -116,7 +116,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时39分]"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
@@ -168,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 19时27分]"
         },
         {
           "title": "国家发改委：“十五五”规划纲要草案面向中期着力打造集成电路、生物医药、航空航天等新兴支柱产业",
@@ -227,6 +238,35 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股总市值超110万亿元",
+          "url": "https://www.douyin.com/hot/2421123",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 15时35分]"
+        },
+        {
+          "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2306076",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -241,24 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股总市值超110万亿元",
-          "url": "https://www.douyin.com/hot/2421123",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 15时35分]"
         }
       ]
     }
