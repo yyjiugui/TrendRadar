@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:02:01.279372+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-03-07T22:31:40.095132+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[07时34分 ~ 22时31分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -177,11 +177,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 22时31分]"
         },
         {
           "title": "国家发改委：“十五五”规划纲要草案面向中期着力打造集成电路、生物医药、航空航天等新兴支柱产业",
@@ -243,6 +244,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2306076",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时31分]"
+        },
+        {
           "title": "A股总市值超110万亿元",
           "url": "https://www.douyin.com/hot/2421123",
           "source": "抖音",
@@ -253,18 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 15时35分]"
-        },
-        {
-          "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2306076",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
         }
       ]
     },
