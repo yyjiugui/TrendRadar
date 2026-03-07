@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T17:37:01.065756+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-03-07T18:31:57.212262+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 18时31分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -168,8 +168,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 18时31分]"
         },
         {
           "title": "国家发改委：“十五五”规划纲要草案面向中期着力打造集成电路、生物医药、航空航天等新兴支柱产业",
@@ -178,7 +178,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -189,7 +189,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
