@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T19:28:06.337746+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-03-08T21:03:21.268755+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             5,
             8,
             13,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 21时03分]"
         },
         {
           "title": "沙特阿美股价早盘上涨3.3%。",
@@ -73,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 19时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时36分 ~ 21时03分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -86,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时30分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时30分 ~ 21时03分]"
         },
         {
           "title": "下周A股如何选择方向",
