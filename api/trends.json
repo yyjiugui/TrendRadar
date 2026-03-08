@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T10:43:55.356467+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-03-08T12:49:26.634173+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "url": "https://www.cls.cn/detail/2306076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时49分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -56,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时49分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时49分]"
         }
       ]
     },
