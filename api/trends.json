@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T14:54:42.483111+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-08T15:36:04.564366+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 15时36分]"
+        },
+        {
+          "title": "沙特阿美股价早盘上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260308150416829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 2,
       "titles": [
@@ -45,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 14时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 15时36分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -58,26 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 14时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 14时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 15时36分]"
         }
       ]
     },
