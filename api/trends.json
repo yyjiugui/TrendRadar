@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T21:17:34.429489+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-03-10T22:57:47.735602+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -157,7 +168,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -327,7 +338,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据AXIOS网站：由谷歌和特斯拉等公司组成的联盟将通过挖掘未充分利用的电网容量来解决能源可负担性问题。",
@@ -336,7 +347,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -351,6 +362,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "五角大楼引入谷歌AI代理 自动化非机密日常工作",
+          "url": "https://flash.jin10.com/detail/20260310222453964800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新兴市场股市和汇市涨幅扩大，油价刷新日低。 标普500指数涨超0.2%，道指涨超0.3%，纳指涨超。4%，半导体指数涨1.6%，银行指数涨0.6%。 布伦特原油日内跌幅达11.5%，报87.42美元/桶。 WTI原油日内跌幅达12.0%，报83.16美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3067396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美元指数跌0.63%。 澳元兑美元上涨0.50%，至0.7104。 英镑兑美元上涨0.31%，至1.3470。 欧元兑美元上涨0.12%，至1.1652。",
+          "url": "https://wallstreetcn.com/livenews/3067147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
+          "url": "https://wallstreetcn.com/livenews/3066702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     },
@@ -383,34 +444,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌0.63%。 澳元兑美元上涨0.50%，至0.7104。 英镑兑美元上涨0.31%，至1.3470。 欧元兑美元上涨0.12%，至1.1652。",
-          "url": "https://wallstreetcn.com/livenews/3067147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
-          "url": "https://wallstreetcn.com/livenews/3066702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航空航天 商业卫星",
       "match_count": 2,
       "titles": [
@@ -421,7 +454,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
