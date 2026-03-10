@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T01:53:44.663921+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-11T03:10:21.320938+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时10分]"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
