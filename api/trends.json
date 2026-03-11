@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T21:17:00.989973+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-03-11T22:54:53.572278+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时34分 ~ 21时17分]"
+          "appearance_count": 18,
+          "time_info": "[07时34分 ~ 22时54分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -78,6 +78,17 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 22时54分]"
+        },
+        {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
           "url": "https://wallstreetcn.com/livenews/3067572",
           "source": "华尔街见闻-快讯",
@@ -102,17 +113,6 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 21时17分]"
-        },
-        {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3067553",
           "source": "华尔街见闻-快讯",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -198,7 +209,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -209,9 +220,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
+        },
+        {
+          "title": "美股信仰彻底终结了吗？",
+          "url": "https://www.zhihu.com/question/2010322244996453210",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
@@ -271,7 +293,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -356,7 +378,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -378,7 +400,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         }
@@ -457,7 +479,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         }
