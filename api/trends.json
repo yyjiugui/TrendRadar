@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:51:15.714972+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-03-11T19:39:42.300717+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时34分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[07时34分 ~ 19时39分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -398,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时39分]"
         }
       ]
     }
