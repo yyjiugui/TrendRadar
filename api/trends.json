@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T06:35:35.371739+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-03-14T07:36:34.969713+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -51,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
@@ -63,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
@@ -75,8 +75,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
@@ -84,11 +84,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时36分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
@@ -96,11 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时36分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -112,6 +114,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美伊冲突升级，美股倒V转跌，Mag7陷入回调，Meta跌近4%，美元破百，金银三连跌",
+          "url": "https://wallstreetcn.com/articles/3767492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -136,11 +160,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
@@ -151,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "彭博美元现货指数创2026年收盘新高。",
@@ -175,8 +200,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时36分]"
         }
       ]
     },
@@ -194,8 +219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时36分]"
         }
       ]
     },
