@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:53:48.490055+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-03-14T03:54:16.173745+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时54分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -63,11 +63,12 @@
           "url": "https://www.zhihu.com/question/2014783631814580088",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时54分]"
         }
       ]
     },
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时54分]"
         }
       ]
     },
