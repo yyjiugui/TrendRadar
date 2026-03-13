@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T10:40:06.072772+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-03-13T12:51:10.836916+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -33,6 +33,18 @@
           "time_info": "[00时07分 ~ 06时34分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时34分 ~ 12时51分]"
+        },
+        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -44,16 +56,15 @@
           "time_info": "[07时35分 ~ 10时40分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 10时40分]"
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -206,7 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -217,7 +228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -228,7 +239,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
