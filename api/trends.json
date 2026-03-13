@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T04:43:59.473733+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-14T05:44:38.453726+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -31,6 +31,54 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
+          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
+          "url": "https://wallstreetcn.com/articles/3767394",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040823519800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040819364800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
+        },
+        {
+          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
+          "url": "https://flash.jin10.com/detail/20260314040028174800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
+        },
+        {
           "title": "美股三大指数集体高开 百度涨超2%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
           "source": "百度热搜",
@@ -42,48 +90,26 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
+          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3070022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时44分"
         },
         {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
+          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3070015",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时44分"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -107,44 +133,48 @@
           "url": "https://wallstreetcn.com/articles/3767392",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
           "url": "https://flash.jin10.com/detail/20260314043306471800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
         },
         {
           "title": "彭博美元现货指数创2026年收盘新高。",
           "url": "https://wallstreetcn.com/livenews/3070004",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
         },
         {
           "title": "美元指数收盘价创年内新高。",
           "url": "https://flash.jin10.com/detail/20260314040234290800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时44分]"
         }
       ]
     },
@@ -158,11 +188,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时44分]"
         }
       ]
     },
