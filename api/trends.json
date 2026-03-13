@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T00:51:12.111260+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-14T01:41:55.947220+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时41分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260314003323131800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -36,9 +37,20 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003327722800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时41分"
         }
       ]
     },
@@ -54,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时41分]"
         }
       ]
     },
@@ -71,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时41分]"
         }
       ]
     },
@@ -87,7 +99,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
         }
