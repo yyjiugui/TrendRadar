@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T16:52:32.647804+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-03-13T17:50:00.767079+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时07分 ~ 06时34分]"
         },
         {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 17时50分]"
+        },
+        {
           "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
           "url": "https://www.cls.cn/detail/2311450",
           "source": "财联社热门",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时34分 ~ 15时04分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -170,7 +170,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
