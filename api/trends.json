@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T13:53:30.425101+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-14T14:59:04.853967+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 14时59分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 14时59分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -243,11 +244,12 @@
           "ranks": [
             8,
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 14时59分]"
         }
       ]
     },
@@ -278,11 +280,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 14时59分]"
         }
       ]
     }
