@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-15T06:34:33.138440+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-03-15T07:35:03.952202+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时35分]"
+        },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
@@ -19,26 +30,16 @@
           "time_info": "[00时40分 ~ 06时34分]"
         },
         {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
           "url": "https://wallstreetcn.com/articles/3767500",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时35分]"
         }
       ]
     },
