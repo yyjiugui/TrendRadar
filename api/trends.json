@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:42:12.778268+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-15T18:39:12.622804+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 18时39分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -96,11 +96,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 18时39分]"
         }
       ]
     }
