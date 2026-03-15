@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T16:47:23.962634+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-03-15T17:42:12.778268+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 16时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 17时42分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -94,11 +95,12 @@
           "url": "https://www.cls.cn/detail/2312787",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 17时42分]"
         }
       ]
     }
