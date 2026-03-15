@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T21:07:56.417832+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-03-15T22:38:10.978644+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,19 @@
           "time_info": "[00时40分 ~ 07时35分]"
         },
         {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时32分 ~ 22时38分]"
+        },
+        {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
           "url": "https://flash.jin10.com/detail/20260315102410675800",
           "source": "金十数据",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 13时13分]"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 21时07分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
@@ -130,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 21时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 22时38分]"
         }
       ]
     }
