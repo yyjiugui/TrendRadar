@@ -1,94 +1,11 @@
 {
-  "generated_at": "2026-03-16T17:06:28.572282+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-03-16T19:02:22.408604+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-16）",
-          "url": "https://flash.jin10.com/detail/20260316152055206800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
-          "url": "https://flash.jin10.com/detail/20260316165054629800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "A股港口航运板块午后拉升，招商南油直线涨停，海航科技此前封板，招商轮船、中远海能、招商港口跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3070600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "华虹公司午后直线拉升，A股涨超8%，H股涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3070597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
-          "url": "https://wallstreetcn.com/livenews/3070768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "A股白酒股快速反弹，皇台酒业封涨停，金徽酒涨近6%，酒鬼酒、贵州茅台、舍得酒业、金种子酒纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/3070517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -102,6 +19,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -149,15 +77,126 @@
           "time_info": "13时24分"
         },
         {
+          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美光科技美股盘前涨3.8%，此前加拿大皇家银行将其目标价从425美元上调至525美元。",
           "url": "https://wallstreetcn.com/livenews/3070742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-16）",
+          "url": "https://flash.jin10.com/detail/20260316152055206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
+          "url": "https://flash.jin10.com/detail/20260316165054629800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "A股港口航运板块午后拉升，招商南油直线涨停，海航科技此前封板，招商轮船、中远海能、招商港口跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3070600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "华虹公司午后直线拉升，A股涨超8%，H股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3070597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
+          "url": "https://wallstreetcn.com/livenews/3070768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "A股白酒股快速反弹，皇台酒业封涨停，金徽酒涨近6%，酒鬼酒、贵州茅台、舍得酒业、金种子酒纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3070517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程与中国移动研究院等 联合发布128卡高密超节点参考设计",
+          "url": "https://wallstreetcn.com/livenews/3070823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
