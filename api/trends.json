@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T05:48:39.110182+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-03-17T06:41:57.903537+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -80,7 +80,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
@@ -125,7 +125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -155,8 +155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时41分]"
         }
       ]
     }
