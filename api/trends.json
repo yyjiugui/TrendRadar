@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T21:28:57.399734+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-03-16T23:08:35.558718+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -21,13 +21,24 @@
           "time_info": "[00时40分 ~ 15时41分]"
         },
         {
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "霍尔木兹海峡现通航迹象，美股期货涨幅扩大，WTI原油日内跌幅达3%，现货黄金重回5000美元",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -94,7 +105,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -105,7 +116,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -127,7 +138,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -232,7 +243,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -247,11 +258,12 @@
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时08分]"
         },
         {
           "title": "OpenAI在“星际之门”战略转变后任命Sachin Katti为新的基础设施负责人。（The Information）",
@@ -260,7 +272,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -271,7 +283,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
