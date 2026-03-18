@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-19T05:42:31.793872+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-03-19T06:39:04.185109+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 06时39分]"
+        },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
@@ -37,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时39分]"
         },
         {
           "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
@@ -49,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时39分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -130,8 +143,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时39分]"
         }
       ]
     },
@@ -166,8 +179,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时39分]"
         }
       ]
     },
@@ -180,11 +193,12 @@
           "url": "https://www.cls.cn/detail/2316947",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时39分]"
         }
       ]
     }
