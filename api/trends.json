@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:00:00.513576+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-03-18T18:06:12.208275+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -79,6 +79,17 @@
           "time_info": "[04时49分 ~ 05时46分]"
         },
         {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260318040650412800",
           "source": "金十数据",
@@ -124,11 +135,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 17时00分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时06分]"
         },
         {
           "title": "A股创新药板块震荡上扬，华兰股份、荣昌生物盘中创新高，中源协和涨停，三生国健、欧林生物、盟科药业、北陆药业、济民健康跟涨。",
@@ -208,11 +220,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 18时06分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -351,11 +364,12 @@
           "url": "https://www.toutiao.com/trending/7618482201037901355/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 18时06分]"
         },
         {
           "title": "黄金多空对垒延续，三套估值方式均显示价格仍被低估",
@@ -381,11 +395,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 17时00分]"
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 18时06分]"
         }
       ]
     }
