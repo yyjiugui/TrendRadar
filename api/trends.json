@@ -1,480 +1,8 @@
 {
-  "generated_at": "2026-03-18T23:22:41.828383+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-03-19T01:43:56.680944+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 06时41分]"
-        },
-        {
-          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 06时41分]"
-        },
-        {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时48分 ~ 10时48分]"
-        },
-        {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 15时11分]"
-        },
-        {
-          "title": "美股期货小幅走高，标普500指数期货现涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3072061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3071892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时46分]"
-        },
-        {
-          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3072307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
-          "url": "https://wallstreetcn.com/articles/3767807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260318040650412800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260318040647205800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3072379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3072458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 腾讯音乐大跌24%",
-          "url": "https://flash.jin10.com/detail/20260318040110624800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国2月PPI数据公布后，美股三大股指期货跌幅扩大，均跌至日内低点；美元指数短线拉升，日内涨0.2%。现货黄金回落至4890美元/盎司下方，日内跌2.36%。美国国债走低，10年期国债收益率快速拉升，现报4.206%。",
-          "url": "https://wallstreetcn.com/livenews/3072449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 18时06分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
-          "url": "https://wallstreetcn.com/livenews/3071826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时13分]"
-        },
-        {
-          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3071904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时41分]"
-        },
-        {
-          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
-          "url": "https://www.cls.cn/detail/2316519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
-          "url": "https://www.zhihu.com/question/2017426077002253714",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
-          "url": "https://wallstreetcn.com/livenews/3071811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
-          "url": "https://flash.jin10.com/detail/20260318010850842800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
-          "url": "https://flash.jin10.com/detail/20260318044954930800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股版HALO被热买，电网设备ETF“独苗”30亿到300亿只用俩月，还有哪些ETF“含HALO”更高？",
-          "url": "https://www.cls.cn/detail/2316463",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 21时28分]"
-        },
-        {
-          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
-          "url": "https://www.cls.cn/detail/2316947",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 23时22分]"
-        },
-        {
-          "title": "A股创新药板块震荡上扬，华兰股份、荣昌生物盘中创新高，中源协和涨停，三生国健、欧林生物、盟科药业、北陆药业、济民健康跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318102511571800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "A股AI应用概念震荡走高，顺网科技涨超11%，协创数据涨超8%，卓创资讯、思特奇、博睿数据、宝信软件、神州信息等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318144907861800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "A股燃气轮机概念震荡拉升，万泽股份逼近涨停，飞沃科技、三角防务、应流股份、东方电气等涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3072186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "A股MicroLED概念短线拉升，艾比森涨超10%，劲拓股份、雷曼光电、炬光科技、GQY视讯、聚灿光电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318101303029800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "A股油气股集体下挫，洲际油气触及跌停，山东墨龙逼近跌停，科力股份、贝肯能源、潜能恒信、中海油服跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3072024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "A股通信服务板块震荡走高，世纪恒通涨超13%，平治信息、光环新网、立昂技术、蜂助手、奥飞数据等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318100449121800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
-          "url": "https://wallstreetcn.com/livenews/3071936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "谷歌：正在与英国竞争与市场管理局（CMA）合作，致力于确保规则促进公平与选择。",
-          "url": "https://wallstreetcn.com/livenews/3072463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
-          "url": "https://wallstreetcn.com/livenews/3071936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数17日下跌",
-          "url": "https://flash.jin10.com/detail/20260318051816405800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时41分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3071821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时13分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3071867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时00分 ~ 23时22分]"
-        },
-        {
-          "title": "黄金多空对垒延续，三套估值方式均显示价格仍被低估",
-          "url": "https://flash.jin10.com/detail/20260318101827269800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -484,17 +12,62 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3,
-            6,
-            8,
-            11,
-            13,
-            15,
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时48分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
+          "url": "https://www.cls.cn/detail/2316947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
