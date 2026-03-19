@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:55:07.864887+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-03-19T18:52:12.774542+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -161,8 +161,21 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
+          "url": "https://www.cls.cn/detail/2317812",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 18时52分]"
+        },
         {
           "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
           "url": "https://www.cls.cn/detail/2316947",
@@ -196,18 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
-        },
-        {
-          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
-          "url": "https://www.cls.cn/detail/2317812",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时52分 ~ 17时55分]"
         },
         {
           "title": "A股",
@@ -299,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "A股今日共36只个股涨停",
+          "url": "https://www.toutiao.com/trending/7618548795769258025/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
