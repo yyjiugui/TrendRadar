@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T04:49:15.502866+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-20T05:43:14.794818+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时43分]"
         },
         {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3073561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -36,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -47,9 +48,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3073567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
@@ -58,7 +70,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -73,11 +85,24 @@
           "url": "https://wallstreetcn.com/livenews/3073555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
+        },
+        {
+          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3073546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
         },
         {
           "title": "美元指数DXY日内大跌1%，现报99.29。",
@@ -100,17 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
         }
       ]
     },
@@ -123,11 +137,12 @@
           "url": "https://wallstreetcn.com/livenews/3073558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -136,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -155,8 +170,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时43分]"
         }
       ]
     }
