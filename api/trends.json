@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T21:21:49.363738+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2026-03-19T22:56:24.042549+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -118,11 +118,12 @@
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货跌幅扩大至0.7%，纳指期货跌0.8%，均至日内低点。",
@@ -131,7 +132,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -175,7 +176,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -363,7 +364,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -444,11 +445,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时56分]"
         }
       ]
     },
@@ -522,7 +524,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         }
