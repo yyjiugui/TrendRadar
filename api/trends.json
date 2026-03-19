@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T13:02:09.184243+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-03-19T14:08:27.378833+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 14时08分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -138,6 +138,102 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
+          "url": "https://www.cls.cn/detail/2316947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时41分]"
+        },
+        {
+          "title": "A股CPO概念低开高走，瑞斯康达涨超8%，华工科技涨超6%，新易盛、天孚通信、德科立、智立方、协创数据、天通股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319104310175800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股多元金融板块短线拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319135444449800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时08分]"
+        },
+        {
+          "title": "中信证券朱烨辛：中国资产吸引力持续提升，A股迎增量配置转折期",
+          "url": "https://flash.jin10.com/detail/20260319135020941800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "A股大金融股异动拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3072963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "A股三大指数持续下挫，深成指跌超2%，沪指、创业板指均跌超1%。有色金属、化学化工板块跌幅居前，全市场近5000只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3072950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "A股燃气板块再度拉升，天壕能源、国新能源涨停，凯添燃气涨超25%，深圳燃气、新奥股份、洪通燃气、水发燃气、胜利股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319134114005800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -173,46 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
-          "url": "https://www.cls.cn/detail/2316947",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时41分]"
-        },
-        {
-          "title": "A股CPO概念低开高走，瑞斯康达涨超8%，华工科技涨超6%，新易盛、天孚通信、德科立、智立方、协创数据、天通股份等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260319104310175800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         }
       ]
     },
@@ -255,11 +311,12 @@
           "ranks": [
             16,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 14时08分]"
         }
       ]
     },
