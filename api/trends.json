@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:48:23.770927+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-20T19:38:06.506503+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
@@ -346,8 +346,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时40分 ~ 18时48分]"
+          "appearance_count": 11,
+          "time_info": "[10时40分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -492,7 +492,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -566,7 +566,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -612,6 +612,45 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -637,34 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         }
       ]
     },
