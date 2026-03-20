@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:52:35.114314+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-20T17:52:49.963231+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -338,6 +338,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 17时52分]"
+        },
+        {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
           "url": "https://www.cls.cn/detail/2318884",
           "source": "财联社热门",
@@ -348,18 +360,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时36分 ~ 15时09分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 16时52分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -481,7 +481,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -492,7 +492,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
