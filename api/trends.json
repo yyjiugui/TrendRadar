@@ -1,786 +1,122 @@
 {
-  "generated_at": "2026-03-20T23:52:11.050385+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2026-03-21T00:54:40.978903+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
-          "url": "https://www.cls.cn/detail/2318943",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 16时52分]"
-        },
-        {
-          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
-          "url": "https://wallstreetcn.com/articles/3767885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 15时09分]"
-        },
-        {
-          "title": "A股惊现千亿市值ST公司",
-          "url": "https://wallstreetcn.com/livenews/3073628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "A股工业金属板块午后震荡走弱，众源新材触及跌停，东阳光、豪美新材、宁波富邦、银邦股份、丽岛新材、天山铝业等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260320134258889800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "和讯投顾：下周A股大概率继续探底",
-          "url": "https://www.toutiao.com/trending/7619326412742200873/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "A股第8只千元股",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AC%AC8%E5%8F%AA%E5%8D%83%E5%85%83%E8%82%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "A股源杰科技封板涨停，现报1140元/股，成A股市场第二高价股。",
-          "url": "https://wallstreetcn.com/livenews/3073723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时53分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 15时09分]"
-        },
-        {
-          "title": "年内A股公司涉套期保值公告数量同比大增七成",
-          "url": "https://wallstreetcn.com/livenews/3073619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "年内公募机构豪掷近115亿元参与A股定增",
-          "url": "https://wallstreetcn.com/livenews/3073618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "A股午评：创业板指半日涨超3%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8D%8A%E6%97%A5%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3073787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股化工股集体调整，潞化科技触及跌停，金牛化工、中泰化学、江苏索普、中毅达、兴化股份均跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3073708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3073785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股源杰科技封板涨停，现报1140元/股，成交额超36亿元，成A股市场第二高价股。",
-          "url": "https://flash.jin10.com/detail/20260320101721079800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股光伏、储能板块震荡拉升，正泰电源涨停，首航新能涨超12%，艾罗能源、华民股份、锦浪科技、德业股份、阳光电源、禾迈股份涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3073701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股太空光伏概念持续走高，钧达股份封涨停，捷佳伟创触及20cm涨停，迈为股份、拉普拉斯、连城数控、晶科能源、奥特维均涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3073782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股中际旭创成交额达200亿元，现涨近8.5%。",
-          "url": "https://flash.jin10.com/detail/20260320101653678800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股半日放量1392亿",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1392%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "A股算力租赁板块震荡回调，超讯通信封板跌停，大位科技跌超7%，东方国信、首都在线、常山北明、宏景科技等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260320101333106800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股电力板块反复活跃，华电辽能5连板，韶能股份3连板，东方新能2连板，长源电力、甘肃能源、兆新股份涨停。",
-          "url": "https://wallstreetcn.com/livenews/3073688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股种业板块持续走弱，秋乐种业跌超7%，莲花控股跌超6%，*ST万方跌超5%，康农种业、天禾股份、农发种业、亚联发展等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260320101220620800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "源杰科技股价触及1000元，续创历史新高，成为A股历史上第8只千元股。",
-          "url": "https://wallstreetcn.com/livenews/3073685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股油气股盘初调整，山东墨龙逼近跌停，通源石油、潜能恒信、科力股份、首华燃气、洲际油气、准油股份跌逾7%。",
-          "url": "https://wallstreetcn.com/livenews/3073684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股算力租赁板块午后再度下挫，协创数据午后闪崩跌超17%，东方国信跌超10%，超讯通信此前跌停，宏景科技、大位科技等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260320131507249800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股算力硬件股开盘强势，铭普光磁2连板，瑞斯康达一字涨停，长光华芯、德科立、天孚通信、新易盛 、联特科技均涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3073680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股小金属概念板块午后震荡上涨，赣锋锂业、大中矿业午后快速拉升涨超9%，云南锗业此前一字涨停，天华新能、容百科技、当升矿业、国城矿业等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260320131014832800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股三大指数开盘涨跌不一，创业板指高开1.6%",
-          "url": "https://wallstreetcn.com/livenews/3073677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股新易盛成交额超300亿元，现涨8.3%。",
-          "url": "https://flash.jin10.com/detail/20260320144750397800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "A股午评：创业板指半日涨超3%刷新年内新高 BC电池、CPO概念板块领涨大市",
-          "url": "https://flash.jin10.com/detail/20260320114514539800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时40分 ~ 23时52分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 15时09分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时37分]"
-        },
-        {
-          "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 23时52分]"
-        },
-        {
-          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3073561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时43分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时52分]"
-        },
-        {
-          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3073567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时36分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.83%，报341.31点，逼近2025年12月18日收盘位338.36点，较2月27日所创收盘历史最高位累计回撤27.44%。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌6.63%，报2395.68点，逼近12月16日收盘位2378.54点，较3月2日所创收盘历史最高位累计回撤27.57%。 在美股时段交易的原材料指数收跌2.67%，金属与矿业指数收跌0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3073593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040622886800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "00时54分"
         },
         {
-          "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040620199800",
-          "source": "金十数据",
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
-          "url": "https://flash.jin10.com/detail/20260320040117255800",
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260321003203096800",
           "source": "金十数据",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "00时54分"
         },
         {
-          "title": "超微电脑美股盘后跌8.8%。",
-          "url": "https://wallstreetcn.com/livenews/3073615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "高盛拉响警报！美股或迎猛烈回调，传统的避风港将失灵？",
-          "url": "https://flash.jin10.com/detail/20260320121013817800",
+          "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260321003056283800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "美国锑美股盘前涨超8%，公司第四季度业绩超出市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3073925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3074048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "超微电脑美股盘前跌超20%。",
-          "url": "https://wallstreetcn.com/livenews/3073923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3073555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时43分]"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时43分]"
-        },
-        {
-          "title": "美元指数DXY日内大跌1%，现报99.29。",
-          "url": "https://flash.jin10.com/detail/20260320025757960800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
-          "url": "https://wallstreetcn.com/livenews/3073480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "报道称美国将向中东增派兵力后，现货黄金日内跌2.00%，现报4557.35美元/盎司。现货白银日内重挫6.00%，现报68.45美元/盎司。美元指数DXY日内涨超0.5%，报99.76。",
-          "url": "https://flash.jin10.com/detail/20260320222618679800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
-          "url": "https://wallstreetcn.com/livenews/3074039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
-          "url": "https://flash.jin10.com/detail/20260320210018195800",
+          "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
+          "url": "https://flash.jin10.com/detail/20260321004049081800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "00时54分"
         },
         {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
-          "url": "https://flash.jin10.com/detail/20260320063627057800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "【黄金本周表现恐创逾四十年来最糟，伊朗战争开打以来周线三连跌】黄金恐将录得1983年以来最大单周跌幅，现货黄金本周迄今累计跌超9%，势将连续第八个交易日下跌，创2023年10月以来最长连跌；COMEX黄金期货本周已累跌将近10%。中东战争推高能源价格，并削弱了市场对降息的预期。自美国和以色列上月开始袭击伊朗以来，被普遍视为避险资产的黄金每周都遭遇下跌。金价回落之际，美国国债收益率和美元走强，投资者抛售黄金以弥补其他资产损失，黄金ETF出现资金流出，全球持仓已抹去年初以来全部增量。彭博汇编的数据显示，黄金ETF将连续第三周出现资金流出，期间持仓减少逾60吨。",
-          "url": "https://wallstreetcn.com/livenews/3074251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
         {
           "title": "黄金白银价格为何双双暴跌",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 23时52分]"
-        },
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时43分]"
-        },
-        {
-          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
-          "url": "https://flash.jin10.com/detail/20260320033049642800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时40分]"
+          "time_info": "00时54分"
         }
       ]
     }
