@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:58:11.077537+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-03-20T15:09:00.190323+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时09分]"
+        },
+        {
+          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
+          "url": "https://wallstreetcn.com/articles/3767885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时09分]"
         },
         {
           "title": "A股惊现千亿市值ST公司",
@@ -31,25 +43,13 @@
           "time_info": "07时37分"
         },
         {
-          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
-          "url": "https://wallstreetcn.com/articles/3767885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 13时58分]"
-        },
-        {
           "title": "A股工业金属板块午后震荡走弱，众源新材触及跌停，东阳光、豪美新材、宁波富邦、银邦股份、丽岛新材、天山铝业等跟跌。",
           "url": "https://flash.jin10.com/detail/20260320134258889800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 12时53分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 15时09分]"
         },
         {
           "title": "年内A股公司涉套期保值公告数量同比大增七成",
@@ -116,7 +128,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -138,7 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -171,7 +183,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -185,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "A股半日放量1392亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1392%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "A股算力租赁板块震荡回调，超讯通信封板跌停，大位科技跌超7%，东方国信、首都在线、常山北明、宏景科技等跟跌。",
@@ -248,7 +271,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -264,24 +287,13 @@
           "time_info": "10时40分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "A股小金属概念板块午后震荡上涨，赣锋锂业、大中矿业午后快速拉升涨超9%，云南锗业此前一字涨停，天华新能、容百科技、当升矿业、国城矿业等跟跌。",
           "url": "https://flash.jin10.com/detail/20260320131014832800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -295,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "A股新易盛成交额超300亿元，现涨8.3%。",
+          "url": "https://flash.jin10.com/detail/20260320144750397800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "A股午评：创业板指半日涨超3%刷新年内新高 BC电池、CPO概念板块领涨大市",
@@ -322,8 +345,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时09分]"
+        },
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时36分 ~ 13时58分]"
+          "time_info": "[10时40分 ~ 15时09分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -336,17 +370,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 07时37分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时58分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -593,7 +616,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
