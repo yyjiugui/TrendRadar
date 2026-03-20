@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:38:06.506503+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-03-20T21:14:58.357706+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -335,7 +335,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -343,11 +343,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时40分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[10时40分 ~ 21时14分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -431,6 +432,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260320040620199800",
           "source": "金十数据",
@@ -462,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "高盛拉响警报！美股或迎猛烈回调，传统的避风港将失灵？",
@@ -574,8 +597,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
+          "url": "https://flash.jin10.com/detail/20260320210018195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
           "url": "https://flash.jin10.com/detail/20260320063632572800",
@@ -627,6 +661,18 @@
           "time_info": "[07时36分 ~ 07时37分]"
         },
         {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时14分]"
+        },
+        {
           "title": "国内金饰价格继续下探 老庙黄金领跌",
           "url": "https://flash.jin10.com/detail/20260320132124842800",
           "source": "金十数据",
@@ -636,17 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         }
       ]
     },
