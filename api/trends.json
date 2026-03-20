@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T12:53:29.410437+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-03-20T13:58:11.077537+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 13时58分]"
         },
         {
           "title": "A股惊现千亿市值ST公司",
@@ -31,13 +31,36 @@
           "time_info": "07时37分"
         },
         {
+          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
+          "url": "https://wallstreetcn.com/articles/3767885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 13时58分]"
+        },
+        {
+          "title": "A股工业金属板块午后震荡走弱，众源新材触及跌停，东阳光、豪美新材、宁波富邦、银邦股份、丽岛新材、天山铝业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260320134258889800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "A股第8只千元股",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AC%AC8%E5%8F%AA%E5%8D%83%E5%85%83%E8%82%A1%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -52,18 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 12时53分]"
-        },
-        {
-          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
-          "url": "https://wallstreetcn.com/articles/3767885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时53分]"
         },
         {
           "title": "年内A股公司涉套期保值公告数量同比大增七成",
@@ -94,9 +105,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3073787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "A股化工股集体调整，潞化科技触及跌停，金牛化工、中泰化学、江苏索普、中毅达、兴化股份均跌超7%。",
@@ -108,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3073785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "A股源杰科技封板涨停，现报1140元/股，成交额超36亿元，成A股市场第二高价股。",
@@ -130,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "A股太空光伏概念持续走高，钧达股份封涨停，捷佳伟创触及20cm涨停，迈为股份、拉普拉斯、连城数控、晶科能源、奥特维均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3073782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "A股中际旭创成交额达200亿元，现涨近8.5%。",
@@ -198,6 +242,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "A股算力租赁板块午后再度下挫，协创数据午后闪崩跌超17%，东方国信跌超10%，超讯通信此前跌停，宏景科技、大位科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260320131507249800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "A股算力硬件股开盘强势，铭普光磁2连板，瑞斯康达一字涨停，长光华芯、德科立、天孚通信、新易盛 、联特科技均涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3073680",
           "source": "华尔街见闻-快讯",
@@ -220,6 +275,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "A股小金属概念板块午后震荡上涨，赣锋锂业、大中矿业午后快速拉升涨超9%，云南锗业此前一字涨停，天华新能、容百科技、当升矿业、国城矿业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260320131014832800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "A股三大指数开盘涨跌不一，创业板指高开1.6%",
           "url": "https://wallstreetcn.com/livenews/3073677",
           "source": "华尔街见闻-快讯",
@@ -237,7 +303,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
@@ -247,6 +313,18 @@
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 13时58分]"
+        },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2318602",
@@ -260,16 +338,15 @@
           "time_info": "[00时02分 ~ 07时37分]"
         },
         {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时53分]"
+          "time_info": "[10时40分 ~ 13时58分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -281,17 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时53分]"
         },
         {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
@@ -379,7 +445,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
@@ -506,6 +572,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -523,23 +617,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 10时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
         }
       ]
     }
