@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:34:33.352174+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-03-21T23:33:49.514915+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时33分 ~ 22时34分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 13,
-          "time_info": "[07时36分 ~ 22时34分]"
+          "time_info": "[10时33分 ~ 23时33分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -46,6 +32,21 @@
           "time_info": "[00时54分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时36分 ~ 23时33分]"
+        },
+        {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
           "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
@@ -56,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 23时33分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -117,6 +118,17 @@
           "time_info": "[04时41分 ~ 07时36分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 23时33分]"
+        },
+        {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 22时34分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
@@ -370,11 +371,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时33分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -414,8 +416,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 23时33分]"
         },
         {
           "title": "本周A股行情分化 下周走势会如何",
