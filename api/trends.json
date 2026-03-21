@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:32:49.197290+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-03-22T06:33:17.898768+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
           "url": "https://wallstreetcn.com/articles/3768039",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时46分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[02时46分 ~ 06时33分]"
         }
       ]
     },
@@ -65,8 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -94,8 +95,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     }
