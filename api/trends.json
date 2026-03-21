@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T00:38:42.418832+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-22T01:32:20.684369+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         }
       ]
     },
@@ -51,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20260322000325105800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -65,8 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时32分]"
         }
       ]
     }
