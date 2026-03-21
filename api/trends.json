@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T07:36:38.928690+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-03-21T10:33:57.620308+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -28,11 +28,12 @@
             7,
             8,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 10时33分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -57,11 +58,12 @@
             9,
             8,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 10时33分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -75,7 +77,30 @@
           "time_info": "[04时41分 ~ 07时36分]"
         },
         {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时33分]"
+        },
+        {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
@@ -83,18 +108,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "10时33分"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
@@ -136,11 +150,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 10时33分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
@@ -167,6 +182,18 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（3月20日），美国科技股七巨头（Magnificent 7）指数跌2.00%，报185.18点，本周累计下跌2.48%，3月16-17日高位窄幅震荡，3月18-20日持续走低。 “超大”市值科技股指数跌1.99%，报352.43点，本周累跌2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3074383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时33分]"
+        },
+        {
           "title": "超微电脑美股盘后涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/3074341",
           "source": "华尔街见闻-快讯",
@@ -179,6 +206,17 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
           "url": "https://flash.jin10.com/detail/20260321023913056800",
           "source": "金十数据",
@@ -188,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（3月20日），美国科技股七巨头（Magnificent 7）指数跌2.00%，报185.18点，本周累计下跌2.48%，3月16-17日高位窄幅震荡，3月18-20日持续走低。 “超大”市值科技股指数跌1.99%，报352.43点，本周累跌2.19%。",
-          "url": "https://wallstreetcn.com/livenews/3074383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
         },
         {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
@@ -316,8 +343,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时33分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
