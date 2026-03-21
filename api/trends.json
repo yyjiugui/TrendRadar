@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-03-21T17:39:54.698047+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-03-21T18:36:02.261953+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时36分 ~ 18时36分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 18时36分]"
+        },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
@@ -33,32 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 17时39分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 17时39分]"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 17时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 18时36分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -76,6 +76,20 @@
           "time_info": "[00时54分 ~ 06时36分]"
         },
         {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 18时36分]"
+        },
+        {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
@@ -89,20 +103,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 10时33分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 17时39分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -150,6 +150,17 @@
           "time_info": "[04时41分 ~ 05时37分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 18时36分]"
+        },
+        {
           "title": "美股三大指数收跌 超微电脑跌超30%",
           "url": "https://flash.jin10.com/detail/20260321040036809800",
           "source": "金十数据",
@@ -172,17 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 10时33分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 17时39分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
@@ -397,11 +397,12 @@
           "url": "https://www.cls.cn/detail/2320337",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时36分]"
         }
       ]
     },
