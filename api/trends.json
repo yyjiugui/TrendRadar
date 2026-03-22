@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T12:59:08.696566+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-03-22T14:02:11.101220+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 14时02分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -90,6 +90,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
+          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时02分]"
+        },
+        {
           "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
           "source": "澎湃新闻",
@@ -99,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
-        },
-        {
-          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
-          "url": "https://flash.jin10.com/detail/20260322112216406800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         }
       ]
     },
@@ -126,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 14时02分]"
         }
       ]
     }
