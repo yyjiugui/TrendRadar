@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:02:11.101220+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-22T15:41:52.360298+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时41分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -124,11 +124,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时41分]"
         }
       ]
     }
