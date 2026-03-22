@@ -1,190 +1,33 @@
 {
-  "generated_at": "2026-03-22T23:33:48.083010+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-03-23T00:39:50.761170+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 10时50分]"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时33分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时38分 ~ 21时06分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时46分 ~ 06时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
-          "url": "https://flash.jin10.com/detail/20260322112216406800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
-        },
-        {
-          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 07时33分]"
-        },
-        {
-          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
-          "url": "https://flash.jin10.com/detail/20260322152315932800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时38分 ~ 23时33分]"
-        },
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2320651",
           "source": "财联社热门",
           "ranks": [
-            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
-          "title": "A股当前良性调整何时结束",
-          "url": "https://www.toutiao.com/trending/7619258793600057363/",
-          "source": "今日头条",
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 23时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 10时50分]"
-        },
-        {
-          "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
-          "url": "https://flash.jin10.com/detail/20260322000325105800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "渣打集团行政总裁：希望进一步深入了解DeepSeek",
-          "url": "https://wallstreetcn.com/livenews/3074546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "00时39分"
         }
       ]
     }
