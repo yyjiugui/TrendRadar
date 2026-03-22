@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T07:33:03.473455+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-22T10:50:10.899904+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时50分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时50分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -63,11 +63,12 @@
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时50分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -113,8 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时50分]"
         }
       ]
     }
