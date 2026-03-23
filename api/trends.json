@@ -1,11 +1,120 @@
 {
-  "generated_at": "2026-03-23T07:36:09.895714+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-23T10:50:19.910640+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股当前良性调整何时结束？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2320651",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时50分]"
+        },
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时36分]"
+        },
+        {
+          "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323104004713800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "地缘政治扰动的悲观预期或已充分计价，机构：A股市场调整风险可控",
+          "url": "https://wallstreetcn.com/livenews/3074648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美伊冲突，全球受扰，A股彰显“以我为主”韧性，机构看好两大主线",
+          "url": "https://www.cls.cn/detail/2320547",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
+          "url": "https://wallstreetcn.com/livenews/3074740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股电网设备概念盘中拉升，三变科技触及涨停，百利电气、新特电气、保变电气、中国西电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323101023517800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股CPO等算力硬件股盘初调整，三安光电一字跌停，富信科技、汇绿生态、铭普光磁、金禄电子、长光华芯、炬光科技均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3074732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -38,52 +147,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美股期货跌幅收窄，道指期货转为上涨0.1%，标普500指数期货现跌0.1%，纳指期货跌近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3074755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "A股当前良性调整何时结束？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2320651",
-          "source": "财联社热门",
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "地缘政治扰动的悲观预期或已充分计价，机构：A股市场调整风险可控",
-          "url": "https://wallstreetcn.com/livenews/3074648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "10时50分"
         }
       ]
     }
