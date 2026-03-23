@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T10:50:19.910640+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-03-23T13:10:36.870340+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时10分]"
         },
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -34,13 +34,35 @@
           "time_info": "[00时39分 ~ 07时36分]"
         },
         {
+          "title": "分析师：情绪冰点后A股市场或迎反弹",
+          "url": "https://www.toutiao.com/trending/7620232895352995859/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3074845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260323104004713800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -62,7 +84,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -73,9 +95,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
@@ -84,7 +117,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -95,7 +128,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -106,7 +139,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -158,7 +191,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -173,11 +206,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时10分]"
         }
       ]
     }
