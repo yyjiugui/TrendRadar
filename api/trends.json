@@ -1,478 +1,133 @@
 {
-  "generated_at": "2026-03-23T23:03:50.578004+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-03-24T01:02:02.969821+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
         {
-          "title": "全球市场V型反转，美股期货盘前急速拉升，原油大跌，金属齐涨",
+          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股期货盘前涨幅回落，原油跌幅收窄，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股高开高走，科技股普涨，原油跌幅收窄，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "美股能源股盘前回吐涨幅，雪佛龙股价下跌1.2%，埃克森美孚股价下跌1.3%，西方石油公司股价下跌4.5%，康菲石油公司股价下跌1.8%。",
-          "url": "https://flash.jin10.com/detail/20260323194354528800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
           "url": "https://www.cls.cn/detail/2321917",
           "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 23时03分]"
-        },
-        {
-          "title": "美股期货亚市盘初走低，油价上涨",
-          "url": "https://wallstreetcn.com/livenews/3074641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时36分]"
-        },
-        {
-          "title": "美股股指期货周一走低，纳指期货跌0.68%。",
-          "url": "https://flash.jin10.com/detail/20260323060224970800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时36分]"
-        },
-        {
-          "title": "美股期指金银快速反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 23时03分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
           "url": "https://www.cls.cn/detail/2321966",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 23时03分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%",
-          "url": "https://wallstreetcn.com/livenews/3075157",
+          "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
+          "url": "https://wallstreetcn.com/livenews/3075315",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "01时02分"
         },
         {
-          "title": "国际油价回吐涨幅，布油、WTI原油期货转跌。 美股期货收复失地，标普500指数期货转为基本持平。",
-          "url": "https://wallstreetcn.com/livenews/3074649",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指金银快速反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            9
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3075211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "高盛：AI或是美股最后的抛售来源",
-          "url": "https://www.toutiao.com/trending/7620340271837875763/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "01时02分"
         },
         {
           "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时03分"
-        },
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.9%，道指期货跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3074941",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待谷歌逐步收紧安卓应用侧载计划？",
+          "url": "https://www.zhihu.com/question/2019018192186557023",
+          "source": "知乎",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美股期货拉升，纳斯达克100指数期货涨超2%，标普500指数期货涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3075140",
+          "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
+          "url": "https://wallstreetcn.com/livenews/3075306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "美股三大股指期货突然拉升",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%9C%9F%E8%B4%A7%E7%AA%81%E7%84%B6%E6%8B%89%E5%8D%87%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "美股期货跌幅收窄，道指期货转为上涨0.1%，标普500指数期货现跌0.1%，纳指期货跌近0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3074755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美股涨幅扩大，纳指涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3075244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时03分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
         {
-          "title": "A股当前良性调整何时结束？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2320651",
+          "title": "A股均价创年内新低！百元股数量锐减，七成板块年内收跌，这些方向回撤明显",
+          "url": "https://www.cls.cn/detail/2321670",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 13时10分]"
-        },
-        {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "分析师：情绪冰点后A股市场或迎反弹",
-          "url": "https://www.toutiao.com/trending/7620232895352995859/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3074845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260323104004713800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "A股三大指数尾盘均跌超4%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%BE%E7%9B%98%E5%9D%87%E8%B7%8C%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 19时52分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "十大券商看后市｜A股继续大幅下探的空间有限，不宜盲目杀跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32812547",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 23时03分]"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时21分]"
-        },
-        {
-          "title": "地缘政治扰动的悲观预期或已充分计价，机构：A股市场调整风险可控",
-          "url": "https://wallstreetcn.com/livenews/3074648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "A股均价创年内新低！百元股数量锐减，七成板块年内收跌，这些方向回撤明显",
-          "url": "https://www.cls.cn/detail/2321670",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "A股收盘：沪指跌3.63%险守3800点，全市场下跌个股超5100只",
-          "url": "https://wallstreetcn.com/livenews/3074950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "美伊冲突，全球受扰，A股彰显“以我为主”韧性，机构看好两大主线",
-          "url": "https://www.cls.cn/detail/2320547",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "券商晨会精华：A股已处于调整后半段",
-          "url": "https://www.cls.cn/detail/2320769",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "A股CPO、PCB概念持续走弱，汇绿生态、剑桥科技、广合科技、世嘉科技、超声电子等股跌停。",
-          "url": "https://flash.jin10.com/detail/20260323143845197800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "源杰科技为何成A股史上第8只千元股",
-          "url": "https://www.toutiao.com/trending/7620074600277216810/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
-          "url": "https://wallstreetcn.com/livenews/3074740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "A股电网设备概念盘中拉升，三变科技触及涨停，百利电气、新特电气、保变电气、中国西电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260323101023517800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "A股CPO等算力硬件股盘初调整，三安光电一字跌停，富信科技、汇绿生态、铭普光磁、金禄电子、长光华芯、炬光科技均跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3074732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数持续走低，较日内高位走低约100点，最新报99.50。",
-          "url": "https://wallstreetcn.com/livenews/3075155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "美元指数升破100，日内上涨0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3075075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     },
@@ -485,32 +140,11 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            6,
-            8,
-            12,
-            13
+            11
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时50分 ~ 23时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
-          "url": "https://flash.jin10.com/detail/20260323170206648800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "01时02分"
         }
       ]
     }
