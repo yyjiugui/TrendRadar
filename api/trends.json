@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T13:10:36.870340+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-03-23T15:21:36.554708+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -40,7 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -51,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -67,6 +67,29 @@
           "time_info": "10时50分"
         },
         {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时21分]"
+        },
+        {
+          "title": "A股三大指数尾盘均跌超4%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%BE%E7%9B%98%E5%9D%87%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "地缘政治扰动的悲观预期或已充分计价，机构：A股市场调整风险可控",
           "url": "https://wallstreetcn.com/livenews/3074648",
           "source": "华尔街见闻-快讯",
@@ -76,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "A股收盘：沪指跌3.63%险守3800点，全市场下跌个股超5100只",
+          "url": "https://wallstreetcn.com/livenews/3074950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美伊冲突，全球受扰，A股彰显“以我为主”韧性，机构看好两大主线",
@@ -100,15 +134,26 @@
           "time_info": "10时50分"
         },
         {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "A股CPO、PCB概念持续走弱，汇绿生态、剑桥科技、广合科技、世嘉科技、超声电子等股跌停。",
+          "url": "https://flash.jin10.com/detail/20260323143845197800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "15时21分"
+        },
+        {
+          "title": "源杰科技为何成A股史上第8只千元股",
+          "url": "https://www.toutiao.com/trending/7620074600277216810/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
@@ -147,7 +192,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -185,6 +230,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.9%，道指期货跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3074941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美股期货跌幅收窄，道指期货转为上涨0.1%，标普500指数期货现跌0.1%，纳指期货跌近0.3%。",
           "url": "https://wallstreetcn.com/livenews/3074755",
           "source": "华尔街见闻-快讯",
@@ -207,11 +263,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 15时21分]"
         }
       ]
     }
