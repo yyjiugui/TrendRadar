@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T18:58:22.333217+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-03-24T19:52:09.070937+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
@@ -86,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -273,6 +273,18 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时41分 ~ 19时52分]"
+        },
+        {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
           "url": "https://www.cls.cn/detail/2321917",
           "source": "财联社热门",
@@ -282,18 +294,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时40分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 18时58分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -391,11 +391,12 @@
           "ranks": [
             4,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 18时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 19时52分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -434,6 +435,18 @@
           "time_info": "[13时01分 ~ 15时59分]"
         },
         {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 19时52分]"
+        },
+        {
           "title": "美伊和谈信号提振市场，美股盘前小幅上涨，现货黄金跌幅收窄，布油仍涨约2%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -467,17 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时44分]"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "美股大涨 国际油价跌超10%",
@@ -634,28 +636,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 18时58分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Phillip Nova分析师：短期内黄金价格可能仍将波动不定",
@@ -667,6 +649,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "黄金价格回落 印度多地珠宝店顾客数量激增",
+          "url": "https://flash.jin10.com/detail/20260324192619608800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 19时52分]"
         }
       ]
     }
