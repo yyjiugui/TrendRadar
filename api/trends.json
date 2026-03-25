@@ -1,8 +1,328 @@
 {
-  "generated_at": "2026-03-25T19:49:46.750567+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-25T21:26:31.696698+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时38分 ~ 21时26分]"
+        },
+        {
+          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时40分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时40分]"
+        },
+        {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 14时11分]"
+        },
+        {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15,
+            14,
+            16,
+            24,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 19时49分]"
+        },
+        {
+          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2323371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时49分]"
+        },
+        {
+          "title": "非美货币多数在美股盘后走高",
+          "url": "https://wallstreetcn.com/livenews/3076209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时40分]"
+        },
+        {
+          "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3076183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时45分]"
+        },
+        {
+          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时49分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股期指涨幅收窄，拼多多盘前涨超4%，现货黄金短线下挫，原油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3076698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
+          "url": "https://wallstreetcn.com/livenews/3076170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "标普500盈利预期逆势上修 华尔街押注美股挺过地缘风险冲击",
+          "url": "https://wallstreetcn.com/livenews/3076697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260325060548968800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3076200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260325040543913800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金价美股盘后拉升，投资者紧盯中东局势",
+          "url": "https://wallstreetcn.com/livenews/3076199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260325040525777800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
+          "url": "https://flash.jin10.com/detail/20260325161629723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
+          "url": "https://wallstreetcn.com/livenews/3076192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 Circle大跌20%",
+          "url": "https://flash.jin10.com/detail/20260325040120661800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "拼多多美股盘前涨超4%，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3076682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
+          "url": "https://wallstreetcn.com/livenews/3076177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 24,
@@ -22,6 +342,21 @@
           "time_info": "[13时01分 ~ 18时56分]"
         },
         {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 21时26分]"
+        },
+        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
@@ -34,20 +369,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时47分 ~ 17时03分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 19时49分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -285,272 +606,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时38分 ~ 19时49分]"
-        },
-        {
-          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
-        },
-        {
-          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
-          "url": "https://www.cls.cn/detail/2323617",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时11分]"
-        },
-        {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            15,
-            14,
-            16,
-            24,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时08分 ~ 19时49分]"
-        },
-        {
-          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2323371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时49分]"
-        },
-        {
-          "title": "非美货币多数在美股盘后走高",
-          "url": "https://wallstreetcn.com/livenews/3076209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时40分]"
-        },
-        {
-          "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3076183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时45分]"
-        },
-        {
-          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3076621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时49分]"
-        },
-        {
-          "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
-          "url": "https://wallstreetcn.com/livenews/3076170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260325060548968800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3076200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260325040543913800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "金价美股盘后拉升，投资者紧盯中东局势",
-          "url": "https://wallstreetcn.com/livenews/3076199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260325040525777800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
-          "url": "https://wallstreetcn.com/livenews/3076219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
-          "url": "https://flash.jin10.com/detail/20260325161629723800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
-          "url": "https://wallstreetcn.com/livenews/3076192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 Circle大跌20%",
-          "url": "https://flash.jin10.com/detail/20260325040120661800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3076543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
-          "url": "https://wallstreetcn.com/livenews/3076177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
@@ -577,6 +634,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时58分 ~ 17时03分]"
+        },
+        {
+          "title": "A股大涨 外资建议高配中国资产",
+          "url": "https://www.toutiao.com/trending/7620340500297793586/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "年内外资机构调研A股公司超900次，聚焦高端制造与科技创新两大核心赛道",
@@ -800,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
