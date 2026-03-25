@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T17:03:15.259513+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-03-25T18:56:54.377904+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 18时56分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -35,17 +36,6 @@
           "time_info": "[10时47分 ~ 17时03分]"
         },
         {
-          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
-          "url": "https://flash.jin10.com/detail/20260325043011532800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -56,8 +46,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 18时56分]"
+        },
+        {
+          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
+          "url": "https://flash.jin10.com/detail/20260325043011532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -285,7 +286,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -296,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 17时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 18时56分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -347,8 +348,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 17时03分]"
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 18时56分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -381,11 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时56分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -409,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
@@ -483,7 +496,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -516,7 +529,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
