@@ -1,95 +1,51 @@
 {
-  "generated_at": "2026-03-26T23:13:57.842606+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-27T01:12:38.920884+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 22,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时42分 ~ 23时13分]"
-        },
-        {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 15时35分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 06时45分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时49分]"
-        },
-        {
-          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2324750",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时42分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时45分]"
-        },
-        {
-          "title": "特朗普敦促伊朗谈判 美股三大指数低开",
-          "url": "https://flash.jin10.com/detail/20260326213026370800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时12分"
         },
+        {
+          "title": "谷歌公司Fiber更名为GFiber。",
+          "url": "https://wallstreetcn.com/livenews/3077578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
           "url": "https://wallstreetcn.com/articles/3768430",
@@ -97,62 +53,14 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "01时12分"
         },
         {
-          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 21时50分]"
-        },
-        {
-          "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3076887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时49分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3076897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时45分]"
-        },
-        {
-          "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
-          "url": "https://wallstreetcn.com/livenews/3076894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时45分]"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260326005801127800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
@@ -161,310 +69,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260326005618072800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美股跌幅扩大，布油涨幅扩大，特朗普称“不知道我们是否愿意与伊朗达成协议”",
-          "url": "https://wallstreetcn.com/livenews/3077550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
-          "url": "https://wallstreetcn.com/livenews/3077097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "摩根大通交易员结束“美股看跌交易”",
-          "url": "https://www.toutiao.com/trending/7621380902110629439/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "美股存储板块盘前走低，美光科技跌近3%，闪迪跌近4%，西部数据跌近3%，希捷科技跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3077269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040606409800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040604173800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 CPU巨头走强",
-          "url": "https://flash.jin10.com/detail/20260326040128570800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及美股）原以为会跌得更厉害。",
-          "url": "https://flash.jin10.com/detail/20260326225354237800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时42分 ~ 23时13分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 23时13分]"
-        },
-        {
-          "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260326022229112800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2325042",
+          "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2326015",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "谷歌公司推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
-          "url": "https://wallstreetcn.com/livenews/3076804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
-          "url": "https://wallstreetcn.com/livenews/3076836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美国社交媒体成瘾案陪审团裁定，谷歌需支付90万美元的惩罚性赔偿金。",
-          "url": "https://flash.jin10.com/detail/20260326035612512800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
-          "url": "https://www.cls.cn/detail/2325757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时13分]"
-        },
-        {
-          "title": "券商密集发声：支撑A股中长期向好的核心根基未发生动摇",
-          "url": "https://wallstreetcn.com/livenews/3076947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "海尔智家：拟以30亿-60亿元回购A股股份",
-          "url": "https://wallstreetcn.com/livenews/3077494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股绿色电力板块盘中震荡回调，绿色动力、浙江新能、海峡环保触及跌停，中环海陆跌超10%，江苏新能、宁波能源、韶能股份等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260326102017528800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "A股收盘：三大指数均跌超1%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E8%B7%8C%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "A股收盘：三大指数均跌超1%，全市场成交不足2万亿",
-          "url": "https://wallstreetcn.com/livenews/3077205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            16,
-            12,
-            11,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 23时13分]"
-        },
-        {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
-          "url": "https://flash.jin10.com/detail/20260326100821499800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         }
       ]
     },
@@ -473,45 +86,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数25日上涨",
-          "url": "https://flash.jin10.com/detail/20260326043313899800",
-          "source": "金十数据",
+          "title": "WTI原油日内涨幅达5.0%，报94.89美元/桶。 纳斯达克100指数跌幅扩大至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3077599",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            14,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时45分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
-          "title": "美元指数涨0.2%，日元再次跌向160",
-          "url": "https://wallstreetcn.com/livenews/3076876",
+          "title": "标普500指数跌幅扩大至1%，刷新日低。 道指跌266点，跌幅0.6%，纳指跌1.3%。 现货黄金日内跌幅达2.5%，报4392.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077595",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩尔线程联合硅臻芯片推出“量超智通”融合计算平台",
-          "url": "https://wallstreetcn.com/livenews/3077417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "01时12分"
         }
       ]
     },
@@ -524,14 +118,45 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
+          "url": "https://www.cls.cn/detail/2325757",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }
