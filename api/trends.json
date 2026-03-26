@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T19:10:25.545749+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-03-26T19:57:43.162173+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 19时57分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -91,6 +91,17 @@
           "time_info": "[04时49分 ~ 05时49分]"
         },
         {
+          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时57分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
           "url": "https://wallstreetcn.com/livenews/3076897",
           "source": "华尔街见闻-快讯",
@@ -124,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股盘中）",
@@ -229,8 +229,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 19时57分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -238,11 +238,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 19时57分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -368,8 +369,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 19时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 19时57分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -426,6 +427,23 @@
       ]
     },
     {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程联合硅臻芯片推出“量超智通”融合计算平台",
+          "url": "https://wallstreetcn.com/livenews/3077417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -440,8 +458,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 19时57分]"
         }
       ]
     }
