@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T00:02:34.974579+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-03-28T01:53:46.736780+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时53分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时53分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -30,24 +42,13 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
           "title": "20岁女生引爆美股至暗时刻",
           "url": "https://www.toutiao.com/trending/7621797188750344246/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
@@ -56,61 +57,88 @@
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时53分]"
+        },
+        {
+          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
+          "url": "https://flash.jin10.com/detail/20260328013224717800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
           "url": "https://www.cls.cn/detail/2327153",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时53分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时53分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时53分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时53分]"
         }
       ]
     },
@@ -126,8 +154,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时53分]"
         }
       ]
     },
@@ -142,7 +170,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         }
