@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T21:21:47.007077+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2026-03-27T22:58:39.989984+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时56分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 22时58分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -32,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时56分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 22时58分]"
         },
         {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
@@ -117,6 +118,28 @@
           "time_info": "[19时47分 ~ 21时21分]"
         },
         {
+          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "20岁女生引爆美股至暗时刻",
+          "url": "https://www.toutiao.com/trending/7621797188750344246/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2326015",
           "source": "财联社热门",
@@ -162,6 +185,17 @@
           "time_info": "[05时06分 ~ 05时38分]"
         },
         {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时58分]"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040606823800",
           "source": "金十数据",
@@ -183,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
-        },
-        {
-          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2327400",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -224,7 +247,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -407,11 +430,29 @@
             3,
             17,
             16,
-            12
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 22时58分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            8,
+            18,
+            20,
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时56分 ~ 21时21分]"
+          "time_info": "[13时15分 ~ 22时58分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -425,22 +466,6 @@
           "time_info": "[01时12分 ~ 05时06分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            8,
-            18,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 21时21分]"
-        },
-        {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -448,11 +473,12 @@
             13,
             9,
             15,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 22时58分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -670,9 +696,26 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }
