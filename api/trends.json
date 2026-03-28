@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T10:46:02.464815+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-03-28T13:01:35.602368+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -42,8 +42,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 10时46分]"
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 13时01分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 13时01分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 07时40分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 10时46分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -122,7 +122,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -164,6 +164,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时41分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
@@ -236,11 +247,12 @@
             11,
             8,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -251,11 +263,12 @@
             15,
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 13时01分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -266,11 +279,12 @@
             17,
             14,
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 13时01分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -281,11 +295,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 13时01分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -368,7 +383,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
