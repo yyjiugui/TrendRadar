@@ -1,498 +1,111 @@
 {
-  "generated_at": "2026-03-28T23:38:32.368950+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-03-29T00:42:38.550187+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时40分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时41分 ~ 23时38分]"
-        },
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时00分 ~ 23时38分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时40分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时40分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时05分 ~ 23时38分]"
-        },
-        {
-          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2327400",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时40分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 19时35分]"
-        },
-        {
-          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时40分]"
-        },
-        {
-          "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "20岁女生引爆美股至暗时刻",
-          "url": "https://www.toutiao.com/trending/7621797188750344246/",
-          "source": "今日头条",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美股“七姐妹”技术性崩坏正在提速",
-          "url": "https://www.toutiao.com/trending/7621931362551971883/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
-          "url": "https://wallstreetcn.com/livenews/3078476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时41分]"
-        },
-        {
-          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260328040914755800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时41分]"
-        },
-        {
-          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260328040912356800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时41分]"
-        },
-        {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 21时09分]"
-        },
-        {
-          "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3078472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
-          "url": "https://flash.jin10.com/detail/20260328040624554800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
-          "url": "https://flash.jin10.com/detail/20260328020020260800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260328015039648800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 14时06分]"
-        },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            15,
-            14,
-            12,
-            16,
-            17,
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            14,
-            15,
-            17,
-            20,
-            22,
-            13,
-            16,
-            19,
-            23,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            19,
-            17,
-            14,
-            15,
-            16,
-            20,
-            18,
-            22,
-            23,
-            21,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 23时38分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
-          "url": "https://flash.jin10.com/detail/20260328013224717800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时09分]"
-        },
-        {
-          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260328014753556800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "彭博美元指数短线下挫，日内整体转跌，跌穿1216点，亚太午盘曾刷新日低至1214.14点。",
-          "url": "https://wallstreetcn.com/livenews/3078372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "彭博美元指数本周涨0.7%，日元跌超0.6%失守160",
-          "url": "https://wallstreetcn.com/livenews/3078458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2327820",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 23时38分]"
-        },
-        {
-          "title": "A股年报分红潮 百亿级派现频出",
-          "url": "https://flash.jin10.com/detail/20260328083924419800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航空航天 商业卫星",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西南首个商业卫星遥感测运控站启用",
-          "url": "https://wallstreetcn.com/livenews/3078571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时09分]"
-        },
-        {
-          "title": "西南首个商业卫星遥感测运控站启用",
-          "url": "https://flash.jin10.com/detail/20260328183043484800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时40分]"
+          "time_info": "00时42分"
         }
       ]
     }
