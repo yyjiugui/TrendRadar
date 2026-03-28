@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:39:13.512552+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-03-28T23:38:32.368950+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时40分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[07时40分 ~ 23时38分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时41分 ~ 22时39分]"
+          "appearance_count": 19,
+          "time_info": "[06时41分 ~ 23时38分]"
         },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -47,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时00分 ~ 22时39分]"
+          "appearance_count": 15,
+          "time_info": "[13时00分 ~ 23时38分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -84,11 +84,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时05分 ~ 22时39分]"
+          "appearance_count": 13,
+          "time_info": "[14时05分 ~ 23时38分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -304,8 +305,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -325,8 +326,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -343,11 +344,12 @@
             22,
             23,
             21,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -430,8 +432,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 23时38分]"
         },
         {
           "title": "A股年报分红潮 百亿级派现频出",
