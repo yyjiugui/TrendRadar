@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T03:36:23.033384+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-03-29T04:40:01.306273+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
             13,
             15,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -79,11 +80,12 @@
           "ranks": [
             17,
             23,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -96,8 +98,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时40分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时40分]"
         }
       ]
     }
