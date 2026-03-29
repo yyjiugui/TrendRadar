@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-03-30T05:40:03.320924+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-03-30T06:39:12.980315+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 06时39分]"
+        },
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -17,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -29,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时39分]"
         }
       ]
     },
@@ -47,8 +86,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -57,11 +96,12 @@
           "ranks": [
             21,
             22,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时39分]"
         }
       ]
     },
@@ -74,11 +114,12 @@
           "url": "https://www.cls.cn/detail/2328159",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
@@ -88,25 +129,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 06时39分]"
         }
       ]
     }
