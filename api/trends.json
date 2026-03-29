@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:46:23.115263+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-03-29T18:42:32.315897+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 11时19分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 18时42分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -55,18 +67,6 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时46分]"
-        },
-        {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
@@ -77,8 +77,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 18时42分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -130,8 +130,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 17时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 18时42分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -154,8 +154,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 18时42分]"
         }
       ]
     },
@@ -173,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 17时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 18时42分]"
         }
       ]
     }
