@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:54:49.317189+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-03-30T03:38:04.423727+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时38分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -29,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时38分]"
         }
       ]
     },
@@ -47,8 +47,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时38分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -56,11 +56,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时38分]"
         }
       ]
     },
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时38分]"
         },
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
@@ -87,8 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时38分]"
         }
       ]
     },
@@ -104,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时38分]"
         }
       ]
     }
