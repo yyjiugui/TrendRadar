@@ -1,103 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:40:56.304222+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-03-30T11:21:59.499779+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2328159",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2327820",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "A股ESG强制披露“首考”进行时，数据质量成重要“得分点”",
-          "url": "https://wallstreetcn.com/livenews/3078791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "A股资产韧性较强，四月配置进一步聚焦确定性",
-          "url": "https://wallstreetcn.com/livenews/3078778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
-          "url": "https://flash.jin10.com/detail/20260330060152527800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "布油高开逾3%，美股期货走低",
-          "url": "https://wallstreetcn.com/livenews/3078766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -124,6 +32,221 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "DeepSeek服务恢复正常 此前崩溃约12小时",
+          "url": "https://wallstreetcn.com/livenews/3078918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "DeepSeek已恢复服务",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2328159",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时21分]"
+        },
+        {
+          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2327820",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "A股ESG强制披露“首考”进行时，数据质量成重要“得分点”",
+          "url": "https://wallstreetcn.com/livenews/3078791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "A股资产韧性较强，四月配置进一步聚焦确定性",
+          "url": "https://wallstreetcn.com/livenews/3078778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "A股福建本地股逆势拉升，平潭发展快速涨停，海峡创新涨超10%，漳州发展、路桥信息、厦门港务、福建水泥等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3078901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "A股算力概念股震荡走低，中电鑫龙触及跌停，奥瑞德、顺网科技、青云科技、亚康股份、群兴玩具等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3078891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，电力电网、光伏设备、算力、消费电子等方向跌幅居前，沪深京三市下跌个股超4600只。",
+          "url": "https://wallstreetcn.com/livenews/3078887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时21分]"
+        },
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
+          "url": "https://flash.jin10.com/detail/20260330105908628800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
@@ -137,11 +260,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 11时21分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -151,11 +275,12 @@
             21,
             22,
             19,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 11时21分]"
         }
       ]
     }
