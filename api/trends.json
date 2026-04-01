@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:05:35.573717+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-04-01T21:51:13.608485+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 19时05分]"
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 21时51分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时41分 ~ 19时05分]"
+          "appearance_count": 10,
+          "time_info": "[06时41分 ~ 21时51分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -109,6 +109,17 @@
           "time_info": "[05时48分 ~ 14时00分]"
         },
         {
+          "title": "美伊释放停战信号，美股高开，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -130,6 +141,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美股涨幅扩大，纳指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3080958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF、半导体ETF涨超2%，全球科技股指数ETF涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3080956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美股后续会怎么走",
@@ -189,6 +222,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "美股盘初：纳指涨0.7%，大型科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3080946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260401040550571800",
           "source": "金十数据",
@@ -209,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美股延续涨势，纳斯达克指数涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260401213433565800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美股收盘：三大股指大涨 纳指涨3.8%",
@@ -277,6 +332,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "“小非农”高于预期 美股三大股指开涨",
+          "url": "https://flash.jin10.com/detail/20260401213025708800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
           "url": "https://wallstreetcn.com/livenews/3080348",
           "source": "华尔街见闻-快讯",
@@ -286,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3080924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     },
@@ -316,6 +393,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时07分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时51分]"
         },
         {
           "title": "A股收盘：全市场近4500只个股上涨",
@@ -372,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
         },
         {
           "title": "A股高铁轨交板块持续调整，交大铁发跌超9%，通业科技、日月明、金鹰重工、中铁工业、雷尔伟跌逾5%。",
