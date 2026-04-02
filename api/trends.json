@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T19:10:03.919391+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-04-02T19:54:20.946652+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 19时54分]"
         },
         {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，布油涨9%，美股期货全线下跌，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -383,8 +394,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 19时54分]"
+        },
+        {
+          "title": "A股能否再次V型反转",
+          "url": "https://www.toutiao.com/trending/7624067241511751195/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
+          "time_info": "[19时10分 ~ 19时54分]"
         },
         {
           "title": "A股收盘：创业板指低开低走跌2.31%，油气股逆势走强",
@@ -407,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
-        },
-        {
-          "title": "A股能否再次V型反转",
-          "url": "https://www.toutiao.com/trending/7624067241511751195/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "A股光纤概念反复活跃，汇源通信触及涨停，光库科技涨超8%，仕佳光子、三旺通信、长飞光纤、华脉科技涨超5%。",
@@ -516,7 +527,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
@@ -533,7 +544,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
