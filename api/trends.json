@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:42:53.747913+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-04-02T10:51:46.313225+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -30,6 +30,29 @@
           "time_info": "[05时51分 ~ 06时48分]"
         },
         {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 10时51分]"
+        },
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 10时51分]"
+        },
+        {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -43,17 +66,6 @@
           "time_info": "[01时04分 ~ 04时54分]"
         },
         {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -63,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时42分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -119,7 +119,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -185,9 +185,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美股股指期货跌势扩大，标普500期指跌逾1%，纳斯达克期指跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260402103143778800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -374,7 +385,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
@@ -386,8 +397,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时51分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -413,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时42分]"
+        },
+        {
+          "title": "A股光纤概念反复活跃，汇源通信触及涨停，光库科技涨超8%，仕佳光子、三旺通信、长飞光纤、华脉科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3081233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
