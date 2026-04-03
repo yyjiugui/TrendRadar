@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-04-04T00:52:15.325295+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:41:13.250004+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国白宫再次向国会提议大幅削减美国国家航空航天局的科研经费，降幅近一半。",
+          "url": "https://flash.jin10.com/detail/20260404003113664800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
+          "url": "https://flash.jin10.com/detail/20260404005316812800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -12,11 +41,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时41分]"
         }
       ]
     },
@@ -46,28 +76,12 @@
           "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航空航天 商业卫星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫再次向国会提议大幅削减美国国家航空航天局的科研经费，降幅近一半。",
-          "url": "https://flash.jin10.com/detail/20260404003113664800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时41分]"
         }
       ]
     }
