@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:52:21.595439+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-04-03T19:42:34.071398+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -391,11 +391,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时42分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -499,11 +500,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时42分]"
         }
       ]
     }
