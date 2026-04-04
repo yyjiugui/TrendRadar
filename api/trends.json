@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:41:49.633150+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-04-04T19:35:51.621323+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -156,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 19时35分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
@@ -183,11 +183,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时35分]"
         }
       ]
     },
