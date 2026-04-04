@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-04T12:57:32.603875+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-04-04T14:04:22.432495+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "航空航天 商业卫星",
       "match_count": 3,
       "titles": [
-        {
-          "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
-          "url": "https://flash.jin10.com/detail/20260404122017067800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
         {
           "title": "美国白宫再次向国会提议大幅削减美国国家航空航天局的科研经费，降幅近一半。",
           "url": "https://flash.jin10.com/detail/20260404003113664800",
@@ -30,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 02时57分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
+          "url": "https://flash.jin10.com/detail/20260404122017067800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时04分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -61,11 +62,12 @@
             15,
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 12时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 14时04分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -93,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时04分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
@@ -153,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时04分]"
         }
       ]
     },
