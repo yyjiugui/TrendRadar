@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T22:41:31.878938+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-04-05T23:40:40.470906+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 22时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 23时40分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 22时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 23时40分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2335507",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时40分]"
         }
       ]
     },
@@ -83,8 +84,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 23时40分]"
         }
       ]
     },
