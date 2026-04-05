@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T18:43:04.427919+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-04-05T19:37:24.935330+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 19时37分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 19时37分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
@@ -68,11 +68,12 @@
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时37分]"
         }
       ]
     },
