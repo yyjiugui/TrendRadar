@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T00:45:45.091693+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-06T01:39:20.388698+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2335221",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时39分]"
         },
         {
           "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
           "url": "https://www.cls.cn/detail/2335507",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时39分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -37,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时39分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时39分]"
         }
       ]
     }
