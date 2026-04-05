@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T23:40:40.470906+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-04-06T00:45:45.091693+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -15,59 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 23时40分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 23时40分]"
-        },
-        {
-          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
-          "url": "https://wallstreetcn.com/articles/3769263",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 18时43分]"
-        },
-        {
-          "title": "一夜十家被罚 A股严查这些雷区",
-          "url": "https://www.toutiao.com/trending/7624821124119298091/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            30,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时39分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
           "url": "https://www.cls.cn/detail/2335507",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
@@ -80,29 +51,11 @@
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            12,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时48分 ~ 23时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
-          "url": "https://wallstreetcn.com/articles/3769250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     }
