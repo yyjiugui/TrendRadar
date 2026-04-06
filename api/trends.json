@@ -1,29 +1,79 @@
 {
-  "generated_at": "2026-04-07T00:58:27.535823+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-07T01:56:52.954826+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "A股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003239064800",
-          "source": "金十数据",
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时56分]"
+        },
+        {
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时56分]"
+        },
+        {
+          "title": "A股短期见底了吗？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2335817",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时56分]"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003239064800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -43,45 +93,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2335507",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -90,11 +101,12 @@
           "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时56分]"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -106,6 +118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数目前涨0.32%，布伦特原油跌破109美元/桶关口，报108.94美元/桶。 伊朗最高领袖穆杰塔巴称，（美国和以色列的）“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
+          "url": "https://wallstreetcn.com/livenews/3082902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
