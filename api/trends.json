@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-04-06T07:41:21.637806+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-04-06T11:23:57.833948+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3082682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时41分]"
+        },
+        {
+          "title": "美股三大股指期货周一低开，道指期货跌0.38%、标普500指数期货跌0.31%、纳指期货跌0.35%。",
+          "url": "https://flash.jin10.com/detail/20260406060457012800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时41分]"
+        },
+        {
+          "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3082716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "A股",
       "match_count": 3,
@@ -13,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 11时23分]"
         },
         {
           "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
@@ -28,19 +70,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 11时23分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 11时23分]"
         }
       ]
     },
@@ -75,36 +118,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3082682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时41分]"
-        },
-        {
-          "title": "美股三大股指期货周一低开，道指期货跌0.38%、标普500指数期货跌0.31%、纳指期货跌0.35%。",
-          "url": "https://flash.jin10.com/detail/20260406060457012800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -118,6 +131,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
+          "url": "https://wallstreetcn.com/articles/3769294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
