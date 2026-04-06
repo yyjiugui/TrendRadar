@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-06T22:56:39.044723+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-04-06T23:56:37.098487+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
         {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
           "url": "https://flash.jin10.com/detail/20260406160708669800",
@@ -127,7 +138,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -138,7 +149,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         }
@@ -157,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 22时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 23时56分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -174,6 +185,22 @@
           "time_info": "[00时45分 ~ 14时03分]"
         },
         {
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 23时56分]"
+        },
+        {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
@@ -183,23 +210,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 22时56分]"
-        },
-        {
-          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 22时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 23时56分]"
         },
         {
           "title": "A股明天怎么走",
@@ -291,7 +303,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         }
