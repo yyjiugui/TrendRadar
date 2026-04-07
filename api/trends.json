@@ -1,22 +1,192 @@
 {
-  "generated_at": "2026-04-07T07:43:21.647645+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-04-07T10:57:03.062713+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 07时43分]"
+        },
+        {
+          "title": "A股短期见底了吗？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2335817",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 10时57分]"
+        },
+        {
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 07时43分]"
+        },
+        {
+          "title": "A股猪肉股早盘持续走强，华统股份涨停，巨星农牧涨超5%，大禹生物、神农集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407102638462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
+          "url": "https://wallstreetcn.com/livenews/3082994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时43分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "A股4月下旬或迎关键拐点",
+          "url": "https://www.toutiao.com/trending/7625612430141784070/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "A股医疗耗材概念盘中震荡拉升，英科医疗涨超10%，创4年多新高，蓝帆医疗、奥美医疗触及涨停，中红医疗、冠昊生物、阳普医疗、奥精医疗、华兰股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407101654827800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股航运概念震荡拉升，中远海发触及涨停，中集集团、中远海能、安通控股、华光源海、兴通股份、招商南油等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407101617221800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股体育产业板块表现活跃，粤传媒、中体产业双双涨停，金陵体育、共创草坪、力盛体育涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260407101046418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股锂电池板块震荡走强，诺德股份、蔚蓝锂芯涨停，博力威涨超10%，鹏辉能源、嘉元科技、德福科技、时代万恒涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3083084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股创新药概念股快速跳水，海王生物触及跌停，荣昌生物跌超10%，广生堂、润都股份、三生国健、双鹭药业、海特生物等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3083078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股消费电子概念开盘活跃，折叠屏方向领涨，福蓉科技一字涨停，宜安科技涨超9%，智动力、精研科技、联得装备、安洁科技、大富科技等多股高开，记者4月6日从产业链人士处获悉，富士康已在试产苹果折叠屏iPhone手机。",
+          "url": "https://wallstreetcn.com/livenews/3083066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 10时57分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -28,6 +198,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 10时57分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
@@ -78,6 +260,17 @@
           "time_info": "[04时45分 ~ 06时44分]"
         },
         {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260407040534288800",
           "source": "金十数据",
@@ -114,17 +307,6 @@
           "time_info": "[05时44分 ~ 06时44分]"
         },
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
           "url": "https://flash.jin10.com/detail/20260407040042993800",
           "source": "金十数据",
@@ -134,97 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2335507",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时43分]"
-        },
-        {
-          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时43分]"
-        },
-        {
-          "title": "A股短期见底了吗？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2335817",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 07时43分]"
-        },
-        {
-          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
-          "url": "https://wallstreetcn.com/livenews/3083014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
-          "url": "https://wallstreetcn.com/livenews/3082994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 06时44分]"
-        },
-        {
-          "title": "A股4月下旬或迎关键拐点",
-          "url": "https://www.toutiao.com/trending/7625612430141784070/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
         }
       ]
     },
@@ -385,7 +476,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
