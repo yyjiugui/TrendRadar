@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T17:12:49.236448+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-04-07T19:05:15.414902+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 19时05分]"
+        },
+        {
           "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
           "url": "https://wallstreetcn.com/livenews/3082994",
           "source": "华尔街见闻-快讯",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 17时12分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -208,7 +208,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -233,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时43分 ~ 17时12分]"
+          "appearance_count": 9,
+          "time_info": "[07时43分 ~ 19时05分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -345,6 +345,17 @@
           "time_info": "[05时44分 ~ 06时44分]"
         },
         {
+          "title": "美股股指期货走低，标普500指数期货跌幅扩大至0.5%，纳指期货下跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260407185929823800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
           "url": "https://flash.jin10.com/detail/20260407040042993800",
           "source": "金十数据",
@@ -434,7 +445,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -470,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
@@ -522,6 +544,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "西部黄金：预计2026年第一季度净利润4.5亿元到5.6亿元，同比增加1161.38%到1469.71%；黄金产品销量较上年同期增加，销售价格较上年同期上升以及电解锰的销售价格较上年同期上升。",
+          "url": "https://wallstreetcn.com/livenews/3083414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         }
       ]
     },
