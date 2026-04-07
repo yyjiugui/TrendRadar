@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T21:46:29.166762+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-04-07T23:17:48.173303+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时43分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[07时43分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -86,7 +86,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -153,13 +153,24 @@
           "time_info": "[05时44分 ~ 06时44分]"
         },
         {
+          "title": "美伊谈判“最后期限”逼近，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -181,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -192,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -214,7 +225,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
@@ -267,6 +278,18 @@
           "time_info": "[00时58分 ~ 07时43分]"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时04分 ~ 23时17分]"
+        },
+        {
           "title": "A股猪肉股早盘持续走强，华统股份涨停，巨星农牧涨超5%，大禹生物、神农集团等跟涨。",
           "url": "https://flash.jin10.com/detail/20260407102638462800",
           "source": "金十数据",
@@ -287,18 +310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时04分 ~ 21时46分]"
         },
         {
           "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
@@ -446,7 +457,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -527,6 +538,19 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 23时17分]"
+        },
+        {
           "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
           "url": "https://flash.jin10.com/detail/20260407054852467800",
           "source": "金十数据",
@@ -537,18 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时46分]"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -576,7 +588,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数6日下跌",
@@ -612,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
