@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T16:05:05.084861+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-04-07T17:12:49.236448+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -95,6 +95,17 @@
           "time_info": "[06时44分 ~ 07时43分]"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 17时12分]"
+        },
+        {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
@@ -104,17 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 06时44分]"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "A股4月下旬或迎关键拐点",
@@ -189,7 +189,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -217,11 +217,12 @@
           "ranks": [
             3,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 16时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 17时12分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -232,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时43分 ~ 16时05分]"
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 17时12分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -367,7 +368,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
