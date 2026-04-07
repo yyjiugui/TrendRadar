@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T01:10:19.224941+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-08T03:15:07.023843+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 03时15分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 03时15分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时15分]"
         }
       ]
     },
@@ -59,7 +60,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
