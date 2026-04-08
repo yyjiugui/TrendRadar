@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T13:20:33.507754+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-08T15:46:05.684867+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时46分]"
         },
         {
           "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
@@ -73,11 +73,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 15时46分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -164,7 +165,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股商业航天概念午后再度拉升，巨力索具直线涨停，此前神剑股份、国机精工涨停，臻镭科技、航天宏图、星环科技均涨超10%。",
@@ -173,7 +174,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -210,6 +211,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-08）",
+          "url": "https://flash.jin10.com/detail/20260408151822207800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "A股收盘：创业板指涨5.91%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A85.91%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "A股AI应用概念股持续走强，蓝色光标20cm封板涨停，浙文互联、粤传媒、达实智能、天地在线此前涨停。",
@@ -312,38 +335,41 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时46分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 15时46分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 15时46分]"
         }
       ]
     },
@@ -360,11 +386,12 @@
             15,
             14,
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 13时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 15时46分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
