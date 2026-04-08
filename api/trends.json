@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T19:06:06.633367+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-04-08T21:48:52.297649+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 21时48分]"
         },
         {
           "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
@@ -93,6 +93,17 @@
           "time_info": "[07时44分 ~ 15时46分]"
         },
         {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，现货钯金涨超9%，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
           "url": "https://wallstreetcn.com/livenews/3083713",
           "source": "华尔街见闻-快讯",
@@ -141,15 +152,81 @@
           "time_info": "[05时52分 ~ 06时58分]"
         },
         {
+          "title": "美股加密货币股上涨，Coinbase上涨7%，Strategy涨7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3084398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美股航空股上涨，联合航空涨13%，达美航空涨11%。",
+          "url": "https://flash.jin10.com/detail/20260408213435582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美伊“停火两周”，美股集体上涨，美光科技涨超8%",
+          "url": "https://wallstreetcn.com/livenews/3084392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美股三大指数大幅高开 纳指涨3.65%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美油一度暴跌 19%，黄金重回 4800 美元，美股期货拉升，美国、伊朗、以色列同意停火，局势稳住了吗？",
+          "url": "https://www.zhihu.com/question/2025128106701145554",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "达美航空美股盘前涨超12%，公司一季度财报好于预期",
           "url": "https://wallstreetcn.com/livenews/3084272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "美伊停火两周，美股大幅高开",
+          "url": "https://flash.jin10.com/detail/20260408213031289800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股收盘）",
@@ -199,8 +276,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "如何看待A股再现放量大涨",
+          "url": "https://www.toutiao.com/trending/7625981091035676708/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
         {
           "title": "A股商业航天概念午后再度拉升，巨力索具直线涨停，此前神剑股份、国机精工涨停，臻镭科技、航天宏图、星环科技均涨超10%。",
           "url": "https://flash.jin10.com/detail/20260408130556643800",
@@ -422,11 +510,12 @@
             19,
             20,
             18,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 19时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 21时48分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
