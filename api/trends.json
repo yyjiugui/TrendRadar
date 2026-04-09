@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-10T03:18:53.159777+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-10T04:59:23.868434+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
+          "url": "https://wallstreetcn.com/livenews/3085326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时59分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -26,8 +38,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时59分]"
+        },
+        {
+          "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3085322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "贝莱德：市场对美股的盈利预期过于乐观",
@@ -36,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -61,6 +84,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美债收益率于美股早盘显著下挫，两年期实际收益率飙涨31个基点",
+          "url": "https://wallstreetcn.com/livenews/3085310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260410040554889800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月09日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260410040520084800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "美股收盘：标普500指数、纳指7连涨",
+          "url": "https://flash.jin10.com/detail/20260410040102828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3085300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI声称其算力比Anthropic更有优势",
+          "url": "https://flash.jin10.com/detail/20260410043705456800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260410041947855800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
+          "url": "https://wallstreetcn.com/livenews/3085269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260410043300021800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3085308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
@@ -76,8 +221,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时59分]"
         },
         {
           "title": "A股如何在油市动荡中保持韧性",
@@ -88,25 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
-          "url": "https://wallstreetcn.com/livenews/3085269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时59分]"
         }
       ]
     }
