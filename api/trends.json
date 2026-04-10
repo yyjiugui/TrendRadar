@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:03:41.465472+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-04-11T03:04:50.359206+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时04分]"
         },
         {
           "title": "A股一周20大熊股出炉",
@@ -57,6 +57,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
