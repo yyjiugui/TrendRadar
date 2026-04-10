@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:47:06.482407+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-11T06:46:07.247698+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时46分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时46分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时46分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
@@ -36,17 +47,6 @@
           "ranks": [
             9,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -155,8 +155,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "A股一周20大熊股出炉",
