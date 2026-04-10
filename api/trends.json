@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T21:26:18.219129+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-04-10T22:56:15.565403+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -142,7 +142,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -241,7 +241,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
@@ -290,6 +290,30 @@
           "time_info": "[11时24分 ~ 14时04分]"
         },
         {
+          "title": "A股一度重返4000点 后市将怎么走",
+          "url": "https://www.toutiao.com/trending/7626658065433575451/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时56分]"
+        },
+        {
+          "title": "A股交易规则为何要进行重大调整",
+          "url": "https://www.toutiao.com/trending/7627093467767770670/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时56分]"
+        },
+        {
           "title": "源杰科技重返A股第二高价股",
           "url": "https://flash.jin10.com/detail/20260410135158770800",
           "source": "金十数据",
@@ -321,28 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
-        },
-        {
-          "title": "A股一度重返4000点 后市将怎么走",
-          "url": "https://www.toutiao.com/trending/7626658065433575451/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "A股交易规则为何要进行重大调整",
-          "url": "https://www.toutiao.com/trending/7627093467767770670/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "A股欧菲光盘中异动拉升，现涨超5%；消息面上，华为即将发布的AI眼镜摄像头模组由欧菲光独供。",
@@ -436,7 +438,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI声称其算力比Anthropic更有优势",
@@ -449,6 +451,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时54分]"
+        },
+        {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
@@ -520,7 +544,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
@@ -544,6 +568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时54分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度下跌3.47%，报73.98美元。",
+          "url": "https://wallstreetcn.com/livenews/3085988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "韩国央行行长李昌镛：2025年底韩元兑美元汇率接近1,500关口，是因为散户投资者增加了海外股票投资。 最近几周韩元兑美元的波动是由外国投资者抛售国内股票所驱动的。 当前汇率水平是由外资获利了结以及中东风险所致。 被纳入世界政府债券指数（WGBI）将为韩国带来外资流入。 国民年金公团（NPS）正计划削减部分海外投资。 外汇储备将在市场波动时期被积极动用。",
