@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T02:56:32.927760+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-12T03:40:20.005985+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时40分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时40分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时40分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -58,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 03时40分]"
         }
       ]
     },
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时40分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时40分]"
         }
       ]
     }
