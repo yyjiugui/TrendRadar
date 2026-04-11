@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:42:35.540903+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-12T05:40:52.802951+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时40分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时40分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时40分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -55,11 +55,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时40分]"
         }
       ]
     },
@@ -72,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时40分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -86,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时40分]"
         }
       ]
     }
