@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:38:07.570188+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-11T21:13:37.399591+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时10分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 21时13分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -142,11 +142,12 @@
             4,
             3,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时48分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时48分 ~ 21时13分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -177,11 +178,12 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -264,11 +266,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时13分]"
         },
         {
           "title": "A股交易规则为何要进行重大调整",
@@ -287,11 +290,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 21时13分]"
         },
         {
           "title": "A股一周20大熊股出炉",
