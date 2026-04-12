@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-12T13:58:51.735576+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-04-12T15:39:09.498597+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
+          "url": "https://www.cls.cn/detail/2341275",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时39分]"
+        },
+        {
+          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
+          "url": "https://www.cls.cn/detail/2341254",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时39分]"
+        },
+        {
+          "title": "A股全面适用盘后固定价格交易",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%85%A8%E9%9D%A2%E9%80%82%E7%94%A8%E7%9B%98%E5%90%8E%E5%9B%BA%E5%AE%9A%E4%BB%B7%E6%A0%BC%E4%BA%A4%E6%98%93%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -17,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时39分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -50,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时39分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -62,41 +104,12 @@
             14,
             12,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 13时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
-          "url": "https://www.cls.cn/detail/2341275",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时58分]"
-        },
-        {
-          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
-          "url": "https://www.cls.cn/detail/2341254",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 15时39分]"
         }
       ]
     }
