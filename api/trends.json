@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:48:16.395904+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-04-12T19:39:43.191358+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 18时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 19时39分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 18时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 19时39分]"
         },
         {
           "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
@@ -38,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时39分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -50,11 +51,12 @@
           "source": "微博",
           "ranks": [
             17,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时39分]"
         },
         {
           "title": "A股4000点时刻如何跟上投资节奏",
@@ -92,11 +94,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 18时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 19时39分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -156,8 +159,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 18时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 19时39分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
