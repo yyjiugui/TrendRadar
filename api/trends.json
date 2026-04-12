@@ -1,194 +1,33 @@
 {
-  "generated_at": "2026-04-12T23:42:55.087773+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-04-13T00:50:40.613429+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时46分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
           "url": "https://www.cls.cn/detail/2341254",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时46分 ~ 23时42分]"
-        },
-        {
-          "title": "A股交易重要调整来了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            7,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 21时16分]"
-        },
-        {
-          "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
-          "url": "https://flash.jin10.com/detail/20260412171812123800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时39分]"
-        },
-        {
-          "title": "A股4000点时刻如何跟上投资节奏",
-          "url": "https://www.toutiao.com/trending/7627050049071726601/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时55分]"
-        },
-        {
-          "title": "中信建投：A股迎修复行情，围绕景气行业布局",
-          "url": "https://flash.jin10.com/detail/20260412192600712800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "A股全面适用盘后固定价格交易",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%85%A8%E9%9D%A2%E9%80%82%E7%94%A8%E7%9B%98%E5%90%8E%E5%9B%BA%E5%AE%9A%E4%BB%B7%E6%A0%BC%E4%BA%A4%E6%98%93%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时46分 ~ 23时42分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 11时28分]"
-        },
-        {
-          "title": "OpenAI CEO住所遭袭",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 15时39分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            12,
-            16,
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时46分 ~ 23时42分]"
-        },
-        {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 21时16分]"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -201,11 +40,45 @@
           "url": "https://flash.jin10.com/detail/20260412224618363800",
           "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     }
