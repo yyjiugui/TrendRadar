@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T01:41:49.918480+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-04-13T03:01:27.577525+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时01分]"
         }
       ]
     },
@@ -57,11 +57,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时01分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时01分]"
         }
       ]
     }
