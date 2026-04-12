@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T07:42:34.378039+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-12T11:28:37.255798+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时28分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时28分]"
         }
       ]
     },
@@ -42,11 +44,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时28分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -60,8 +63,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 11时28分]"
         }
       ]
     },
@@ -78,19 +81,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时28分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
           "url": "https://www.cls.cn/detail/2341254",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时28分]"
         }
       ]
     }
