@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T21:16:11.092812+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-12T22:48:32.493307+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 21时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 22时48分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -27,11 +27,12 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 21时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 22时48分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -79,7 +80,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -108,11 +109,12 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 21时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 22时48分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -172,8 +174,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 22时48分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
