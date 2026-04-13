@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T17:05:21.825473+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-04-13T19:22:48.367624+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -139,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -191,7 +191,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -206,6 +206,29 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 14时22分]"
+        },
+        {
+          "title": "潘兴广场宣布启动潘兴广场美国公司合并IPO，美股发行价为50.00美元，拟寻求至少50亿美元的发行规模。",
+          "url": "https://flash.jin10.com/detail/20260413191534887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时22分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
@@ -230,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
-          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         }
       ]
     },
