@@ -1,257 +1,40 @@
 {
-  "generated_at": "2026-04-13T23:22:48.296562+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-04-14T01:23:53.705382+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
         {
-          "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
-          "url": "https://www.cls.cn/detail/2341275",
+          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
+          "url": "https://www.cls.cn/detail/2342669",
           "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 07时43分]"
-        },
-        {
-          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
-          "url": "https://www.cls.cn/detail/2341254",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 07时43分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "A股拟全面适用盘后固定价交易",
           "url": "https://www.toutiao.com/trending/7628223480814636586/",
           "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "今年以来A股IPO显著回暖",
-          "url": "https://wallstreetcn.com/livenews/3086518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
-          "url": "https://www.cls.cn/detail/2342669",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2341569",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 11时34分]"
-        },
-        {
-          "title": "A股逆势走强 发生了什么",
-          "url": "https://www.toutiao.com/trending/7627163443275218998/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 23时22分]"
-        },
-        {
-          "title": "A股景气度投资或回归主线",
-          "url": "https://wallstreetcn.com/livenews/3086501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
-          "title": "龙头3连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2341531",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：中际旭创、新易盛等多只CPO概念股在列",
-          "url": "https://www.cls.cn/detail/2341485",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "A股三大指数午后全线翻红",
-          "url": "https://wallstreetcn.com/livenews/3086681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股交易将迎重要调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E5%B0%86%E8%BF%8E%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "A股硅能源板块拉升，博迁新材、大全能源、通威股份涨超8%，弘元绿能、合盛硅业、江瀚新材、东岳硅材、国晟科技纷纷跟涨。",
-          "url": "https://flash.jin10.com/detail/20260413133350598800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股油气股午后走高，蓝焰控股涨停，洲际油气、惠博普、首华燃气、海油发展、中曼石油等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3086672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股主要指数集体上涨",
-          "url": "https://www.toutiao.com/trending/7627217081632735259/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "A股汽车整车板块短线拉升，福田汽车涨停，中通客车、中集车辆、安凯客车、东风股份、一汽解放等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3086668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股锂矿板块午后拉升，盛新锂能涨停，博迁新材、腾远钴业、永兴材料、融捷股份、天齐锂业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3086664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股锂矿股集体走强，天华新能涨近10%，西藏城投涨超7%，盛新锂能、中矿资源、西藏矿业、国城矿业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3086591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "宁德时代A股盘中走强，股价创历史新高，最新报429元/股，总市值近2万亿元。",
-          "url": "https://wallstreetcn.com/livenews/3086586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 14时22分]"
-        },
-        {
-          "title": "美国“封锁”逼近，美股盘前科技股普跌，高盛跌近4%，布油破百，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
           "url": "https://wallstreetcn.com/articles/3769784",
@@ -259,146 +42,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "潘兴广场宣布启动潘兴广场美国公司合并IPO，美股发行价为50.00美元，拟寻求至少50亿美元的发行规模。",
-          "url": "https://flash.jin10.com/detail/20260413191534887800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 19时22分]"
-        },
-        {
-          "title": "国际油价开盘跳涨，美股期货跌超1%",
-          "url": "https://wallstreetcn.com/livenews/3086498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
-          "title": "美股三大股指期货周一低开超1%。",
-          "url": "https://flash.jin10.com/detail/20260413060153001800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
-          "title": "美股三大指数集体低开，纳指跌0.24%，标普500指数跌0.21%，道指跌0.53%。科技股普跌，英伟达跌近1.5%；银行股多数走低，高盛跌超3%，摩根大通、摩根士丹利均跌超1%。石油股集体上涨，西方石油涨1.6%。闪迪涨3.8%，该公司将于4月20日纳入纳斯达克100指数。",
-          "url": "https://wallstreetcn.com/livenews/3087003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260413214601405800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3086981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时42分]"
-        },
-        {
-          "title": "日本软银集团计划发行美元债券和欧元债券，共六种到期时间。 该公司正与投资者们洽谈。 这批融资将用于支持OpenAI等目的。",
-          "url": "https://wallstreetcn.com/livenews/3087037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3086976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩尔线程率先完成MiniMax M2.7大模型适配",
-          "url": "https://flash.jin10.com/detail/20260412224618363800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时23分"
         }
       ]
     },
@@ -407,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数走高之际，非美货币普跌，欧元兑美元下跌0.49%，报1.1666；英镑兑美元下跌0.47%，报1.3396；澳元兑美元下跌0.76%，报0.7016；纽元兑美元下跌0.7%，报0.5799。",
-          "url": "https://wallstreetcn.com/livenews/3086520",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3087096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "01时23分"
         }
       ]
     }
