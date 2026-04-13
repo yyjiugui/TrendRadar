@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T11:34:46.873302+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-04-13T14:22:32.049874+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -73,7 +73,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -84,9 +84,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "A股三大指数午后全线翻红",
+          "url": "https://wallstreetcn.com/livenews/3086681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "A股交易将迎重要调整",
@@ -100,13 +111,57 @@
           "time_info": "07时43分"
         },
         {
+          "title": "A股硅能源板块拉升，博迁新材、大全能源、通威股份涨超8%，弘元绿能、合盛硅业、江瀚新材、东岳硅材、国晟科技纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260413133350598800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股油气股午后走高，蓝焰控股涨停，洲际油气、惠博普、首华燃气、海油发展、中曼石油等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3086672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股汽车整车板块短线拉升，福田汽车涨停，中通客车、中集车辆、安凯客车、东风股份、一汽解放等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3086668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股锂矿板块午后拉升，盛新锂能涨停，博迁新材、腾远钴业、永兴材料、融捷股份、天齐锂业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3086664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "A股锂矿股集体走强，天华新能涨近10%，西藏城投涨超7%，盛新锂能、中矿资源、西藏矿业、国城矿业跟涨。",
           "url": "https://wallstreetcn.com/livenews/3086591",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -117,7 +172,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         }
@@ -134,11 +189,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 11时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 14时22分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
