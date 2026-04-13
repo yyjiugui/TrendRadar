@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:22:48.367624+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-04-13T21:57:11.055667+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "A股逆势走强 发生了什么",
+          "url": "https://www.toutiao.com/trending/7627163443275218998/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "盘中创历史新高A股名单一览：中际旭创、新易盛等多只CPO概念股在列",
@@ -191,7 +202,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -208,13 +219,24 @@
           "time_info": "[00时50分 ~ 14时22分]"
         },
         {
+          "title": "美国“封锁”逼近，美股盘前科技股普跌，高盛跌近4%，布油破百，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "潘兴广场宣布启动潘兴广场美国公司合并IPO，美股发行价为50.00美元，拟寻求至少50亿美元的发行规模。",
           "url": "https://flash.jin10.com/detail/20260413191534887800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -253,6 +275,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时43分]"
+        },
+        {
+          "title": "美股三大指数集体低开，纳指跌0.24%，标普500指数跌0.21%，道指跌0.53%。科技股普跌，英伟达跌近1.5%；银行股多数走低，高盛跌超3%，摩根大通、摩根士丹利均跌超1%。石油股集体上涨，西方石油涨1.6%。闪迪涨3.8%，该公司将于4月20日纳入纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3087003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260413214601405800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3086981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3086976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
@@ -270,24 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时42分]"
         }
       ]
     },
