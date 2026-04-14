@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:21:20.662490+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-04-14T20:32:24.406223+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -55,6 +55,17 @@
           "time_info": "[05时04分 ~ 06时52分]"
         },
         {
+          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3087715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3087152",
           "source": "华尔街见闻-快讯",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
@@ -88,6 +110,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260414040552964800",
           "source": "金十数据",
@@ -105,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -152,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260414200659431800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
@@ -393,11 +437,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 20时32分]"
         }
       ]
     }
