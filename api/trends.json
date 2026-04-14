@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:36:17.691917+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-14T18:21:20.662490+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "贝莱德强势看多美股！地缘风险降温与盈利飙升成关键推手",
+          "url": "https://flash.jin10.com/detail/20260414174441223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
@@ -208,6 +219,18 @@
           "time_info": "06时52分"
         },
         {
+          "title": "刘纪鹏谈A股如何才能站稳4000点",
+          "url": "https://www.toutiao.com/trending/7628264900246159403/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时21分]"
+        },
+        {
           "title": "A股房地产板块走高，南山控股涨停，世联行、香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
           "url": "https://flash.jin10.com/detail/20260414135547364800",
           "source": "金十数据",
@@ -239,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "刘纪鹏谈A股如何才能站稳4000点",
-          "url": "https://www.toutiao.com/trending/7628264900246159403/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "A股市场融资余额重回2.6万亿元以上",
@@ -384,8 +396,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 18时21分]"
         }
       ]
     }
