@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:05:13.572349+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-04-15T16:48:43.749213+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时48分]"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -77,13 +77,24 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
+          "url": "https://www.cls.cn/detail/2344302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
           "url": "https://wallstreetcn.com/livenews/3088207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -97,6 +108,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3088315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3088311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -124,7 +157,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
@@ -156,9 +189,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "A股银行板块震荡走高，苏州银行涨超4%，农业银行、中信银行、招商银行等股跟涨。",
@@ -167,7 +211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -194,6 +238,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "A股收盘：创业板指跌超1% 医药股爆发",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%851%25+%E5%8C%BB%E8%8D%AF%E8%82%A1%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "A股创新药走强，华人健康逼近20CM涨停，瑞康医药、海正药业、金陵药业、哈药股份此前涨停，博瑞医药、康恩贝、新诺威、回盛生物、双鹭药业跟涨。消息面上，国务院办公厅印发《关于健全药品价格形成机制的若干意见》。",
           "url": "https://flash.jin10.com/detail/20260415104037842800",
           "source": "金十数据",
@@ -211,7 +266,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -371,8 +426,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 14时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 16时48分]"
         }
       ]
     },
