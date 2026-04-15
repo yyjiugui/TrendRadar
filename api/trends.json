@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:51:29.526272+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-04-15T11:22:40.119070+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -43,15 +43,37 @@
           "time_info": "[06时54分 ~ 07时51分]"
         },
         {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美股收盘：中概股集体大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
@@ -90,7 +112,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -114,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时55分]"
+        },
+        {
+          "title": "软银贷款方邀请更多银行加入400亿美元OpenAI贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3088140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "微软接手OpenAI挪威数据中心租约",
@@ -162,6 +195,68 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
+          "url": "https://wallstreetcn.com/livenews/3088010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时51分]"
+        },
+        {
+          "title": "A股电池产业链持续调整，海科新源跌超10%，华盛锂电、天际股份跌超7%，湖南裕能、鹏辉能源纷纷下挫。",
+          "url": "https://flash.jin10.com/detail/20260415105148099800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "A股商业航天概念持续活跃，飞沃科技、西测测试涨超10%，神剑股份涨停股价创历史新高，华菱线缆、沃格光电此前涨停，中环海陆、电科蓝天、江顺科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260415104353126800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "A股尾盘急拉是变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7628583142877564479/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "A股创新药走强，华人健康逼近20CM涨停，瑞康医药、海正药业、金陵药业、哈药股份此前涨停，博瑞医药、康恩贝、新诺威、回盛生物、双鹭药业跟涨。消息面上，国务院办公厅印发《关于健全药品价格形成机制的若干意见》。",
+          "url": "https://flash.jin10.com/detail/20260415104037842800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -201,31 +296,19 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
       "titles": [
         {
-          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
-          "url": "https://wallstreetcn.com/livenews/3088010",
+          "title": "算力芯片股震荡拉升，沐曦股份涨超10%，寒武纪涨逾6%，安路科技、摩尔线程、成都华微、海光信息跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3088139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            25
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时51分]"
-        },
-        {
-          "title": "A股尾盘急拉是变盘信号吗",
-          "url": "https://www.toutiao.com/trending/7628583142877564479/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "11时22分"
         }
       ]
     },
@@ -243,8 +326,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 11时22分]"
         }
       ]
     },
