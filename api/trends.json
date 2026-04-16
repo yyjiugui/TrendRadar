@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T11:31:35.886211+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-04-16T14:07:47.055105+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -128,6 +128,28 @@
           "time_info": "01时14分"
         },
         {
+          "title": "台积电美股夜盘涨近2%，第一季度净利润超市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3089023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "如何看待美股新高",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
           "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260416040519362800",
           "source": "金十数据",
@@ -196,7 +218,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -232,6 +254,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股座次大洗牌：“宁王”市值一度跃居A股第二 背后逻辑拆解",
+          "url": "https://www.cls.cn/detail/2345873",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "A股商业航天板块反复活跃，神剑股份触及涨停续创新高，中环海陆、爱乐达、理工导航、九丰能源、巨力索具等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416133700713800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "A股商业航天概念反复走强，神剑股份触及涨停，股价续创历史新高，中环海陆、爱乐达、理工导航、九丰能源、巨力索具等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3089027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "A股游戏板块短线拉升，完美世界触及涨停，迅游科技涨超6%，中青宝、昆仑万维、世纪华通跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416132347981800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "A股低空经济概念异动拉升，莱斯信息、深城交涨超10%，中信海直、万丰奥威、宗申动力、英搏尔等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3089017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "A股旅游概念股异动拉升，丽江股份涨停，西藏旅游此前涨停，西安旅游、桂林旅游、云南旅游跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416131222418800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -296,8 +390,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 11时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 14时07分]"
         }
       ]
     },
@@ -316,6 +410,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东：聚焦航空航天制造、卫星应用和低空飞行服务保障等领域",
+          "url": "https://wallstreetcn.com/livenews/3089013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     }
