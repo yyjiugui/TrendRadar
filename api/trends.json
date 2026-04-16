@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T20:03:18.925964+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-04-16T23:15:26.463500+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 08时02分]"
+        },
+        {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -127,6 +138,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时01分]"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -218,7 +251,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -252,7 +285,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -337,7 +370,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股座次大洗牌：“宁王”市值一度跃居A股第二 背后逻辑拆解",
@@ -353,6 +386,40 @@
           "time_info": "[14时07分 ~ 20时03分]"
         },
         {
+          "title": "3家A股公司齐发公告：可能被实施退市风险警示",
+          "url": "https://www.cls.cn/detail/2346591",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
+          "url": "https://www.cls.cn/detail/2346342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 23时15分]"
+        },
+        {
+          "title": "宁德时代全天成交额居A股第一",
+          "url": "https://www.toutiao.com/trending/7629298254368784434/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "A股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7628197149771284490/",
           "source": "今日头条",
@@ -362,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
-          "url": "https://www.cls.cn/detail/2346342",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "A股商业航天板块反复活跃，神剑股份触及涨停续创新高，中环海陆、爱乐达、理工导航、九丰能源、巨力索具等跟涨。",
@@ -503,7 +559,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
