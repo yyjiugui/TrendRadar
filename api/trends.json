@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:48:40.374329+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-04-17T18:18:45.763703+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 16时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时18分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -89,8 +89,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 18时18分]"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 18时18分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -129,15 +140,15 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
           "source": "财联社热门",
           "ranks": [
-            13
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -157,7 +168,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -223,7 +234,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
@@ -262,11 +273,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 18时18分]"
         },
         {
           "title": "A股股王易主 源杰科技取代贵州茅台",
@@ -279,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 14时09分]"
+        },
+        {
+          "title": "A股新股王诞生了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 18时18分]"
         },
         {
           "title": "A股影视院线板块震荡走高，博纳影业涨停，中国电影、华谊兄弟、横店影视、光线传媒、幸福蓝海跟涨。",
@@ -345,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        },
-        {
-          "title": "A股新股王诞生了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         }
       ]
     },
@@ -512,7 +525,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
