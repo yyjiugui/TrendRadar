@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:56:47.494538+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-04-18T18:51:50.118555+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时49分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时49分 ~ 18时51分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -222,11 +222,12 @@
           "ranks": [
             4,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时51分]"
         },
         {
           "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
@@ -255,8 +256,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 18时51分]"
         }
       ]
     },
