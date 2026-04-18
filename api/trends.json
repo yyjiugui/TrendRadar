@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:49:50.298521+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-18T10:57:19.264089+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 10时57分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -80,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时49分]"
+        },
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时57分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -139,17 +151,6 @@
           "time_info": "[06时51分 ~ 07时49分]"
         },
         {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260418003235958800",
           "source": "金十数据",
@@ -196,6 +197,34 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股新股王诞生了",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
+          "url": "https://www.cls.cn/detail/2347720",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -210,23 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
-          "url": "https://www.cls.cn/detail/2347720",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
         }
       ]
     }
