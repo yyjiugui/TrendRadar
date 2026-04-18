@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T06:42:51.403767+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-19T07:42:38.456156+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,24 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时42分]"
-        },
-        {
-          "title": "A股迎来“长钱长投”新信号",
-          "url": "https://www.toutiao.com/trending/7630111259819511332/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            16,
-            19,
-            20,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时42分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -44,6 +28,23 @@
             25,
             19,
             18,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时42分]"
+        },
+        {
+          "title": "A股迎来“长钱长投”新信号",
+          "url": "https://www.toutiao.com/trending/7630111259819511332/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            16,
+            19,
+            20,
+            24,
             23
           ],
           "is_new": false,
@@ -64,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时42分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -89,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时42分]"
         }
       ]
     }
