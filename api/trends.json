@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T04:45:36.136562+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-19T05:43:08.850950+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -30,8 +30,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时43分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -41,11 +41,12 @@
             17,
             16,
             25,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时43分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -89,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时43分]"
         }
       ]
     }
