@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:54:41.493554+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-04-19T18:50:05.258090+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 18时50分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -51,11 +51,12 @@
             13,
             12,
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 18时50分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -71,6 +72,19 @@
         },
         {
           "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时50分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
@@ -79,18 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 16时10分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -114,11 +116,23 @@
           "url": "https://www.cls.cn/detail/2348319",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 17时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 18时50分]"
+        },
+        {
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 18时50分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -136,19 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 17时54分]"
-        },
-        {
-          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
-          "url": "https://www.cls.cn/detail/2347686",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 17时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 18时50分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -195,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时50分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -205,9 +208,37 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 18时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗革命卫队航空航天部队指挥官穆萨维表示，敌人已经在这场战争的这一阶段失利，并失去了在霍尔木兹海峡及更广泛地区（包括黎巴嫩）的影响力。",
+          "url": "https://flash.jin10.com/detail/20260419182715948800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗革命卫队航空航天部队指挥官穆萨维表示，停火期间，发射器的补充速度比战前更快。而敌方在重建弹药库存方面遇到困难，必须逐步从国外进口弹药。",
+          "url": "https://flash.jin10.com/detail/20260419181634556800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
