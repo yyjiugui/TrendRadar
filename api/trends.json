@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:50:05.258090+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-04-19T19:41:51.580642+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 19时41分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -44,19 +59,18 @@
           "time_info": "[11时33分 ~ 17时54分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12,
-            11,
-            6,
-            5
+            21,
+            24,
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -69,19 +83,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时03分 ~ 17时54分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时50分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -120,19 +121,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 18时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
           "url": "https://www.cls.cn/detail/2347686",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 19时41分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -150,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 18时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 19时41分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -198,8 +200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时41分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -209,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时41分]"
         }
       ]
     },
@@ -223,22 +225,24 @@
           "url": "https://flash.jin10.com/detail/20260419182715948800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时41分]"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗革命卫队航空航天部队指挥官穆萨维表示，停火期间，发射器的补充速度比战前更快。而敌方在重建弹药库存方面遇到困难，必须逐步从国外进口弹药。",
           "url": "https://flash.jin10.com/detail/20260419181634556800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时41分]"
         }
       ]
     },
