@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T05:56:46.283417+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-21T06:54:17.690181+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -23,23 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3091332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时56分]"
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -47,22 +36,37 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时54分]"
+        },
+        {
+          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3091332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时54分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
           "url": "https://wallstreetcn.com/articles/3770364",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时54分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -89,6 +93,18 @@
           "time_info": "[04时57分 ~ 05时56分]"
         },
         {
+          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
+          "url": "https://wallstreetcn.com/livenews/3091337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金收涨超4.3%，新兴市场ETF、黄金ETF至多跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3091321",
           "source": "华尔街见闻-快讯",
@@ -113,15 +129,15 @@
           "time_info": "[04时57分 ~ 05时56分]"
         },
         {
-          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
-          "url": "https://wallstreetcn.com/livenews/3091337",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "06时54分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
@@ -238,6 +254,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 1,
       "titles": [
@@ -247,11 +280,12 @@
           "source": "微博",
           "ranks": [
             22,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时54分]"
         }
       ]
     }
