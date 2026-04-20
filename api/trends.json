@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T14:23:01.959446+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-04-20T17:11:42.660219+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -52,7 +52,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -108,9 +108,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.76% 商业航天涨停潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.76%25+%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%B6%A8%E5%81%9C%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "A股绿电概念反复活跃，广安爱众快速涨停，廊坊发展、新中港此前封板，豫能控股、山高环能、协鑫能科涨超5%。",
@@ -124,13 +135,24 @@
           "time_info": "11时35分"
         },
         {
+          "title": "研究员：A股回归内生增长",
+          "url": "https://www.toutiao.com/trending/7630679451088457270/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "A股能源金属板块午后持续走弱，博迁新材跌超5%，融捷股份、赣锋锂业、盛新锂能、寒锐钴业跟跌。",
           "url": "https://flash.jin10.com/detail/20260420134742010800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -149,7 +171,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -174,6 +196,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 11时35分]"
+        },
+        {
+          "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
