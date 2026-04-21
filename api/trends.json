@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T11:27:15.251254+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-04-21T14:09:26.281818+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 11时27分]"
+          "appearance_count": 7,
+          "time_info": "[05时56分 ~ 14时09分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 11时27分]"
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 14时09分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -201,6 +201,114 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股突现重大资产重组新模式",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            17,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 07时53分]"
+        },
+        {
+          "title": "年报季透视A股：逾1700家上市公司拟分红",
+          "url": "https://wallstreetcn.com/livenews/3091373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "A股宁德时代成交额达200亿元，现涨3.24%。",
+          "url": "https://flash.jin10.com/detail/20260421135918492800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股复合铜箔概念异动拉升，德福科技、方邦股份涨超10%，铜冠铜箔、隆扬电子、先导智能等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421104850125800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股CPO概念股震荡回升，杰普特涨超10%，泰晶科技此前涨停，仕佳光子、英唐智控、蘅东光、中天科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3091544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股三大股指午后集体翻红",
+          "url": "https://wallstreetcn.com/livenews/3091540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股铜箔概念持续走强，方邦股份、英联股份涨停，德福科技涨超15%，铜冠铜箔、中一科技、隆扬电子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -237,48 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股突现重大资产重组新模式",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            17,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 07时53分]"
-        },
-        {
-          "title": "年报季透视A股：逾1700家上市公司拟分红",
-          "url": "https://wallstreetcn.com/livenews/3091373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "A股复合铜箔概念异动拉升，德福科技、方邦股份涨超10%，铜冠铜箔、隆扬电子、先导智能等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260421104850125800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         }
       ]
     },
