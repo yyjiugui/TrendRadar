@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:42:25.091395+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-22T11:25:45.724557+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -34,17 +34,6 @@
           "time_info": "[00时15分 ~ 07时42分]"
         },
         {
-          "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时46分]"
-        },
-        {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
           "url": "https://www.cls.cn/detail/2351256",
           "source": "财联社热门",
@@ -52,11 +41,12 @@
             11,
             10,
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 11时25分]"
         },
         {
           "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
@@ -68,8 +58,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 11时25分]"
+        },
+        {
+          "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时46分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -78,9 +79,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 11时25分]"
         },
         {
           "title": "现货黄金日内大跌3.00%，现报4675.97美元/盎司；美股短线跳水。",
@@ -141,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -188,6 +189,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股券商股异动拉升，哈投股份触及涨停，第一创业、广发证券、华泰证券、天风证券、国海证券等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3092264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
+          "url": "https://wallstreetcn.com/livenews/3092137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "A股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422110046874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "年内A股市场新增超千起并购重组交易",
+          "url": "https://wallstreetcn.com/livenews/3092147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "A股OLED概念震荡反弹，诚志股份、沃格光电、天通股份涨停，路维光电涨超11%，东山精密、彩虹股份、精测电子、清溢光电、有研新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422105756837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -242,35 +305,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
-          "url": "https://wallstreetcn.com/livenews/3092137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时42分]"
-        },
-        {
-          "title": "年内A股市场新增超千起并购重组交易",
-          "url": "https://wallstreetcn.com/livenews/3092147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -301,7 +335,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
