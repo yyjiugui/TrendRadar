@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:06:08.409056+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-25T03:04:06.792034+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2030963929510310856",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
           "url": "https://www.zhihu.com/question/2030963912749924411",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
           "url": "https://www.cls.cn/detail/2354937",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -58,9 +49,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时04分]"
+        },
+        {
+          "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2030963929510310856",
+          "source": "知乎",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -69,18 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -89,11 +81,58 @@
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "time_info": "[01时06分 ~ 03时04分]"
+        },
+        {
+          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时04分]"
+        },
+        {
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -107,59 +146,28 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
           "title": "万字回顾DeepSeek演进之路",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时04分]"
         }
       ]
     },
@@ -175,8 +183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -186,19 +194,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
           "url": "https://www.cls.cn/detail/2355325",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时04分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -207,7 +216,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -218,7 +227,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -229,7 +238,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
@@ -246,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -257,7 +266,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -268,9 +277,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
+          "url": "https://flash.jin10.com/detail/20260425022647112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     }
