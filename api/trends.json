@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T04:50:02.301715+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-04-26T05:43:38.193066+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时43分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时43分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -40,8 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时43分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时43分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时43分]"
         }
       ]
     },
@@ -109,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时43分]"
         }
       ]
     },
@@ -127,8 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时43分]"
         }
       ]
     }
