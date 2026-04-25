@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:45:50.989259+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-04-26T07:48:32.485949+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时48分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 07时48分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -40,8 +41,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 07时48分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -68,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时48分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -107,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2355530",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时48分]"
         }
       ]
     },
@@ -125,11 +127,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时48分]"
         }
       ]
     }
