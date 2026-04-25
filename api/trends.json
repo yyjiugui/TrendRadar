@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:45:23.305593+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T03:03:59.815432+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -38,8 +38,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -66,19 +66,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
           "url": "https://www.zhihu.com/question/2031283079852110233",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时03分]"
         }
       ]
     },
@@ -94,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -105,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         }
       ]
     },
@@ -122,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时03分]"
         }
       ]
     }
