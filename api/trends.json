@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:19:55.323733+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-04-25T22:51:34.925601+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -117,6 +117,20 @@
           "time_info": "[13时52分 ~ 19时43分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时51分 ~ 22时51分]"
+        },
+        {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
           "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
           "source": "澎湃新闻",
@@ -129,20 +143,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 11时16分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时51分 ~ 21时19分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -249,7 +249,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -316,6 +316,18 @@
           "time_info": "[13时52分 ~ 15时39分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时51分]"
+        },
+        {
           "title": "百度智能云上线DeepSeek-V4",
           "url": "https://flash.jin10.com/detail/20260425155339949800",
           "source": "金十数据",
@@ -338,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 11时16分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -400,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时49分 ~ 21时19分]"
+          "appearance_count": 12,
+          "time_info": "[06时49分 ~ 22时51分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -563,8 +564,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时51分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时51分 ~ 22时51分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -668,8 +669,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "多只A股拉响警报",
+          "url": "https://www.toutiao.com/trending/7632594368024756250/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2355530",
@@ -679,8 +691,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时51分]"
         },
         {
           "title": "超聚变完成A股IPO辅导",
