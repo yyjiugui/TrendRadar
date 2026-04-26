@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:50:07.752890+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-27T05:47:27.147544+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -87,11 +87,12 @@
             23,
             9,
             8,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -102,8 +103,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时47分]"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -115,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
         }
       ]
     },
@@ -141,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -153,8 +155,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
@@ -164,8 +166,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
@@ -176,8 +178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -187,11 +189,12 @@
             28,
             25,
             24,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时47分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
