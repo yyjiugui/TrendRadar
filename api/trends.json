@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-26T21:21:12.084509+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-04-26T22:54:01.791610+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 22时54分]"
+        },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
           "url": "https://www.zhihu.com/question/2031047018336839206",
@@ -28,11 +41,12 @@
             12,
             6,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 21时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时37分 ~ 22时54分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -45,21 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 21时21分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时37分 ~ 22时54分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -95,11 +96,12 @@
           "ranks": [
             3,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时00分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 22时54分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -115,6 +117,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时12分 ~ 21时21分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时59分 ~ 22时54分]"
+        },
+        {
+          "title": "一条视频看懂DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2479851",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -159,18 +184,6 @@
           "time_info": "11时38分"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 19时49分]"
-        },
-        {
           "title": "DeepSeek多位核心骨干离职去大厂",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -194,6 +207,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "龙虾官宣接入DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "DeepSeek致谢近300研发者10人已离职",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%87%B4%E8%B0%A2%E8%BF%91300%E7%A0%94%E5%8F%91%E8%80%8510%E4%BA%BA%E5%B7%B2%E7%A6%BB%E8%81%8C&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -208,8 +232,23 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "7只A股周末集中宣布：将被实施退市风险警示",
+          "url": "https://www.cls.cn/detail/2355953",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时59分 ~ 22时54分]"
+        },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2355530",
@@ -222,8 +261,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 21时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 22时54分]"
+        },
+        {
+          "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
+          "url": "https://wallstreetcn.com/articles/3770915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时59分 ~ 22时54分]"
         },
         {
           "title": "A股又一大牛股诞生 周内大涨94%",
@@ -237,42 +289,27 @@
           "time_info": "[00时53分 ~ 04时50分]"
         },
         {
-          "title": "7只A股周末集中宣布：将被实施退市风险警示",
-          "url": "https://www.cls.cn/detail/2355953",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时59分 ~ 21时21分]"
-        },
-        {
-          "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
-          "url": "https://wallstreetcn.com/articles/3770915",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时59分 ~ 21时21分]"
-        },
-        {
           "title": "A股一季度最赚钱公司曝光",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%9C%80%E8%B5%9A%E9%92%B1%E5%85%AC%E5%8F%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时54分]"
+        },
+        {
+          "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2356009",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         }
       ]
     },
