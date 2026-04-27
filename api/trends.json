@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T04:13:57.723111+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-28T05:59:35.643170+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -134,7 +134,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -144,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -177,19 +177,64 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "美股三大指数集体低开 高通涨逾6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时59分]"
+        },
+        {
+          "title": "美股收盘：英伟达涨4%创新高",
+          "url": "https://flash.jin10.com/detail/20260428040039049800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3095227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3095220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
@@ -205,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "A股活化石“000004”锁定退市",
@@ -214,11 +259,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时59分]"
         },
         {
           "title": "A股“新股王”，一季度业绩抵去年全年",
@@ -228,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "十大券商看后市｜A股有望延续震荡上行格局，警惕因分化带来的市场波动",
@@ -239,8 +285,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "A股两家行业龙头同遭立案",
@@ -249,11 +295,12 @@
           "ranks": [
             7,
             17,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时59分]"
         }
       ]
     },
@@ -268,44 +315,48 @@
           "ranks": [
             18,
             17,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
           "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         },
         {
           "title": "媒体：梁文锋这一次要掀桌",
           "url": "https://www.toutiao.com/trending/7633338675333434907/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时59分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
           "url": "https://www.toutiao.com/trending/7632654178616213547/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 05时59分]"
         }
       ]
     },
@@ -325,26 +376,27 @@
           "time_info": "02时09分"
         },
         {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20260428034651678800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
           "url": "https://wallstreetcn.com/livenews/3095207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20260428034651678800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时59分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
@@ -361,19 +413,31 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时59分]"
         }
       ]
     }
