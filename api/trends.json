@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-04-27T07:49:30.679067+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-04-27T11:41:56.941545+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 11时41分]"
+        },
         {
           "title": "一条视频看懂DeepSeek V4",
           "url": "https://www.douyin.com/hot/2479851",
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时49分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 11时41分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -112,6 +114,28 @@
           "time_info": "[00时54分 ~ 07时49分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "DeepSeekV4脱离英伟达了吗",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -124,6 +148,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时50分 ~ 07时49分]"
+        },
+        {
+          "title": "DeepSeek调整API计费",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "港股MINIMAX-W(00100.HK)盘中跌超15%，智谱(02513.HK)跌超5%；消息面上，DeepSeek上周五发布新模型，并宣布输入缓存降价。",
+          "url": "https://flash.jin10.com/detail/20260427110302642800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "MiniMax港股一度跌超14%，为3月中旬以来最大盘中跌幅；智谱跌幅最高超过6.7%。DeepSeek上周五发布新模型，并在周六宣布限时优惠。",
+          "url": "https://wallstreetcn.com/livenews/3094667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -140,18 +197,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "7只A股周末集中宣布：将被实施退市风险警示",
           "url": "https://www.cls.cn/detail/2355953",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 11时41分]"
         },
         {
           "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
@@ -161,11 +219,12 @@
             10,
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 11时41分]"
         },
         {
           "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
@@ -173,11 +232,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 11时41分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -210,6 +270,17 @@
           "time_info": "[00时54分 ~ 07时49分]"
         },
         {
+          "title": "A股零售板块短线拉升，东百集团涨停，锦和商管、三江购物、百大集团、国光连锁、美凯龙跟涨。消息面上，离境退税新政一年来退税销售额同比增长超9倍。",
+          "url": "https://flash.jin10.com/detail/20260427111236177800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "A股科技成长板块高位巨震，机构：高景气赛道趋势不改",
           "url": "https://wallstreetcn.com/livenews/3094566",
           "source": "华尔街见闻-快讯",
@@ -222,26 +293,83 @@
           "time_info": "[06时49分 ~ 07时49分]"
         },
         {
-          "title": "A股前董事长疑涉美国性侵丑闻",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E7%96%91%E6%B6%89%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
           "title": "刘鑫，现身3家A股公司十大股东",
           "url": "https://www.cls.cn/detail/2356048",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时41分]"
+        },
+        {
+          "title": "A股前董事长疑涉美国性侵丑闻",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E7%96%91%E6%B6%89%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时41分]"
+        },
+        {
+          "title": "瑞银：A股和H股未来两个月均有潜在上涨空间 恒生科技风险偏好将上行",
+          "url": "https://wallstreetcn.com/livenews/3094669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "11时41分"
+        },
+        {
+          "title": "A股PCB概念股持续走强，深南电路逼近涨停，股价续创历史新高，景旺电子此前封板，瑞华泰、德福科技、铜冠铜箔、鸿仕达均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3094665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "中兴通讯AH股均低开高走，A股现涨2.8%，H股涨5.61%；公司一季度归母净利润13.1亿元，同比减少46.58%。",
+          "url": "https://flash.jin10.com/detail/20260427104446976800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "A股绿电概念反复活跃，华电辽能触及涨停，粤电力A涨超7%，华电能源、节能风电、广安爱众、宝新能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3094641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "A股半导体芯片股早盘拉升，帝奥微、派瑞股份涨超10%，东芯股份、富瀚微、澜起科技、海光信息、江丰电子涨逾6%。",
+          "url": "https://wallstreetcn.com/livenews/3094632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -253,6 +381,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】上交所修订发布交易规则；贵州茅台、摩尔线程，东方财富一季报披露",
+          "url": "https://www.cls.cn/detail/2356149",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 11时41分]"
+        },
+        {
+          "title": "摩尔线程盘中一度涨12%，至逾四个月盘中新高，此前财报显示一季度扭亏为盈。",
+          "url": "https://wallstreetcn.com/livenews/3094652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         }
       ]
     },
@@ -283,23 +440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】上交所修订发布交易规则；贵州茅台、摩尔线程，东方财富一季报披露",
-          "url": "https://www.cls.cn/detail/2356149",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
         }
       ]
     }
