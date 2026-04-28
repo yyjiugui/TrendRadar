@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T04:22:36.574082+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-29T06:05:23.067108+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时05分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时05分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -41,16 +41,48 @@
           "time_info": "02时25分"
         },
         {
-          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
-          "url": "https://wallstreetcn.com/livenews/3095934",
+          "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            18
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -61,8 +93,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时05分]"
+        },
+        {
+          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
+          "url": "https://wallstreetcn.com/livenews/3095934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时25分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -82,9 +126,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
@@ -115,7 +170,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -137,7 +192,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -148,9 +203,98 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3096026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3095983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股盘前纳指跌超1.4%",
+          "url": "https://www.toutiao.com/trending/7633808777389277227/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3096006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
+          "url": "https://flash.jin10.com/detail/20260429012913081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
+          "url": "https://wallstreetcn.com/livenews/3096012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
@@ -166,8 +310,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时05分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -183,54 +327,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3095983",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数28日上涨",
+          "url": "https://flash.jin10.com/detail/20260429050156496800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "06时05分"
         },
-        {
-          "title": "美股盘前纳指跌超1.4%",
-          "url": "https://www.toutiao.com/trending/7633808777389277227/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
-          "url": "https://flash.jin10.com/detail/20260429012913081800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
           "url": "https://wallstreetcn.com/livenews/3095937",
