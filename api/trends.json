@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T04:52:35.198830+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-03T05:52:17.001057+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260503042107626800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时52分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 05时52分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -56,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 05时52分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 05时52分]"
         }
       ]
     },
@@ -87,8 +88,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 05时52分]"
         }
       ]
     }
