@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:53:00.447421+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-03T07:54:26.477975+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时54分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时54分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -58,19 +58,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时54分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
           "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 07时54分]"
         }
       ]
     },
@@ -87,11 +88,12 @@
             14,
             13,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时54分]"
         }
       ]
     }
