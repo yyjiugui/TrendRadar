@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T21:26:42.016124+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-05-02T22:55:56.222540+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -119,6 +119,19 @@
           "time_info": "[05时01分 ~ 07时02分]"
         },
         {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时55分]"
+        },
+        {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
           "url": "https://flash.jin10.com/detail/20260502040111732800",
           "source": "金十数据",
@@ -128,6 +141,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时55分]"
         },
         {
           "title": "美股创新高之际，对冲基金资产规模创新高",
@@ -140,29 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时13分 ~ 16时25分]"
-        },
-        {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时26分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -320,6 +321,17 @@
           "time_info": "[14时13分 ~ 18时03分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时55分]"
+        },
+        {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
           "url": "https://flash.jin10.com/detail/20260502172401507800",
           "source": "金十数据",
@@ -330,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时03分 ~ 19时52分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时26分]"
         }
       ]
     },
