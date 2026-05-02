@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T11:31:47.155517+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-02T14:13:26.847775+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -85,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 14时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
@@ -97,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 14时13分]"
         },
         {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
@@ -126,6 +128,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -164,7 +177,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -200,8 +213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 11时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 14时13分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -228,12 +241,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -241,11 +265,34 @@
           "source": "贴吧",
           "ranks": [
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 11时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 14时13分]"
+        },
+        {
+          "title": "DeepSeek 现在我是你爹了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%20%E7%8E%B0%E5%9C%A8%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "Claude画的DeepSeek蓝胖鱼",
+          "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "DeepSeek拟人 哇呀啧呜哇",
@@ -254,9 +301,48 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时13分]"
+        },
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -269,11 +355,12 @@
           "url": "https://wallstreetcn.com/livenews/3098085",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时13分]"
         },
         {
           "title": "美元指数本周跌超0.3%",
@@ -285,23 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         }
       ]
     }
