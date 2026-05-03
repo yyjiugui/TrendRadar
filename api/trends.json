@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:54:58.256890+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-04T05:53:00.567116+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3771507",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时53分]"
         }
       ]
     },
@@ -30,11 +31,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         }
       ]
     }
