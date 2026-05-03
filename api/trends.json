@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T11:52:53.014491+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-05-03T14:32:31.794411+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -67,11 +67,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 11时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
@@ -79,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 14时32分]"
         }
       ]
     },
