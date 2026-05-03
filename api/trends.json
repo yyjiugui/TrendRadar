@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:12:38.649470+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-05-03T19:51:45.793487+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 18时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 19时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
+          "url": "https://www.cls.cn/detail/2362321",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         }
       ]
     }
