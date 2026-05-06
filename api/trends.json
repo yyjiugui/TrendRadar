@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T04:40:05.189228+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-07T06:04:24.317468+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -20,13 +20,24 @@
           "time_info": "[00时48分 ~ 04时40分]"
         },
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -50,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时04分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -72,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -83,7 +94,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
@@ -116,9 +138,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
+          "url": "https://wallstreetcn.com/livenews/3099562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -144,11 +177,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时04分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -174,11 +208,12 @@
           "ranks": [
             15,
             18,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时04分]"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
@@ -187,7 +222,35 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20260507051248108800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
+          "url": "https://wallstreetcn.com/livenews/3099539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         }
@@ -206,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时04分]"
         },
         {
           "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
@@ -217,25 +280,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时04分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
-          "url": "https://wallstreetcn.com/livenews/3099539",
+          "title": "谷歌向欧盟提交整改方案，寻求避免新闻搜索案罚款",
+          "url": "https://wallstreetcn.com/livenews/3099585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "06时04分"
         }
       ]
     }
