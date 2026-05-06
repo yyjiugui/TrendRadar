@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T14:43:19.870269+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-06T17:31:47.382909+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股4月决断后是Sell in May？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 17时31分]"
         },
         {
           "title": "2025年A股上市公司营收净利增速双双转正",
@@ -38,11 +38,35 @@
           "source": "微博",
           "ranks": [
             14,
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 17时31分]"
+        },
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 14时43分]"
+          "time_info": "[17时29分 ~ 17时31分]"
+        },
+        {
+          "title": "A股这波行情在涨什么",
+          "url": "https://www.toutiao.com/trending/7635506413829177382/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 17时31分]"
         },
         {
           "title": "A股房地产板块再度拉升，金融街三连板，盈新发展此前封板，三湘印象涨停，渝开发、大名城、津投城开、滨江集团、我爱我家跟涨。",
@@ -62,18 +86,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "A股这波行情在涨什么",
-          "url": "https://www.toutiao.com/trending/7635506413829177382/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -95,7 +108,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -150,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -161,7 +174,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -194,7 +207,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -202,7 +215,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -258,11 +271,23 @@
           "url": "https://www.cls.cn/detail/2363413",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 17时31分]"
+        },
+        {
+          "title": "美伊接近达成停战备忘录，美股期指短线拉升，纳指期货涨超1%，美油大跌6%，黄金涨超3%触及4700美元",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
         },
         {
           "title": "AMD(AMD.O)美股盘后涨超11%。",
@@ -285,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "美股股指期货短线拉升，纳指期货涨超1%。欧洲斯托克600指数上涨2.3%。 国际油价走低，布伦特原油跌破103美元/桶，报102.84美元/桶。 美元指数日内跌0.68%，报97.82点。 美国10年期国债收益率下行6个基点，创一周新低；德国10年期国债收益率下行8.5个基点至2.95%。 市场减少对欧洲央行加息的押注，预计12月存款利率为2.62%，早些时候为2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3099261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美股三大股指期货走高，纳指期货涨幅扩大至0.9%。",
@@ -409,11 +445,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 17时31分]"
         },
         {
           "title": "ChatGPT宣布，已作为插件登陆Excel和谷歌表格（Google Sheets）。ChatGPT表示，其能帮助分析杂乱的数据、编写公式、更新电子表格，并在操作过程中解释其操作步骤——这一切都无需离开电子表格界面。服务将由GPT-5.5提供支持。",
@@ -548,11 +585,12 @@
             24,
             28,
             22,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 17时31分]"
         }
       ]
     },
