@@ -1,72 +1,22 @@
 {
-  "generated_at": "2026-05-07T22:36:30.126914+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-05-08T01:08:42.845683+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时04分 ~ 22时36分]"
-        },
-        {
-          "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时40分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时44分]"
-        },
-        {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时50分]"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 22时36分]"
+          "appearance_count": 1,
+          "time_info": "01时08分"
         },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -75,514 +25,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
-          "url": "https://wallstreetcn.com/livenews/3099560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
-          "url": "https://wallstreetcn.com/livenews/3099520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "01时08分"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 22时36分]"
-        },
-        {
-          "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
-          "url": "https://www.zhihu.com/question/2034453660378382744",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "社交媒体公司Snap收涨0.33%，美股盘后跌9.17%。 该公司在业绩报告中称，伊朗战争冲击广告收入，Q1业绩受地缘局势拖累。 一季度营收15.29亿美元，同比增长12%。 一季度净亏损0.9亿美元，上年同期亏损1.40亿美元。 一季度调整后EBITDA为2.33亿美元，同比增长115%，上年同期1.08亿美元。 一季度运营现金流3.27亿美元，同比增长116%，上年同期1.52亿美元。 一季度自由现金流（FCF）为2.86亿美元，同比增长150%，上年同期1.14亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3099620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "01时08分"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2365305",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260507040528145800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260507040519442800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260507012939266800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3099572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260507012919807800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美股三大股指小幅高开，标普500指数涨0.09%，道指涨0.39%，纳指涨0.14%。ARM下跌7%，因AI芯片供应担忧盖过乐观业绩指引。美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。光通信板块走低，Coherent跌超5%，Credo、Lumentum跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3100035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
-          "url": "https://flash.jin10.com/detail/20260507040122273800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
-          "url": "https://wallstreetcn.com/livenews/3099863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
-          "url": "https://wallstreetcn.com/livenews/3099562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美股中概股大涨 百度涨超7%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3100025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时57分]"
-        },
-        {
-          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
-          "url": "https://wallstreetcn.com/articles/3771617",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 14时44分]"
-        },
-        {
-          "title": "A股游戏板块尾盘走强，中青宝20cm涨停，汤姆猫、掌趣科技、凯撒文化、昆仑万维、盛天网络等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260507143645630800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "A股佰维存储成交额达100亿元，现跌3%。",
-          "url": "https://flash.jin10.com/detail/20260507110950447800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
         {
           "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
           "url": "https://wallstreetcn.com/articles/3771709",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "A股总市值突破120万亿",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%80%BB%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4120%E4%B8%87%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "A股总市值已经突破120万亿元大关，创出历史新高",
-          "url": "https://wallstreetcn.com/livenews/3100049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "A股北交所N振宏股份盘中涨近250%，触发二次临停。",
-          "url": "https://flash.jin10.com/detail/20260507142535214800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "A股光通信概念股集体爆发",
-          "url": "https://www.toutiao.com/trending/7637027436286918699/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "A股总市值突破120万亿",
-          "url": "https://www.toutiao.com/trending/7636628858482425875/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "A股油气股持续下挫，潜能恒信跌超10%，首华燃气、广汇能源、中曼石油、中国石油、中国海油均跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3099773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
-          "url": "https://wallstreetcn.com/livenews/3099599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3099764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "A股算力租赁板块午后持续拉升，科华数据触及涨停，此前合力泰、航锦科技、浦东建设、特发信息等10余股封板。",
-          "url": "https://flash.jin10.com/detail/20260507140900921800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 07时57分]"
-        },
-        {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 17时40分]"
-        },
-        {
-          "title": "梁文锋留住97%员工",
-          "url": "https://www.toutiao.com/trending/7636695860440469034/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "不差钱到主动融资DeepSeek经历了什么",
-          "url": "https://www.toutiao.com/trending/7636782169930599974/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 06时04分]"
-        },
-        {
-          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20260507064154537800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
-          "url": "https://wallstreetcn.com/livenews/3099536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌向欧盟提交整改方案，寻求避免新闻搜索案罚款",
-          "url": "https://wallstreetcn.com/livenews/3099585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "谷歌推出Fitbit Air，售价100美元，对标Whoop。",
-          "url": "https://wallstreetcn.com/livenews/3100053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数6日下跌",
-          "url": "https://flash.jin10.com/detail/20260507051248108800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
-          "url": "https://wallstreetcn.com/livenews/3099539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "01时08分"
         }
       ]
     }
