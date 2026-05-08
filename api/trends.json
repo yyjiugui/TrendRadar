@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-05-09T04:10:39.708166+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-09T06:04:22.259231+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时04分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
+          "url": "https://flash.jin10.com/detail/20260509040234696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
+          "url": "https://wallstreetcn.com/livenews/3100919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美股行业ETF多数收跌，网络股ETF跌超0.8%，半导体指数涨4.9%",
+          "url": "https://wallstreetcn.com/livenews/3100917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "A股",
       "match_count": 3,
@@ -13,11 +86,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时04分]"
         },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
@@ -28,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时04分]"
         },
         {
           "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
@@ -40,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时04分]"
         }
       ]
     },
@@ -56,7 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -67,35 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时10分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
-          "url": "https://flash.jin10.com/detail/20260509040234696800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时10分"
         }
@@ -112,7 +158,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         }
