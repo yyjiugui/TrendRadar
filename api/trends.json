@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:54:15.392256+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-05-10T06:55:12.472234+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[04时53分 ~ 06时55分]"
         }
       ]
     },
@@ -69,11 +69,12 @@
           "url": "https://www.cls.cn/detail/2366667",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "A股新主线终于浮出水面",
@@ -86,8 +87,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 06时55分]"
         },
         {
           "title": "下周A股追还是撤",
@@ -127,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -155,8 +156,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时55分]"
         }
       ]
     },
@@ -170,11 +171,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时55分]"
         }
       ]
     }
