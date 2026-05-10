@@ -1,239 +1,40 @@
 {
-  "generated_at": "2026-05-10T23:01:08.533770+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-11T00:04:35.544006+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时55分]"
-        },
-        {
-          "title": "A股新主线终于浮出水面",
-          "url": "https://www.toutiao.com/trending/7637893630325165622/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 06时55分]"
-        },
-        {
-          "title": "A股900亿红包来了！工行、农行下周同日派息",
-          "url": "https://www.cls.cn/detail/2367236",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时00分 ~ 23时01分]"
-        },
-        {
-          "title": "申万宏源：A股赚钱效应累积正在质变",
-          "url": "https://www.toutiao.com/trending/7638180405157822506/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 23时01分]"
-        },
-        {
-          "title": "下周A股追还是撤",
-          "url": "https://www.toutiao.com/trending/7637841347948318249/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 05时54分]"
-        },
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://wallstreetcn.com/articles/3771884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "谁是A股核心主线",
-          "url": "https://www.toutiao.com/trending/7637892314240650790/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15,
-            16,
-            17,
-            18,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 23时01分]"
-        },
-        {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 18时23分]"
-        },
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
           "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时00分 ~ 23时01分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
           "ranks": [
-            13,
-            10
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 11时56分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 16时59分]"
-        },
-        {
-          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 16时59分]"
-        },
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            10,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时53分 ~ 11时56分]"
-        },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
           "url": "https://wallstreetcn.com/articles/3771914",
@@ -242,81 +43,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时48分 ~ 23时01分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时55分]"
-        },
         {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时39分 ~ 23时01分]"
-        },
-        {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时54分]"
-        },
-        {
-          "title": "沙特阿美股价在早盘交易中上涨1.1%。",
-          "url": "https://flash.jin10.com/detail/20260510150124748800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "00时04分"
         }
       ]
     },
     {
-      "keyword_group": "航空航天 商业卫星",
+      "keyword_group": "A股",
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗伊斯兰革命卫队航空航天部队指挥官：航空航天部队的导弹和无人机已锁定敌人，我们正等待发射命令。",
-          "url": "https://flash.jin10.com/detail/20260510041530086800",
-          "source": "金十数据",
+          "title": "A股900亿红包来了！工行、农行下周同日派息",
+          "url": "https://www.cls.cn/detail/2367236",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            11,
-            15
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
