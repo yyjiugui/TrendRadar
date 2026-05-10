@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:58:01.636975+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-05-10T21:49:14.182719+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -57,6 +57,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "谁是A股核心主线",
           "url": "https://www.toutiao.com/trending/7637892314240650790/",
           "source": "今日头条",
@@ -71,7 +82,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -82,11 +93,12 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 21时49分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -124,12 +136,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 16时59分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -186,6 +209,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时53分 ~ 11时56分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         }
       ]
     },
@@ -206,17 +240,6 @@
           "time_info": "[00时02分 ~ 06时55分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时54分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -227,8 +250,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 21时49分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时39分 ~ 19时58分]"
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
