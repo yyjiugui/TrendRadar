@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:59:53.683650+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-05-10T18:23:51.411266+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -84,8 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 16时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 18时23分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -94,11 +94,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 18时23分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -220,11 +221,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 16时59分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 18时23分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -233,7 +235,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
