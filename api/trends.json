@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T18:49:15.517897+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-05-12T21:09:26.476497+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 18时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 21时09分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 21时09分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -155,7 +155,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -166,7 +166,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -255,6 +255,18 @@
           "time_info": "[00时07分 ~ 08时08分]"
         },
         {
+          "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
+          "url": "https://www.cls.cn/detail/2369188",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 21时09分]"
+        },
+        {
           "title": "A股史诗级爆发原因",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -303,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时08分]"
-        },
-        {
-          "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
-          "url": "https://www.cls.cn/detail/2369188",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-05-12）",
