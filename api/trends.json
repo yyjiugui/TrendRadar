@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T04:49:19.997043+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-14T06:20:05.102145+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 04时49分]"
-        },
-        {
-          "title": "周三（5月13日），美股行业ETF多数收涨，半导体ETF涨2%，全球科技股指数ETF涨1.44%，科技行业ETF涨0.94%，网络股指数ETF涨0.67%，能源业ETF涨0.10%，金融业ETF、公用事业ETF、银行业ETF、区域银行ETF则收跌1.14%-1.60%。",
-          "url": "https://wallstreetcn.com/livenews/3103217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 06时20分]"
         },
         {
           "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
@@ -38,8 +27,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 06时20分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+          "url": "https://www.cls.cn/detail/2370687",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时09分 ~ 04时49分]"
+          "time_info": "[06时19分 ~ 06时20分]"
+        },
+        {
+          "title": "周三（5月13日），美股行业ETF多数收涨，半导体ETF涨2%，全球科技股指数ETF涨1.44%，科技行业ETF涨0.94%，网络股指数ETF涨0.67%，能源业ETF涨0.10%，金融业ETF、公用事业ETF、银行业ETF、区域银行ETF则收跌1.14%-1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3103217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时20分]"
+        },
+        {
+          "title": "思科(CSCO.O)美股盘后上涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260514040733737800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时20分]"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -53,24 +77,13 @@
           "time_info": "02时09分"
         },
         {
-          "title": "思科(CSCO.O)美股盘后上涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260514040733737800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260514040525741800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -81,7 +94,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -92,9 +105,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美股半导体板块大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -114,6 +138,18 @@
           "time_info": "02时09分"
         },
         {
+          "title": "谷歌母公司Alphabet收涨3.9%，创收盘历史新高。 英伟达收涨2.3%，连续第六个交易日走高。",
+          "url": "https://wallstreetcn.com/livenews/3103212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时20分]"
+        },
+        {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
           "url": "https://wallstreetcn.com/livenews/3103166",
           "source": "华尔街见闻-快讯",
@@ -123,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "谷歌母公司Alphabet收涨3.9%，创收盘历史新高。 英伟达收涨2.3%，连续第六个交易日走高。",
-          "url": "https://wallstreetcn.com/livenews/3103212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
         },
         {
           "title": "市场消息：微软、谷歌、X遭美国议员就大语言模型事宜问询，Anthropic、Perplexity也因相关问题遭问询。",
@@ -161,7 +186,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
@@ -170,7 +195,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -179,11 +204,34 @@
           "url": "https://flash.jin10.com/detail/20260514041348939800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时20分]"
+        },
+        {
+          "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
+          "url": "https://flash.jin10.com/detail/20260514043922541800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "06时20分"
+        },
+        {
+          "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
+          "url": "https://wallstreetcn.com/livenews/3103215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
@@ -192,7 +240,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -200,8 +248,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数13日上涨",
+          "url": "https://flash.jin10.com/detail/20260514044556004800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
         {
           "title": "美元指数在美国PPI数据发布日涨超0.2%",
           "url": "https://wallstreetcn.com/livenews/3103202",
@@ -209,7 +268,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
