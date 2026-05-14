@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T20:57:53.625415+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-05-14T23:26:39.100334+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时20分]"
+        },
+        {
+          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2371660",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -171,8 +182,20 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "专家：短线回调不改变A股牛市方向",
+          "url": "https://www.toutiao.com/trending/7639670399000645162/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 23时26分]"
+        },
         {
           "title": "A股尾盘为何风向突变",
           "url": "https://www.toutiao.com/trending/7639168248915771435/",
@@ -180,20 +203,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
         {
-          "title": "专家：短线回调不改变A股牛市方向",
-          "url": "https://www.toutiao.com/trending/7639670399000645162/",
-          "source": "今日头条",
+          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
+          "url": "https://www.cls.cn/detail/2371678",
+          "source": "财联社热门",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "23时26分"
         },
         {
           "title": "业内：A股急跌后或将迅速回稳",
@@ -202,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
