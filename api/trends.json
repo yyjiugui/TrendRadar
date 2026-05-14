@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-05-15T03:59:26.918519+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-05-15T05:19:43.228687+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "周四（5月14日）纽约尾盘，美国10年期基准国债收益率涨1.28个基点，报4.4816%，日内交投于4.4345%-4.4865%区间，整体呈现出长尾W形反转行情，美国零售销售数据发布后，在北京时间21:50（美股盘初）刷新日低。 两年期美债收益率涨4.01个基点，报4.0172%，日内交投于3.9501%-4.0193%区间。",
+          "url": "https://wallstreetcn.com/livenews/3103906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
+          "url": "https://wallstreetcn.com/articles/3772269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 05时19分]"
+        },
+        {
+          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2371660",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 05时19分]"
+        },
         {
           "title": "美股费城半导体指数转跌，标普500指数涨幅收窄至0.6%，道指涨323点涨幅收窄至0.65%，纳指涨0.63%。",
           "url": "https://wallstreetcn.com/livenews/3103852",
@@ -20,33 +55,65 @@
           "time_info": "[02时01分 ~ 03时59分]"
         },
         {
-          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2371660",
-          "source": "财联社热门",
+          "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040524186800",
+          "source": "金十数据",
           "ranks": [
-            7
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
-          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260515040515848800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英伟达涨超4%创新高",
+          "url": "https://flash.jin10.com/detail/20260515040122071800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3103886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "应用材料第二财季净销售79.1亿美元，分析师预期76.7亿美元。 第二财季半导体系统净销售59.7亿美元，符合分析师预期。 预计第三财季净销售84.5亿-94.5亿美元，分析师预期81.5亿美元。 应用材料（AMAT）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3103880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -59,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时59分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
+          "url": "https://flash.jin10.com/detail/20260515040418915800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
@@ -84,7 +162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -95,9 +173,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
+          "url": "https://wallstreetcn.com/livenews/3103894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -113,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 05时19分]"
         }
       ]
     }
