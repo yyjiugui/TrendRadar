@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:15:21.677500+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-05-17T04:58:09.311348+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "url": "https://www.cls.cn/detail/2373180",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -75,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
@@ -87,11 +90,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -105,11 +109,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -125,8 +130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -140,11 +145,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     }
