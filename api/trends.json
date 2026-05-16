@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T21:49:18.814925+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-05-16T23:03:24.312195+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 23时03分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 23时03分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金属重挫",
@@ -189,11 +190,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 23时03分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
@@ -281,8 +283,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 23时03分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -290,11 +292,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 23时03分]"
         },
         {
           "title": "一批上市公司将告别A股",
@@ -330,11 +333,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 23时03分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -342,11 +346,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 23时03分]"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -408,11 +413,12 @@
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时03分]"
         }
       ]
     },
