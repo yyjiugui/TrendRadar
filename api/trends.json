@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T11:43:04.307439+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-05-16T14:27:29.564065+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时27分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金属重挫",
@@ -42,6 +42,18 @@
           "time_info": "[01时48分 ~ 11时43分]"
         },
         {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时27分]"
+        },
+        {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 11时43分]"
         },
         {
           "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股收盘）",
@@ -178,7 +178,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -190,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
@@ -278,7 +289,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
