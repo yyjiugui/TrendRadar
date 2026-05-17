@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:58:24.459702+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-05-17T08:02:49.039859+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
-          "url": "https://wallstreetcn.com/articles/3772341",
-          "source": "华尔街见闻",
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
+          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -50,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -85,8 +86,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时02分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
@@ -118,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         }
       ]
     },
@@ -132,11 +133,12 @@
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 08时02分]"
         }
       ]
     },
@@ -154,8 +156,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时02分]"
         }
       ]
     }
