@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T21:46:10.595703+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-05-17T23:03:19.417760+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 21时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 23时03分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -102,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 21时46分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 23时03分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -155,11 +155,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时03分]"
         }
       ]
     },
