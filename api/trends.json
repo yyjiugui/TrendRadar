@@ -1,886 +1,112 @@
 {
-  "generated_at": "2026-05-20T23:46:07.067881+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-05-21T02:24:44.765147+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 23时46分]"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 07时11分]"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://flash.jin10.com/detail/20260520043717324800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
-          "url": "https://flash.jin10.com/detail/20260520022605113800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 12时10分]"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
-          "url": "https://www.cls.cn/detail/2376047",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2040145697911956151",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
-        },
-        {
-          "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
-          "url": "https://flash.jin10.com/detail/20260520022256133800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
-          "url": "https://flash.jin10.com/detail/20260520021523065800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌发布Gemini for science，来帮助研究",
-          "url": "https://wallstreetcn.com/livenews/3106216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
-          "url": "https://wallstreetcn.com/livenews/3106253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
-          "url": "https://wallstreetcn.com/livenews/3106214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://wallstreetcn.com/livenews/3106251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
-          "url": "https://wallstreetcn.com/livenews/3106212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌展示Google Flow Music。",
-          "url": "https://wallstreetcn.com/livenews/3106211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "周二（5月19日），美股人工智能（AI）赢家指数跌0.51%，报375.45点，北京时间01:00也曾转涨。 成分股Fluence Energy收跌8.34%，维谛技术控股跌5.03%，核电股Oklo跌4.58%，CoreWeave跌3.82%跌幅第四大，甲骨文跌2.76%，高意公司Coherent跌2.54%跌幅第十大，谷歌A跌2.34%。 Lumentum则收涨0.58%表现第九，美光科技涨2.52%，Arm控股涨3.73%，闪迪涨3.77%，迈威尔科技涨4.35%，Astera Labs涨13.40%。",
-          "url": "https://wallstreetcn.com/livenews/3106271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "谷歌(GOOG.O)： 推出谷歌图片图像创作与编辑应用程序。",
-          "url": "https://flash.jin10.com/detail/20260520020115209800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
-          "url": "https://wallstreetcn.com/livenews/3106205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
-          "url": "https://wallstreetcn.com/livenews/3106204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
-          "url": "https://wallstreetcn.com/livenews/3106203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
-          "url": "https://flash.jin10.com/detail/20260520015749647800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3106144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
-          "url": "https://wallstreetcn.com/livenews/3106201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
-          "url": "https://flash.jin10.com/detail/20260520015223072800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "沃比·帕克（warby Parker）股价上涨2.7%，此前该公司与谷歌及三星达成合作，联手开发智能眼镜。",
-          "url": "https://wallstreetcn.com/livenews/3106200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "谷歌I/O大会要点总结",
-          "url": "https://wallstreetcn.com/livenews/3106229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "谷歌发布Gemini 3.5系列模型",
-          "url": "https://wallstreetcn.com/livenews/3106192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
+          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 07时11分]"
-        },
-        {
-          "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
-          "url": "https://wallstreetcn.com/articles/3772605",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时26分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时25分 ~ 16时32分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 12时10分]"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 23时46分]"
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 23时46分]"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 19时53分]"
-        },
-        {
-          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
-        },
-        {
-          "title": "华尔街警告：美股“黄金时代”结束",
-          "url": "https://www.toutiao.com/trending/7640862320297639979/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 03时07分]"
-        },
-        {
-          "title": "美股开盘：西部数据、闪迪跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E3%80%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 03时07分]"
-        },
-        {
-          "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
-          "url": "https://wallstreetcn.com/livenews/3106254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "02时24分"
         },
         {
-          "title": "英伟达美股盘前波动不大，现涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3106599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
-          "url": "https://wallstreetcn.com/livenews/3106248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3106247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美股三大指数持续拉升，均涨超1%。特朗普表示，与伊朗的谈判已进入“最后阶段”。",
-          "url": "https://flash.jin10.com/detail/20260520231849724800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
-          "url": "https://wallstreetcn.com/livenews/3106273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040952291800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
-          "url": "https://wallstreetcn.com/livenews/3106270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260520020034868800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040951743800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
-          "url": "https://wallstreetcn.com/livenews/3106269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260520015921190800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3106240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。 第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。 孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。 孩之宝美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3106677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "塔吉特一季度净销售额254.4亿美元，同比增长6.7%。 一季度调整后每股收益1.71美元，去年同期为1.30美元。 塔吉特预计本财年调整后每股收益在7.50至8.50美元区间的高端。 塔吉特美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3106676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股为何“冰火两重天”",
-          "url": "https://www.toutiao.com/trending/7641906117685022214/",
-          "source": "今日头条",
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "A股今日71股涨停",
-          "url": "https://www.toutiao.com/trending/7641817687316299782/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "A股收盘：半导体产业链爆发",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "A股午评：创业板指半日收涨0.05% 半导体多个细分领域表现强势",
-          "url": "https://flash.jin10.com/detail/20260520113602130800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "华虹公司A股日内大涨逾12%，股价创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3106413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3106221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "标普500指数涨幅扩大至将近1.1%，道指涨530点、涨幅将近1.1%，纳指涨397点、涨幅超过1.5%，纳斯达克100指数涨约1.6%，生物科技指数涨约1.8%，半导体指数涨4.2%，银行指数涨2.5%。 现货黄金日内涨幅达1.5%，报4551.1美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3106826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "美元指数跌幅扩大至0.2%，刷新日低至90.140点下方，北京时间22:13还曾涨至99.472点刷新日高。 彭博美元指数一度跌超0.2%，刷新日低、逼近1201点关口，22:12还曾交投于1205点上方——逼近16:21刷新的日高1205.25点。",
-          "url": "https://wallstreetcn.com/livenews/3106823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "美元指数DXY短线下挫超20点，报99.04。",
-          "url": "https://flash.jin10.com/detail/20260520231831355800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "彭博美元指数涨超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3106228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "02时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 07时11分]"
-        },
-        {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 05时26分]"
-        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
           "source": "知乎",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
-        },
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
-          "url": "https://www.cls.cn/detail/2376780",
-          "source": "财联社热门",
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
-          "url": "https://flash.jin10.com/detail/20260520115552905800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
+          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3106863",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "02时24分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
-          "url": "https://flash.jin10.com/detail/20260519235653385800",
-          "source": "金十数据",
+          "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106884",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时24分"
         }
       ]
     }
