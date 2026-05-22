@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:50:04.354199+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-05-22T22:52:07.672631+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 12时13分]"
+        },
+        {
+          "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
+          "url": "https://www.cls.cn/detail/2379432",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "借机A股回调，这些ETF被韩国资金逆势扫货",
@@ -107,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -279,7 +290,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -291,6 +302,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 07时08分]"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260522222139981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -340,7 +362,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
@@ -352,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美元指数DXY短线小幅走高，美联储理事沃勒表示，美联储不应再释放降息信号。",
+          "url": "https://flash.jin10.com/detail/20260522220459582800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美元指数21日上涨",
@@ -368,8 +401,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
         {
           "title": "不小心把DeepSeek叫成豆包",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
@@ -394,11 +438,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时52分]"
         }
       ]
     }
