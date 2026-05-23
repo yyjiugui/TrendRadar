@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:06:34.877194+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-05-23T19:18:02.295266+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时08分 ~ 17时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时08分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -28,8 +29,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 19时18分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时06分]"
+          "time_info": "[17时06分 ~ 19时18分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -66,6 +79,17 @@
           "time_info": "[05时19分 ~ 07时09分]"
         },
         {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
           "url": "https://flash.jin10.com/detail/20260523040305525800",
           "source": "金十数据",
@@ -75,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 07时09分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -178,11 +191,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 19时18分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -190,11 +204,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 19时18分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -203,7 +218,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         }
@@ -222,8 +237,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 17时06分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 19时18分]"
         },
         {
           "title": "A股行情为何极端分化",
@@ -301,8 +316,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 19时18分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
