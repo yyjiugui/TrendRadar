@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:18:02.295266+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-05-23T21:51:06.717133+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时08分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 21时51分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -26,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时52分 ~ 21时51分]"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 21时51分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -165,12 +167,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -195,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 21时51分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -205,11 +218,23 @@
           "ranks": [
             10,
             3,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 21时51分]"
+        },
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -234,11 +259,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 21时51分]"
         },
         {
           "title": "A股行情为何极端分化",
@@ -276,6 +302,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 19时18分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -296,35 +362,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 19时18分]"
-        },
-        {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
