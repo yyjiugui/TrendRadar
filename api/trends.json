@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T00:06:47.292833+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T02:03:12.098417+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时03分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时03分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时03分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -48,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时03分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时03分]"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -90,11 +92,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33221413",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时03分]"
         }
       ]
     }
