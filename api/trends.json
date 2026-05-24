@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:11:57.570272+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-25T06:01:34.757514+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时01分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时01分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时01分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时01分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时01分]"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -85,7 +86,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "四家沪市ST公司同日“谢幕”，A股退市常态化持续深化",
@@ -97,8 +98,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时01分]"
+        },
+        {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2380086",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     }
