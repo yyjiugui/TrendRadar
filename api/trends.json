@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T18:46:09.358132+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-05-24T20:05:08.548969+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时09分 ~ 18时46分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 20时05分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 20时05分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -45,8 +45,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 20时05分]"
+        },
+        {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时05分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 20时05分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -75,38 +99,16 @@
           "time_info": "[01时10分 ~ 08时03分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时46分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时05分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -147,8 +149,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时09分 ~ 18时46分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 20时05分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
