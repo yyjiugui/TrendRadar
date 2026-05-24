@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T02:03:12.098417+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-05-25T04:11:57.570272+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时11分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时11分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时11分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时11分]"
         }
       ]
     },
@@ -67,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时11分]"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -93,11 +93,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时11分]"
         }
       ]
     }
