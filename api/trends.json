@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T01:32:40.600497+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-27T04:21:38.410120+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 04时21分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 04时21分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -54,6 +54,51 @@
       ]
     },
     {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国国家航空航天局（NASA）：萤火虫太空（Firefly）的“鞘翅”（Elytra）航天器将把首批无人机送上月球。",
+          "url": "https://wallstreetcn.com/livenews/3109615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）：蓝色起源（Blue Origin）的无人登月计划目标锁定在2026年秋季。",
+          "url": "https://wallstreetcn.com/livenews/3109608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
+          "url": "https://wallstreetcn.com/livenews/3109629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 1,
       "titles": [
@@ -65,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 04时21分]"
         }
       ]
     }
