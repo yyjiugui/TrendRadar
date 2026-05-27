@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T13:22:39.650514+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-05-27T18:07:09.560887+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -147,7 +147,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -191,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
@@ -250,6 +250,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程PH100芯片通过安全可靠测评",
+          "url": "https://flash.jin10.com/detail/20260527173446610800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
