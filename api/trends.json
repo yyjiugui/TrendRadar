@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T16:46:45.399732+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-05-29T20:21:32.719929+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 20时21分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时39分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 16时46分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -139,7 +140,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -216,7 +217,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -235,8 +236,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "今日A股下跌的原因是什么",
+          "url": "https://www.toutiao.com/trending/7644850608377266219/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
         {
           "title": "A股进入2025年年度分红密集实施期",
           "url": "https://wallstreetcn.com/livenews/3110979",
@@ -249,6 +261,18 @@
           "time_info": "07时39分"
         },
         {
+          "title": "A股5月收官",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A15%E6%9C%88%E6%94%B6%E5%AE%98&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 20时21分]"
+        },
+        {
           "title": "证券日报：A股券商板块估值修复潜力凸显",
           "url": "https://wallstreetcn.com/livenews/3110978",
           "source": "华尔街见闻-快讯",
@@ -258,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "A股5月收官",
+          "url": "https://www.toutiao.com/trending/7644509101556908068/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "A股免税店概念股爆发，中国中免触及涨停。",
@@ -304,17 +339,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "A股5月收官",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A15%E6%9C%88%E6%94%B6%E5%AE%98&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
           "title": "A股白酒股再度拉升，酒鬼酒封涨停，今世缘、迎驾贡酒、水井坊、舍得酒业均涨超5%，古井贡酒、五粮液、金徽酒跟涨。",
           "url": "https://wallstreetcn.com/livenews/3111102",
           "source": "华尔街见闻-快讯",
@@ -335,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "A股平均股价14.95元 55股不足2元",
+          "url": "https://www.toutiao.com/trending/7644153339986427942/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -360,9 +395,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 20时21分]"
         },
         {
           "title": "日本财务大臣片山皋月：已会晤OpenAI的策略长。 一些日本金融公司将获得OPENAI模型的使用权。",
@@ -371,7 +406,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -494,9 +529,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 20时21分]"
         }
       ]
     },
@@ -528,7 +563,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
