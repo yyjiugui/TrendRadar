@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T12:00:49.933585+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-05-30T14:53:56.398395+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,24 @@
           "ranks": [
             9,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 14时53分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时53分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -76,18 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时00分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
@@ -233,11 +234,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时53分]"
         },
         {
           "title": "A股老登股爆发",
@@ -257,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         }
