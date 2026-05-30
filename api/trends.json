@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:07:49.781416+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T07:05:29.082630+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 07时05分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 07时05分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 07时05分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -56,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 07时05分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 05时07分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 07时05分]"
         }
       ]
     },
