@@ -1,41 +1,11 @@
 {
-  "generated_at": "2026-05-31T07:05:29.082630+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-31T12:25:25.863316+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 07时05分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 07时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -45,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 12时25分]"
+        },
+        {
+          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
+          "url": "https://www.cls.cn/detail/2386240",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -59,6 +40,49 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 07时05分]"
+        },
+        {
+          "title": "“A+H”两地上市加速！MiniMax已正式启动A股辅导",
+          "url": "https://wallstreetcn.com/articles/3773492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 12时25分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 12时25分]"
         }
       ]
     },
