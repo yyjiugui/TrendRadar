@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T05:08:31.889559+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-06-01T07:08:12.516402+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
           "url": "https://www.cls.cn/detail/2386240",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
@@ -55,6 +57,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "李大霄：为何鲜有人提醒美股风险",
+          "url": "https://www.toutiao.com/trending/7646060691119410724/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -67,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -85,25 +115,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李大霄：为何鲜有人提醒美股风险",
-          "url": "https://www.toutiao.com/trending/7646060691119410724/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -120,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     }
