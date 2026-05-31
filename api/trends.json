@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T01:16:30.408704+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-01T03:26:59.494880+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -37,19 +37,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
           "url": "https://www.toutiao.com/trending/7646053365972995635/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         }
       ]
     },
@@ -65,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         }
       ]
     },
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时26分]"
         }
       ]
     }
