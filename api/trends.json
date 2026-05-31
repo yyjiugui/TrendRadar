@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T03:26:59.494880+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-06-01T05:08:31.889559+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
@@ -63,11 +63,12 @@
           "url": "https://www.zhihu.com/question/2043802300246915002",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         }
       ]
     },
@@ -80,11 +81,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         }
       ]
     },
@@ -114,11 +116,12 @@
           "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时08分]"
         }
       ]
     }
