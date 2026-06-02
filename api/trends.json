@@ -1,82 +1,40 @@
 {
-  "generated_at": "2026-06-02T22:13:27.402448+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-06-03T02:47:13.738690+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 18,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
-          "url": "https://wallstreetcn.com/articles/3773537",
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时59分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 12时43分]"
-        },
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 02时47分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
+          "url": "https://flash.jin10.com/detail/20260603022348534800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3112642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 07时08分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 07时08分]"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 07时08分]"
-        },
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
@@ -84,369 +42,54 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 02时47分]"
         },
         {
-          "title": "金十图示：2026年06月01日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260602041613894800",
-          "source": "金十数据",
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3112639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
-          "url": "https://wallstreetcn.com/livenews/3112635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "金十图示：2026年06月01日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260602040518051800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
-          "url": "https://flash.jin10.com/detail/20260602040120884800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美股盘初，北美科技软件股指数ETF跌2.18%。 个股中，HubSpot跌7.77%，RingCentral跌5.71%，Zscaler跌4.91%，Cloudflare跌2.52%，Palantir跌2.47%，Crowdstrike跌1.55%，Datadog跌1.53%，Palo Alto Networks跌0.77%，ServiceNow跌3.49%。",
-          "url": "https://wallstreetcn.com/livenews/3113117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美股三大指数集体低开，Marvell盘初涨15%",
-          "url": "https://wallstreetcn.com/livenews/3113115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
-          "url": "https://wallstreetcn.com/livenews/3112653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3113105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "迈威尔科技美股盘前涨超25%，黄仁勋表示Marvell可能会成为“下一家万亿美元公司”。",
-          "url": "https://wallstreetcn.com/livenews/3112927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
-          "url": "https://www.cls.cn/detail/2387242",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 07时08分]"
-        },
-        {
-          "title": "4家A股公司，撤销风险警示",
-          "url": "https://www.cls.cn/detail/2387556",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 12时43分]"
-        },
-        {
-          "title": "博主：A股最危险的不是下跌",
-          "url": "https://www.toutiao.com/trending/7646735663374536219/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "A股或将重返强势格局",
-          "url": "https://www.toutiao.com/trending/7646067345987207210/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "A股三大指数集体收涨 贵金属涨幅居前",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8+%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%85%E5%B1%85%E5%89%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "评论员：当前A股更适合左侧交易",
-          "url": "https://www.toutiao.com/trending/7645493452175589427/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 02时47分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
-          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
-          "url": "https://wallstreetcn.com/livenews/3112665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
-          "url": "https://wallstreetcn.com/livenews/3112620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
-          "url": "https://flash.jin10.com/detail/20260602032624584800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 22时13分]"
-        },
-        {
-          "title": "伯克希尔将对谷歌母公司投资100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3112644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
-          "url": "https://wallstreetcn.com/livenews/3112644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
-          "url": "https://wallstreetcn.com/livenews/3112923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260602034131741800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "周一（6月1日）纽约尾盘，ICE美元指数上涨0.25%，报99.186点，日内交投区间为98.919-99.385点，北京时间21:03之前维持微幅上涨状态、持稳于99关口附近，之后短线加速上涨，22:03刷新日高。 彭博美元指数涨0.25%，报1201.78点，日内交投区间为1199.26-1203.83点。 美元兑日元涨0.26%，报159.68日元，日内交投区间为159.24-159.76日元。",
-          "url": "https://wallstreetcn.com/livenews/3112622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航空航天 商业卫星",
       "match_count": 1,
       "titles": [
         {
-          "title": "美航空航天局：美东北部“火球”现象由流星解体引发",
-          "url": "https://flash.jin10.com/detail/20260602121734982800",
-          "source": "金十数据",
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股或将重返强势格局",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     }
