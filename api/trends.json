@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-04T16:55:27.014919+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-06-04T20:07:17.132624+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 20时07分]"
+        },
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
@@ -19,17 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时51分 ~ 16时55分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 16时55分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -77,6 +78,53 @@
           "time_info": "[02时51分 ~ 07时50分]"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 20时07分]"
+        },
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 20时07分]"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 20时07分]"
+        },
+        {
           "title": "博通美股盘后跌幅扩大至12%。",
           "url": "https://wallstreetcn.com/livenews/3114029",
           "source": "华尔街见闻-快讯",
@@ -86,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳指期货、标普500指数期货均触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3114421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "美股“逢低买入”信仰不倒，全球首个万亿美元ETF诞生",
@@ -99,35 +158,13 @@
           "time_info": "12时46分"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
           "title": "美股盘前，存储芯片股延续跌势，美光科技、闪迪均跌超2%；博通跌超10%，公司上季营收超预期增48%再创新高，AI收入指引逊色。",
           "url": "https://wallstreetcn.com/livenews/3114295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "如何看待美股窄牛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -154,6 +191,28 @@
           "time_info": "05时55分"
         },
         {
+          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3114398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前下跌15%，触及日内低点。",
+          "url": "https://flash.jin10.com/detail/20260604193530315800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "区域银行ETF收跌将近2.4%，领跌美股行业ETF，标普能源板块涨约1.4%",
           "url": "https://wallstreetcn.com/livenews/3114008",
           "source": "华尔街见闻-快讯",
@@ -165,15 +224,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114383",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "20时07分"
         },
         {
           "title": "Five Below美股盘后跌8%。 该公司一季度净销售12.9亿美元。",
@@ -241,6 +300,18 @@
           "time_info": "[02时52分 ~ 07时50分]"
         },
         {
+          "title": "下半年A股市场展望",
+          "url": "https://www.toutiao.com/trending/7647391113614986788/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 20时07分]"
+        },
+        {
           "title": "A股再登新闻联播释放何种信息",
           "url": "https://www.toutiao.com/trending/7647311695521549870/",
           "source": "今日头条",
@@ -286,17 +357,6 @@
           "time_info": "07时50分"
         },
         {
-          "title": "下半年A股市场展望",
-          "url": "https://www.toutiao.com/trending/7647391113614986788/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
           "title": "A股玻璃基板概念持续走强，京东方A、红星发展双双涨停，华映科技此前封板，美迪凯、艾森股份、彩虹股份涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3114175",
           "source": "华尔街见闻-快讯",
@@ -311,7 +371,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -319,11 +379,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 20时07分]"
         },
         {
           "title": "欧洲软件和IT股票上涨，Nemetschek、Capgemini、思爱普、Temenos、Wolters Kluwer、Relx上涨3%至5%。",
@@ -332,7 +393,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -348,13 +409,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "谷歌(GOOG.O)：计划于今年夏天在部分欧盟成员国推出身份通行证。",
           "url": "https://flash.jin10.com/detail/20260604163205003800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
