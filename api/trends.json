@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-06T18:11:57.511601+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-06-06T20:10:42.463977+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时10分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时10分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -22,28 +44,6 @@
           "time_info": "[00时04分 ~ 12时59分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 18时11分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 18时11分]"
-        },
-        {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
@@ -51,8 +51,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 18时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 20时10分]"
+        },
+        {
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
@@ -76,6 +87,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时20分]"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时10分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -108,7 +131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -188,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
@@ -358,6 +370,60 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
+          "url": "https://www.cls.cn/detail/2392216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 15时53分]"
+        },
+        {
+          "title": "A股世界杯魔咒真的存在吗",
+          "url": "https://www.toutiao.com/trending/7648154096716746276/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "券商：A股正从估值修复走向盈利验证",
+          "url": "https://www.toutiao.com/trending/7647906464081645075/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "A股一周103股创出历史新低",
+          "url": "https://www.toutiao.com/trending/7647451144042528810/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -371,8 +437,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 18时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 20时10分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -421,43 +487,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 18时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
-          "url": "https://www.cls.cn/detail/2392216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 15时53分]"
-        },
-        {
-          "title": "券商：A股正从估值修复走向盈利验证",
-          "url": "https://www.toutiao.com/trending/7647906464081645075/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 20时10分]"
         }
       ]
     }
