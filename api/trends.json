@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T22:48:08.558721+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-06-07T00:12:54.038770+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -15,116 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时14分 ~ 22时48分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时14分 ~ 22时48分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 12时59分]"
-        },
-        {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 20时10分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 22时48分]"
-        },
-        {
-          "title": "如何看待美股一夜蒸发2万亿",
-          "url": "https://www.toutiao.com/trending/7648181420996693523/",
-          "source": "今日头条",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
-          "url": "https://wallstreetcn.com/livenews/3115381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
-          "url": "https://wallstreetcn.com/livenews/3115338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时20分]"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260606040853818800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时20分]"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260606040847799800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时20分]"
+          "time_info": "00时12分"
         },
         {
           "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
@@ -134,389 +48,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
-          "title": "美股一夜蒸发超万亿美元市值",
-          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "title": "美股暴跌是AI第一次冲击人类经济吗",
+          "url": "https://www.toutiao.com/trending/7648276875000679942/",
           "source": "今日头条",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
-          "url": "https://wallstreetcn.com/livenews/3115378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美股三大指数齐跌 纳指跌逾千点",
-          "url": "https://www.toutiao.com/trending/7647681791742214171/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3115331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股三大指数缘何齐跌",
-          "url": "https://www.toutiao.com/trending/7648114822579490346/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3115328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
-          "url": "https://wallstreetcn.com/livenews/3115352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
-          "url": "https://wallstreetcn.com/livenews/3115385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
-          "url": "https://flash.jin10.com/detail/20260606040542544800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
-          "url": "https://wallstreetcn.com/livenews/3115345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时20分]"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
-          "url": "https://flash.jin10.com/detail/20260606024743263800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
-          "url": "https://flash.jin10.com/detail/20260606024718460800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
-          "url": "https://flash.jin10.com/detail/20260606042427126800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 08时14分]"
-        },
-        {
-          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
-          "url": "https://www.cls.cn/detail/2392502",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时53分]"
-        },
-        {
-          "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
-          "url": "https://wallstreetcn.com/livenews/3115375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "SpaceX与谷歌签署300亿美元算力协议",
-          "url": "https://wallstreetcn.com/livenews/3115327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3115384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
-          "url": "https://flash.jin10.com/detail/20260606021701992800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
-          "url": "https://wallstreetcn.com/livenews/3115400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
-          "url": "https://www.cls.cn/detail/2392216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 15时53分]"
-        },
-        {
-          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2392448",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
-        },
-        {
-          "title": "A股世界杯魔咒真的存在吗",
-          "url": "https://www.toutiao.com/trending/7648154096716746276/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "券商：A股正从估值修复走向盈利验证",
-          "url": "https://www.toutiao.com/trending/7647906464081645075/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "A股一周103股创出历史新低",
-          "url": "https://www.toutiao.com/trending/7647451144042528810/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 22时48分]"
-        },
-        {
-          "title": "美元指数5日上涨",
-          "url": "https://flash.jin10.com/detail/20260606052940978800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 08时14分]"
-        },
-        {
-          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
-          "url": "https://wallstreetcn.com/livenews/3115309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            9,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 22时48分]"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 08时14分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     },
@@ -529,11 +90,45 @@
           "url": "https://www.toutiao.com/trending/7648263144199949867/",
           "source": "今日头条",
           "ranks": [
-            25
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2392448",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     }
