@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T06:11:31.135922+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-06-08T08:17:07.449484+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,26 @@
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -28,32 +43,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
           "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -65,6 +68,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2392448",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
+        },
+        {
+          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
+          "url": "https://wallstreetcn.com/articles/3774033",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
+        },
+        {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 08时17分]"
+        },
+        {
+          "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
+          "url": "https://www.cls.cn/detail/2392822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 08时17分]"
         }
       ]
     },
@@ -83,49 +139,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
-          "url": "https://wallstreetcn.com/articles/3774033",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
-        },
-        {
-          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2392448",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         }
       ]
     },
@@ -142,8 +169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时17分]"
         }
       ]
     },
