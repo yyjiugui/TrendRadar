@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-06-09T05:56:01.619478+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-09T07:17:12.058582+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 05时56分]"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 07时17分]"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 07时17分]"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
@@ -58,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -91,90 +198,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
-          "url": "https://wallstreetcn.com/livenews/3116359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 05时56分]"
-        },
-        {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "OpenAI：尚未决定首次公开募股的时间。",
-          "url": "https://flash.jin10.com/detail/20260609051515095800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "OpenAI已提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609051454671800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
-          "url": "https://flash.jin10.com/detail/20260609051127110800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -182,7 +206,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -196,6 +220,28 @@
           "time_info": "[00时07分 ~ 05时56分]"
         },
         {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
+          "url": "https://www.cls.cn/detail/2394207",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
@@ -204,8 +250,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时17分]"
         },
         {
           "title": "美股",
@@ -214,11 +260,12 @@
           "ranks": [
             16,
             26,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 07时17分]"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -227,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -238,7 +285,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -249,7 +296,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -277,7 +324,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -313,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时17分]"
         }
       ]
     }
