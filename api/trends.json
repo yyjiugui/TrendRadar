@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T04:21:38.642911+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-14T06:11:35.995086+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时11分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时11分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -36,11 +37,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时11分]"
         }
       ]
     },
@@ -55,11 +57,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时11分]"
         }
       ]
     },
@@ -74,11 +77,12 @@
           "ranks": [
             20,
             23,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时11分]"
         }
       ]
     }
