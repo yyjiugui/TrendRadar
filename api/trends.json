@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-06-14T20:04:04.538078+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-06-14T23:10:39.474145+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股又一4倍大牛股诞生",
+          "url": "https://www.toutiao.com/trending/7650145858994094107/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时11分]"
+        },
+        {
+          "title": "7家A股公司，下周“摘帽”",
+          "url": "https://www.cls.cn/detail/2399262",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 23时10分]"
+        },
+        {
+          "title": "A股多个指数样本股即将调整",
+          "url": "https://www.toutiao.com/trending/7650409837184696358/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "10家A股公司退市 超25万股民踩雷",
+          "url": "https://s.weibo.com/weibo?q=10%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E9%80%80%E5%B8%82%20%E8%B6%8525%E4%B8%87%E8%82%A1%E6%B0%91%E8%B8%A9%E9%9B%B7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "10家A股公司退市 超25万股民踩雷",
+          "url": "https://www.baidu.com/s?wd=10%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E9%80%80%E5%B8%82+%E8%B6%8525%E4%B8%87%E8%82%A1%E6%B0%91%E8%B8%A9%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "10家A股公司退市",
+          "url": "https://www.douyin.com/hot/2533845",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -51,48 +127,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股又一4倍大牛股诞生",
-          "url": "https://www.toutiao.com/trending/7650145858994094107/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 06时11分]"
-        },
-        {
-          "title": "7家A股公司，下周“摘帽”",
-          "url": "https://www.cls.cn/detail/2399262",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "A股多个指数样本股即将调整",
-          "url": "https://www.toutiao.com/trending/7650409837184696358/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -121,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 20时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 23时10分]"
         }
       ]
     },
@@ -138,8 +172,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 23时10分]"
         }
       ]
     }
