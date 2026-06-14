@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T03:46:25.768726+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-06-15T05:20:57.282109+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2399262",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时20分]"
         },
         {
           "title": "10家A股公司退市",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时20分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时20分]"
         }
       ]
     }
