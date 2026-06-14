@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T05:20:57.282109+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-06-15T07:16:03.493547+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "7家A股公司，下周“摘帽”",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时16分]"
+        },
+        {
+          "title": "龙头20CM涨停！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2399350",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "10家A股公司退市",
@@ -56,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时16分]"
         }
       ]
     },
@@ -73,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时16分]"
         }
       ]
     }
