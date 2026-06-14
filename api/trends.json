@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T17:49:31.934644+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-06-14T20:04:04.538078+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 20时04分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -50,6 +51,48 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股又一4倍大牛股诞生",
+          "url": "https://www.toutiao.com/trending/7650145858994094107/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时11分]"
+        },
+        {
+          "title": "7家A股公司，下周“摘帽”",
+          "url": "https://www.cls.cn/detail/2399262",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
+        },
+        {
+          "title": "A股多个指数样本股即将调整",
+          "url": "https://www.toutiao.com/trending/7650409837184696358/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -74,42 +117,29 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 17时49分]"
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 20时04分]"
         }
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "A股又一4倍大牛股诞生",
-          "url": "https://www.toutiao.com/trending/7650145858994094107/",
-          "source": "今日头条",
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            23,
-            14,
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 06时11分]"
-        },
-        {
-          "title": "A股多个指数样本股即将调整",
-          "url": "https://www.toutiao.com/trending/7650409837184696358/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
         }
       ]
     }
