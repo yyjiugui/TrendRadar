@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T07:52:06.302799+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-06-16T13:08:26.830858+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 13时08分]"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 13时08分]"
         },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -30,15 +42,16 @@
           "time_info": "[02时02分 ~ 05时14分]"
         },
         {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
           "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 13时08分]"
         },
         {
           "title": "美伊协议落地，拉美股汇走势分化",
@@ -63,17 +76,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 07时52分]"
-        },
-        {
-          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
-          "url": "https://www.cls.cn/detail/2400629",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -276,7 +278,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
