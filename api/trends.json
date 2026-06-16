@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T01:08:04.122848+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-17T05:11:17.852137+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时11分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时11分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时11分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -48,8 +49,63 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时11分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040526431800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040524359800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
+          "url": "https://flash.jin10.com/detail/20260617040157823800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
@@ -58,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         }
@@ -66,18 +122,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 05时11分]"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.toutiao.com/trending/7651579346738855979/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "05时11分"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -86,9 +154,54 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260617040255849800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
+          "url": "https://wallstreetcn.com/livenews/3120470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "业内：A股年内第2个配置窗口值得关注",
+          "url": "https://www.toutiao.com/trending/7651985316760260132/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     }
