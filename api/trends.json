@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T17:55:04.124937+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-06-17T21:46:51.938000+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 21时46分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 12时50分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，费城半导体指数涨近3%，SpaceX涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3121050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -91,6 +102,17 @@
           "time_info": "[01时07分 ~ 07时28分]"
         },
         {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
           "url": "https://wallstreetcn.com/livenews/3120490",
           "source": "华尔街见闻-快讯",
@@ -100,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美股开盘，道指小幅高开，标普500指数涨0.12%，纳指涨0.43%。SpaceX(SPCX.O)涨3.6%，涨势延续至第四个交易日。半导体概念股走强，阿斯麦(ASML.O)涨5%、迈威尔科技(MRVL.O)涨5%、博通(AVGO.O)涨2.4%、英特尔(INTC.O)涨4.1%。",
+          "url": "https://flash.jin10.com/detail/20260617213040246800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
@@ -135,6 +168,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3121025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
           "url": "https://flash.jin10.com/detail/20260617040157823800",
           "source": "金十数据",
@@ -155,12 +199,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "CME美股盘前跌超4%，首席执行官Duffy将转任执行董事长。",
+          "url": "https://wallstreetcn.com/livenews/3121022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "美国5月零售销售数据公布后，美元指数短线小幅拉升，现报99.64。美股期货短线波动不大，纳斯达克100指数期货维持约0.6%的涨幅。美国10年期国债收益率短线波动不大，现报4.440%。现货黄金短线小幅拉升，现报4327.37美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "吴清：新“国九条”以来 社保、保险等净买入A股1.3万亿元",
@@ -175,6 +241,29 @@
           "time_info": "[12时50分 ~ 17时55分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 21时46分]"
+        },
+        {
+          "title": "多家A股公司提示风险",
+          "url": "https://www.toutiao.com/trending/7652205334456025130/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "价值蓝筹暗流涌动，私募激辩A股风格轮动",
           "url": "https://wallstreetcn.com/livenews/3120534",
           "source": "华尔街见闻-快讯",
@@ -186,24 +275,13 @@
           "time_info": "07时28分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "A股未来能变成慢牛吗",
           "url": "https://www.toutiao.com/trending/7652254351473249798/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -225,7 +303,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -255,8 +333,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 21时46分]"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -348,7 +426,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
