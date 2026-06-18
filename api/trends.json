@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T08:20:27.002302+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-06-18T14:02:04.575371+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -20,6 +20,30 @@
           "time_info": "[00时58分 ~ 06时06分]"
         },
         {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 14时02分]"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 14时02分]"
+        },
+        {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
@@ -30,6 +54,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 08时20分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 14时02分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -44,49 +79,26 @@
           "time_info": "[00时58分 ~ 03时29分]"
         },
         {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 08时20分]"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
           "title": "美股三大指数尾盘跳水",
           "url": "https://www.toutiao.com/trending/7652506164214631979/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        },
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
@@ -158,8 +170,30 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "A股电力板块持续下挫，豫能控股跌停，深南电A、粤电力A、西昌电力均跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3121449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股CPO板块持续走高，麦捷科技、兴森科技等股涨停，奕东电子、博敏电子、优迅股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3121445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
         {
           "title": "博主：A股正在发生三大结构性逆转",
           "url": "https://www.toutiao.com/trending/7652346288553332230/",
@@ -171,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 03时29分]"
+        },
+        {
+          "title": "6月18日投资避雷针：昨日晚间逾70家A股公司提示风险",
+          "url": "https://www.cls.cn/detail/2403062",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "多家A股公司提示风险",
@@ -185,13 +230,68 @@
           "time_info": "[00时58分 ~ 03时29分]"
         },
         {
+          "title": "A股化纤板块大幅回调，华峰化学封板跌停，聚合顺、华峰超纤、东方盛虹、荣盛石化、新乡化纤、江南高纤等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260618133900369800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股证券板块震荡下跌，国盛证券、兴业证券跌超4%，天风证券、中国银河、财通证券、太平洋、锦龙股份、华泰证券、申万宏源、山西证券、华西证券、湘财股份跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260618133807914800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股CPO概念板块午后持续走高，麦捷科技、兴森科技等多股涨停，奕东电子、博敏电子、优迅股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260618133714073800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股芯片电感概念异动拉升，麦捷科技20cm涨停，创历史新高，铂科新材、龙磁科技、顺络电子、悦安新材、美信科技涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3121436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股算力租赁板块念午后拉升，东方国信20cm涨停，此前中嘉博创、智微智能涨停，科创信息、利通电子、恒为科技、宏景科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3121429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "72家A股公司提示风险",
           "url": "https://s.weibo.com/weibo?q=%2372%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8F%90%E7%A4%BA%E9%A3%8E%E9%99%A9%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         }
@@ -199,7 +299,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
@@ -211,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -251,6 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         }
       ]
     }
