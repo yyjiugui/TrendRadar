@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T06:06:40.692355+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-06-18T08:20:27.002302+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 06时06分]"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 08时20分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -36,22 +48,45 @@
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时20分]"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "08时20分"
         },
         {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
+          "title": "美股三大指数尾盘跳水",
+          "url": "https://www.toutiao.com/trending/7652506164214631979/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 06时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
@@ -60,7 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -71,7 +106,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -82,7 +117,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -93,7 +128,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -104,7 +139,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -115,9 +150,50 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "博主：A股正在发生三大结构性逆转",
+          "url": "https://www.toutiao.com/trending/7652346288553332230/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时29分]"
+        },
+        {
+          "title": "多家A股公司提示风险",
+          "url": "https://www.toutiao.com/trending/7652205334456025130/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时29分]"
+        },
+        {
+          "title": "72家A股公司提示风险",
+          "url": "https://s.weibo.com/weibo?q=%2372%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8F%90%E7%A4%BA%E9%A3%8E%E9%99%A9%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
@@ -172,39 +248,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博主：A股正在发生三大结构性逆转",
-          "url": "https://www.toutiao.com/trending/7652346288553332230/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时29分]"
-        },
-        {
-          "title": "多家A股公司提示风险",
-          "url": "https://www.toutiao.com/trending/7652205334456025130/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时29分]"
         }
       ]
     }
