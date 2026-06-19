@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T18:48:06.220312+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-06-19T22:15:55.110017+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 18时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 22时15分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
@@ -129,7 +130,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -189,11 +190,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 18时48分]"
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 22时15分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
@@ -203,11 +205,12 @@
             6,
             3,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 18时48分]"
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 22时15分]"
         },
         {
           "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
@@ -234,6 +237,17 @@
           "time_info": "[02时12分 ~ 05时24分]"
         },
         {
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "近200亿市值A股公司将变ST",
           "url": "https://www.toutiao.com/trending/7652121189392875562/",
           "source": "今日头条",
@@ -251,7 +265,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -278,11 +292,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 18时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 22时15分]"
         },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -292,8 +307,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 22时15分]"
         },
         {
           "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
@@ -312,11 +327,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 22时15分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -376,8 +392,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 22时15分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -417,6 +433,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯以13亿美元出售顶级黄金开采商股份 成交价格低于预期",
+          "url": "https://flash.jin10.com/detail/20260619214147134800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     }
