@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T19:22:53.706737+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-06-20T22:18:22.008030+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 22时18分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 22时18分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -109,52 +109,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2404440",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 19时22分]"
-        },
-        {
-          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
-          "url": "https://www.cls.cn/detail/2404108",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 19时22分]"
-        },
-        {
-          "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
-          "url": "https://www.cls.cn/detail/2404026",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 12时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
@@ -178,6 +134,78 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 05时15分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 22时18分]"
+        },
+        {
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 22时18分]"
+        },
+        {
+          "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
+          "url": "https://www.cls.cn/detail/2404026",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
