@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T02:18:19.783393+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-21T04:20:26.182424+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -38,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -66,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         }
       ]
     },
