@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T14:09:26.336681+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-06-21T18:35:59.351651+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -58,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 18时35分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -80,7 +80,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
@@ -124,11 +124,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 18时35分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
@@ -137,7 +138,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
