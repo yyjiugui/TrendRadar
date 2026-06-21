@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-21T21:12:02.508343+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-06-21T23:59:12.642460+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 23时59分]"
+        },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 08时15分]"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -126,11 +126,12 @@
           "ranks": [
             8,
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[14时09分 ~ 23时59分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
