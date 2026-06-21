@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T18:35:59.351651+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-06-21T21:12:02.508343+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -125,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时12分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
