@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T16:27:01.803095+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-06-24T19:50:52.680999+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[02时05分 ~ 07时13分]"
         },
         {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时50分]"
+        },
+        {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
           "url": "https://www.cls.cn/detail/2407361",
           "source": "财联社热门",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 12时08分]"
-        },
-        {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -117,7 +117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -205,7 +205,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -224,8 +224,20 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "A股新“股王”盘中大涨：上市两月，股价狂飙30倍",
+          "url": "https://www.cls.cn/detail/2407657",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 19时50分]"
+        },
         {
           "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
           "url": "https://www.cls.cn/detail/2406940",
@@ -237,18 +249,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 07时13分]"
-        },
-        {
-          "title": "A股新“股王”盘中大涨：上市两月，股价狂飙30倍",
-          "url": "https://www.cls.cn/detail/2407657",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 16时27分]"
         },
         {
           "title": "A股午评：创业板指涨0.42% 半导体、CXO概念等走强",
@@ -303,7 +303,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -314,9 +314,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "A股再现半导体“大肉签”",
+          "url": "https://www.toutiao.com/trending/7654818559617400875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "A股CRO概念股震荡走高，药明康德触及涨停，凯莱英此前封板，泰格医药、康龙化成、昭衍新药涨幅居前。",
@@ -336,6 +347,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 19时50分]"
+        },
+        {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -345,17 +367,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 05时04分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 16时27分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -401,11 +412,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 19时50分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -445,6 +457,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程亮相MWC上海 展示全栈具身智能仿真平台",
+          "url": "https://wallstreetcn.com/livenews/3124003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     }
