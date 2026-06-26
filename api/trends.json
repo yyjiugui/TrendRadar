@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T08:16:15.402150+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-06-26T13:14:57.374510+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2409666",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 13时14分]"
         },
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 08时16分]"
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 13时14分]"
         },
         {
           "title": "美股",
@@ -226,11 +228,12 @@
           "url": "https://www.zhihu.com/question/2052444159282082405",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 13时14分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -253,6 +256,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -297,7 +339,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -310,6 +352,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 06时25分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     }
