@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T02:10:19.584704+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-06-28T04:13:42.888290+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -37,19 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
           "url": "https://www.cls.cn/detail/2410765",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -76,19 +78,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         }
       ]
     },
@@ -101,11 +104,12 @@
           "url": "https://www.cls.cn/detail/2410708",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -115,8 +119,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "A股在暴力调整之后该怎么看",
@@ -143,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -154,8 +158,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时13分]"
         }
       ]
     }
