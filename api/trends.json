@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:09:39.738986+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-06-28T08:09:18.055451+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,17 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,20 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
-        },
-        {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -48,6 +38,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -65,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -77,11 +79,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -110,8 +113,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -121,8 +124,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "A股在暴力调整之后该怎么看",
@@ -147,11 +150,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -159,11 +163,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下半年美元指数何去何从",
+          "url": "https://wallstreetcn.com/articles/3775680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     }
