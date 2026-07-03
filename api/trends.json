@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T15:32:13.189211+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-07-03T18:45:16.632576+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[07时15分 ~ 15时32分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 18时45分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 15时32分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时32分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -167,7 +167,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -179,17 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 07时15分]"
-        },
-        {
-          "title": "A股机器人概念全线大涨",
-          "url": "https://www.toutiao.com/trending/7657736239235727401/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "A股午评：创业板指半日收涨1.58% 贵金属、人形机器人板块领涨",
@@ -209,9 +198,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时45分]"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -236,6 +237,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "51只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7657863824892559402/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "A股新易盛成交额超200亿元，现涨6.48%。",
           "url": "https://flash.jin10.com/detail/20260703111602150800",
           "source": "金十数据",
@@ -253,7 +265,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -447,6 +459,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3128645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "赤峰黄金：近期黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响",
+          "url": "https://flash.jin10.com/detail/20260703182721556800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     }
