@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T19:40:03.520479+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-07-04T21:48:25.133235+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 21时48分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -55,12 +56,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 17时28分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
@@ -71,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 21时48分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -84,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[14时53分 ~ 21时48分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -98,6 +110,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时38分 ~ 05时16分]"
+        },
+        {
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -112,11 +135,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 21时48分]"
         }
       ]
     },
