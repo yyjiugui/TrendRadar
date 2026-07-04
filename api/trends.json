@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T14:53:21.520257+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-07-04T17:28:13.777116+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[01时40分 ~ 11时42分]"
         },
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时28分]"
+        },
+        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -33,27 +45,15 @@
           "time_info": "[01时40分 ~ 05时16分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 14时53分]"
-        },
-        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时28分]"
         }
       ]
     },
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时28分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -90,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2417055",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时28分]"
         }
       ]
     },
@@ -111,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时28分]"
         }
       ]
     },
