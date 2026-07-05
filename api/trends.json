@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-05T16:07:28.865626+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-07-05T19:09:10.881586+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
-          "url": "https://www.cls.cn/detail/2417029",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 16时07分]"
-        },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
           "url": "https://www.cls.cn/detail/2417150",
@@ -30,8 +17,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 19时09分]"
+        },
+        {
+          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
+          "url": "https://www.cls.cn/detail/2417029",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 19时09分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -44,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 19时09分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -57,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 19时09分]"
         },
         {
           "title": "下周A股反弹能走多远",
@@ -75,15 +76,27 @@
           "time_info": "[01时14分 ~ 07时04分]"
         },
         {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
           "title": "A股交易新规明日开启",
           "url": "https://www.toutiao.com/trending/7657917122596896774/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 19时09分]"
         },
         {
           "title": "韩国股民A股买入额大增130%",
@@ -103,7 +116,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -114,7 +127,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -135,8 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 19时09分]"
         },
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -147,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时09分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -168,7 +181,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -183,11 +196,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 19时09分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -230,7 +244,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
