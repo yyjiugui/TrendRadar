@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T01:19:20.667894+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T03:27:39.082165+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         },
         {
           "title": "多家A股公司，业绩大增",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -48,8 +48,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
+        },
+        {
+          "title": "A股交易新规今起施行 投资者需注意三大变化",
+          "url": "https://flash.jin10.com/detail/20260706023348767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时27分"
         }
       ]
     },
@@ -65,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -76,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         }
       ]
     },
@@ -90,11 +101,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时27分]"
         }
       ]
     }
