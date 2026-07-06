@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T12:08:42.086799+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-07-06T17:04:42.383345+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -88,6 +88,30 @@
           "time_info": "[03时27分 ~ 05时09分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 17时04分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2560106",
+          "source": "抖音",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 17时04分]"
+        },
+        {
           "title": "今起，A股交易规则重要调整",
           "url": "https://flash.jin10.com/detail/20260706064257878800",
           "source": "金十数据",
@@ -99,35 +123,13 @@
           "time_info": "07时07分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2560106",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "A股三大指数集体高开",
           "url": "https://www.toutiao.com/trending/7659220026936229934/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -138,7 +140,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -146,7 +148,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -171,6 +173,18 @@
           "time_info": "[01时19分 ~ 07时07分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 17时04分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
           "url": "https://flash.jin10.com/detail/20260706070621012800",
           "source": "金十数据",
@@ -182,15 +196,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "17时04分"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -199,9 +213,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -216,7 +241,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -250,11 +275,12 @@
           "url": "https://www.cls.cn/detail/2417498",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 17时04分]"
         }
       ]
     }
