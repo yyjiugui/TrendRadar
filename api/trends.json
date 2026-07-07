@@ -1,243 +1,33 @@
 {
-  "generated_at": "2026-07-07T22:57:45.673942+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-07-08T01:24:48.177211+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 08时15分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 16时33分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 19时58分]"
-        },
-        {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 08时15分]"
-        },
-        {
-          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2418371",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 08时15分]"
-        },
-        {
-          "title": "周一（7月6日），彭博电动汽车价格回报指数涨0.01%，报3584.02点。 指数全天呈现出U形反转，北京时间10:00之前呈现出V形反转、10:04刷新日高至3590.43点，21:30美股开盘后快速地显著收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3129561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时22分]"
-        },
-        {
-          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时58分]"
-        },
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
           "url": "https://wallstreetcn.com/articles/3776359",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 22时57分]"
-        },
-        {
-          "title": "大豆基金收涨将近3.3%，与农产品ETF、新兴市场ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3129555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时22分]"
-        },
-        {
-          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3129551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时22分]"
-        },
-        {
-          "title": "美股盘前，存储概念股普跌，美光科技跌4.8%，闪迪跌超4%；康宁跌超2%，英特尔跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3129830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "01时24分"
         },
         {
-          "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
-          "url": "https://flash.jin10.com/detail/20260707074846278800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "美股低开低走，纳斯达克100指数跌超2%，费城半导体指数跌超6%，闪迪(SNDK.O)、西部数据(WDC.O)现均跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260707221630076800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "美股芯片股持续走低，闪迪(SNDK.O)跌超11%，西部数据(WDC.O)跌近10%，美光科技(MU.O)<br/>、希捷科技(STX.O)跌超7%， 英伟达(NVDA.O)跌1.3%。",
-          "url": "https://flash.jin10.com/detail/20260707221359560800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3129570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260707040552066800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260707040551482800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "英伟达美股盘前短线下跌，现跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3129939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
-          "url": "https://wallstreetcn.com/livenews/3129566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "01时24分"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -246,309 +36,148 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E9%81%93%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "01时24分"
         },
         {
-          "title": "美股收盘：三大股指收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260707040138042800",
+          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260708002522705800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "李大霄：做多美股需要警惕了",
-          "url": "https://www.toutiao.com/trending/7659718093526011433/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)美股盘前跌1.2%，此前该公司股票被纳入纳斯达克100指数，多家券商开始覆盖该股。",
-          "url": "https://flash.jin10.com/detail/20260707160217170800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "A股收盘：沪指失守4000点",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%884000%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报道失实",
-          "url": "https://wallstreetcn.com/livenews/3129739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
-          "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "01时24分"
         },
         {
-          "title": "郭一鸣：A股万亿缩量 变盘信号来了吗",
-          "url": "https://www.toutiao.com/trending/7659760549286120970/",
-          "source": "今日头条",
+          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260708002519398800",
+          "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "A股收盘：沪指跌1.26%失守4000点，全市场下跌个股近4800只",
-          "url": "https://wallstreetcn.com/livenews/3129803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "A股上半年：随机买股持有半年或亏15%",
-          "url": "https://www.toutiao.com/trending/7659239638603186214/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "A股三大指数均跌超1%，全市场下跌个股超4800只。",
-          "url": "https://wallstreetcn.com/livenews/3129723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
           "ranks": [
-            5,
-            2,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 22时57分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 16时33分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
           "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
           "source": "凤凰网",
           "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
           "ranks": [
-            7
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
-        },
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "01时24分"
         },
         {
-          "title": "DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
+          "url": "https://flash.jin10.com/detail/20260708003008011800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
+          "url": "https://flash.jin10.com/detail/20260708002232140800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
-          "url": "https://wallstreetcn.com/livenews/3129560",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3130110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时22分]"
-        },
-        {
-          "title": "周一（7月6日）纽约尾盘，ICE美元指数涨0.02%，报100.876点，日内交投区间为101.145-100.840点，亚太盘初至北京时间18:06持续上扬，经过一段时间的高位窄幅震荡之后，从23:00开始回落。 彭博美元指数跌0.02%，报1218.84点，日内交投区间为1220.46-1218.60点。",
-          "url": "https://wallstreetcn.com/livenews/3129543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时22分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
           "url": "https://www.cls.cn/detail/2419496",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "美元指数6日微涨",
-          "url": "https://flash.jin10.com/detail/20260707045644750800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
-          "url": "https://wallstreetcn.com/livenews/3129509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "美元指数DXY短线走高10点，向上触及101，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20260707220801467800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -557,15 +186,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
-          "url": "https://wallstreetcn.com/livenews/3130034",
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     }
