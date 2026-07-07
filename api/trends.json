@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T08:15:21.380636+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-07-07T12:58:54.784520+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 08时15分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 12时58分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
         },
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -115,13 +116,24 @@
           "time_info": "[04时58分 ~ 06时22分]"
         },
         {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
           "url": "https://flash.jin10.com/detail/20260707074846278800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -176,7 +188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -242,6 +254,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱：媒体称撤回A股辅导备案报道失实",
+          "url": "https://wallstreetcn.com/livenews/3129739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，全市场下跌个股超4800只。",
+          "url": "https://wallstreetcn.com/livenews/3129723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     }
