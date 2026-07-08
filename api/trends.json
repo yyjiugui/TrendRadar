@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:25:54.542480+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-07-08T23:27:22.509487+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -59,6 +59,28 @@
           "time_info": "[08时04分 ~ 15时34分]"
         },
         {
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
           "url": "https://wallstreetcn.com/livenews/3130197",
           "source": "华尔街见闻-快讯",
@@ -104,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
+          "url": "https://www.cls.cn/detail/2420472",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美股三大指数集体收跌 英特尔跌超9%",
@@ -164,7 +197,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -173,9 +206,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 23时27分]"
         },
         {
           "title": "今年以来近350家A股公司披露股权激励计划",
@@ -233,13 +266,24 @@
           "time_info": "15时34分"
         },
         {
+          "title": "A股热门科技股回撤超25%",
+          "url": "https://www.toutiao.com/trending/7660129507965144585/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "A股再现天价离婚案",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -269,7 +313,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -314,9 +358,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "DeepSeek被曝自研芯片",
@@ -344,7 +399,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -378,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -447,7 +513,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
