@@ -1,203 +1,117 @@
 {
-  "generated_at": "2026-07-08T23:27:22.509487+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-07-09T01:45:00.379669+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 12时20分]"
-        },
-        {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 15时34分]"
-        },
-        {
-          "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 15时34分]"
-        },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2420785",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时17分 ~ 08时04分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 08时04分]"
-        },
-        {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 06时17分]"
-        },
-        {
-          "title": "美股三大股指期货周三小幅低开。",
-          "url": "https://flash.jin10.com/detail/20260708060036398800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "[01时44分 ~ 01时45分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "特朗普讲话后，美股三大股指跌幅持续收窄，道指跌幅收窄至约1%，标普500跌0.41%，纳指跌0.15%。",
+          "url": "https://flash.jin10.com/detail/20260709011105896800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时27分"
+          "time_info": "01时45分"
         },
         {
-          "title": "美股三大指数集体收跌 英特尔跌超9%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C%E8%B6%859%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002522705800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002519398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3130167",
+          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
+          "url": "https://wallstreetcn.com/livenews/3130817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
-        },
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
-          "url": "https://wallstreetcn.com/livenews/3130166",
+          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
+          "url": "https://wallstreetcn.com/livenews/3130838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
+          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -208,344 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 23时27分]"
-        },
-        {
-          "title": "今年以来近350家A股公司披露股权激励计划",
-          "url": "https://wallstreetcn.com/livenews/3130214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
-          "url": "https://wallstreetcn.com/livenews/3130346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "A股午评：科创50指数涨3% 算力产业链走强",
-          "url": "https://flash.jin10.com/detail/20260708113718878800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
-          "url": "https://flash.jin10.com/detail/20260708150244937800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "A股热门科技股回撤超25%",
-          "url": "https://www.toutiao.com/trending/7660129507965144585/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "A股再现天价离婚案",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3130206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "A股红利股局部活跃，山东高速触及涨停，粤高速A涨近2%，双双创历史新高，晋控煤业、山煤国际、厦门国贸、中国银行、皖通高速涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3130442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 15时34分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 06时17分]"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
-          "url": "https://wallstreetcn.com/livenews/3130368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
-          "url": "https://flash.jin10.com/detail/20260708120128059800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
-          "url": "https://flash.jin10.com/detail/20260708003008011800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3130342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
-          "url": "https://flash.jin10.com/detail/20260708002232140800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
-          "url": "https://flash.jin10.com/detail/20260708120738647800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "gemini为了偷懒不择手段",
-          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
-          "url": "https://www.cls.cn/detail/2419496",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 08时04分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
-          "url": "https://wallstreetcn.com/livenews/3130110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 04时05分]"
+          "time_info": "[01时44分 ~ 01时45分]"
         }
       ]
     }
