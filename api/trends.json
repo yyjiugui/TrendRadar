@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:20:03.971846+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-07-08T15:34:28.032296+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时34分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -46,6 +46,19 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时34分]"
+        },
+        {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
           "url": "https://wallstreetcn.com/livenews/3130197",
           "source": "华尔街见闻-快讯",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 08时04分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时20分]"
         },
         {
           "title": "美股",
@@ -162,6 +163,89 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "今年以来近350家A股公司披露股权激励计划",
+          "url": "https://wallstreetcn.com/livenews/3130214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
+          "url": "https://wallstreetcn.com/livenews/3130346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "A股午评：科创50指数涨3% 算力产业链走强",
+          "url": "https://flash.jin10.com/detail/20260708113718878800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260708150244937800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3130206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "A股红利股局部活跃，山东高速触及涨停，粤高速A涨近2%，双双创历史新高，晋控煤业、山煤国际、厦门国贸、中国银行、皖通高速涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3130442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -172,7 +256,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -183,7 +267,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -216,7 +300,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -244,11 +328,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 15时34分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -297,67 +382,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "今年以来近350家A股公司披露股权激励计划",
-          "url": "https://wallstreetcn.com/livenews/3130214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
-          "url": "https://wallstreetcn.com/livenews/3130346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "A股午评：科创50指数涨3% 算力产业链走强",
-          "url": "https://flash.jin10.com/detail/20260708113718878800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3130206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -368,7 +392,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
