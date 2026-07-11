@@ -1,438 +1,94 @@
 {
-  "generated_at": "2026-07-11T23:02:22.437722+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-07-12T00:06:00.566050+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时03分 ~ 23时02分]"
-        },
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 21时45分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时04分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 16时52分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 23时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 23时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            10,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 23时02分]"
-        },
-        {
-          "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时13分]"
-        },
-        {
-          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时03分 ~ 07时04分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3132248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时04分]"
-        },
-        {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时04分]"
-        },
-        {
-          "title": "存储芯片巨头SK海力士登陆美股",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 07时04分]"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260711003130071800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260711003030791800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
-          "url": "https://flash.jin10.com/detail/20260711094525096800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260711040603182800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260711040543415800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
-          "url": "https://flash.jin10.com/detail/20260710234610274800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅走高 SK海力士收涨近13%",
-          "url": "https://flash.jin10.com/detail/20260711040123431800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时13分]"
-        },
-        {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时04分]"
-        },
-        {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时04分]"
-        },
-        {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时20分]"
-        },
-        {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时04分]"
-        },
-        {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
-          "url": "https://wallstreetcn.com/livenews/3132277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "[00时05分 ~ 00时06分]"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
-          "url": "https://www.cls.cn/detail/2423179",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 18时20分]"
-        },
-        {
-          "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
-          "url": "https://www.cls.cn/detail/2422969",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时04分]"
-        },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时57分 ~ 23时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "A股下周怎么走",
+          "url": "https://www.toutiao.com/trending/7661256578196049450/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
           "url": "https://wallstreetcn.com/livenews/3132343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            17,
             21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 23时02分]"
-        },
-        {
-          "title": "A股商业航天板块午后“满屏涨停”",
-          "url": "https://www.toutiao.com/trending/7660879056061074985/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "A股一周熊股出炉：最熊股跌超84%",
-          "url": "https://www.toutiao.com/trending/7660657298100764698/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数10日上涨",
-          "url": "https://flash.jin10.com/detail/20260711035259724800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.93%，暂报2213.15点，上周五结束交易以来（7*24）累计下跌0.99%，7月4-7日大致交投于2240点附近，7月8-10日呈现出V形走势。 MarketVectorTM数字资产100中盘指数涨3.05%，报2616.89点，最近七天累涨1.56%。 MarketVector数字资产100指数涨2.09%，报12715.52点，最近七天累涨2.55%。 目前，Solana跌0.09%、最近七天迄今累跌5.74%，狗狗币涨1.60%、最近七天迄今累跌4.95%，XRP涨0.75%、最近七天迄今累跌3.15%。 比特币涨1.38%，暂报64086.93美元，最近七天迄今累涨2.06；以太坊涨2.63%，暂报1793.54美元，最近七天迄今累涨1.64%。",
-          "url": "https://wallstreetcn.com/livenews/3132197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "time_info": "00时06分"
         }
       ]
     }
