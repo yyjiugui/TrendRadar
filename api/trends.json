@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:58:25.397842+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-07-12T05:59:20.420257+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时59分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -50,19 +51,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时59分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -91,8 +93,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 05时59分]"
         },
         {
           "title": "A股下周怎么走",
@@ -113,7 +115,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -129,11 +131,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时59分]"
         }
       ]
     },
@@ -146,11 +149,12 @@
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时59分]"
         }
       ]
     }
