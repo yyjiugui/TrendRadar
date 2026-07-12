@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T08:06:31.440692+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-12T12:30:44.252168+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 08时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 12时30分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -80,11 +80,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 08时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 12时30分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -124,6 +125,36 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时06分]"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -140,25 +171,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时58分 ~ 08时06分]"
         }
       ]
     }
