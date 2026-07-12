@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:01:51.624780+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-12T08:06:31.440692+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 08时06分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 08时06分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 08时06分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -64,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时06分]"
         }
       ]
     },
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 08时06分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -95,8 +95,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "A股下周怎么走",
@@ -134,11 +134,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 08时06分]"
         }
       ]
     },
@@ -156,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时06分]"
         }
       ]
     }
