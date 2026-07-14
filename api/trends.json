@@ -1,546 +1,44 @@
 {
-  "generated_at": "2026-07-14T23:02:02.728365+08:00",
-  "total_titles_processed": 1487,
-  "failed_sources": [
-    "wallstreetcn-quick",
-    "douyin"
-  ],
+  "generated_at": "2026-07-15T00:23:52.678716+08:00",
+  "total_titles_processed": 309,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 23时02分]"
-        },
-        {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 15时14分]"
-        },
-        {
-          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2425183",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 15时14分]"
-        },
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "花旗集团第二季度营收为247.7亿美元，每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3133646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260714004739536800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
-          "url": "https://wallstreetcn.com/livenews/3133080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 20时19分]"
-        },
-        {
-          "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3133078",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "00时23分"
         },
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
           "url": "https://wallstreetcn.com/articles/3776831",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 23时02分]"
-        },
-        {
-          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
-          "url": "https://www.cls.cn/detail/2424724",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "美股半导体大跌！闪迪跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时01分]"
-        },
-        {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "IBM美股盘前跌幅扩大至逾20%，公司第二财季初步营收不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3133637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
-          "url": "https://wallstreetcn.com/livenews/3133072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美银“牛熊指标”发出预警！美股或进入调整期？",
-          "url": "https://flash.jin10.com/detail/20260714195907546800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3133630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260714040535103800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "IBM美股盘前跌超14%，公司第二财季初步营收不及预期",
-          "url": "https://wallstreetcn.com/livenews/3133624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260714040526298800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "七大情景看懂今晚CPI的逻辑推演：美元黄金美股将如何反应？",
-          "url": "https://flash.jin10.com/detail/20260714194837039800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "SK海力士美股上市第二日收跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260714040316327800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
-          "url": "https://wallstreetcn.com/livenews/3133099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260714003035875800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 闪迪跌超12%",
-          "url": "https://flash.jin10.com/detail/20260714040050425800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3133095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
-          "url": "https://wallstreetcn.com/livenews/3133093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 23时02分]"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 08时02分]"
-        },
-        {
-          "title": "A股收盘：创业板指大涨3.43%，算力硬件股集体反弹",
-          "url": "https://wallstreetcn.com/livenews/3133388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 23时02分]"
-        },
-        {
-          "title": "A股今日大跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 08时02分]"
-        },
-        {
-          "title": "A股收评：三大股指午后直线拉升 油气、医药商业板块全日强势",
-          "url": "https://flash.jin10.com/detail/20260714150649677800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "A股已有650多家公司预告上半年业绩，近150家公司半年盈利超去年全年",
-          "url": "https://wallstreetcn.com/livenews/3133120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "A股失守3900",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%B1%E5%AE%883900%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "A股暴力拉升原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "A股三大指数均跌超1%，创业板指此前一度涨近2%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3133283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "A股年线失而复得 短期能否止跌",
-          "url": "https://www.toutiao.com/trending/7662309631456185865/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "A股MLCC概念集体走强，江海股份午后涨停，风华高科、三环集团、昀冢科技、利和兴、洁美科技涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3133352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "A股液冷服务器板块走高，飞龙股份、博杰股份涨停，日科化学盘中创新高，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3133348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数13日上涨",
-          "url": "https://flash.jin10.com/detail/20260714043133599800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
-          "url": "https://wallstreetcn.com/livenews/3133014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美元指数涨0.3%，刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3133062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "00时23分"
         }
       ]
     },
@@ -553,43 +51,50 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 23时02分]"
-        },
-        {
-          "title": "DeepSeek梁文锋成AI公司新首富",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
-          "source": "百度热搜",
-          "ranks": [
-            30
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时23分"
+        },
         {
-          "title": "谷歌支持美国大型太阳能项目，以抵消化石燃料排放。",
-          "url": "https://flash.jin10.com/detail/20260714120125930800",
-          "source": "金十数据",
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
@@ -602,31 +107,28 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            7,
-            13,
-            4,
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "航空航天 商业卫星",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国国家航空航天局（NASA）的SunRISE任务将发射载具从ULA更换为马斯克旗下太空探索公司SpaceX。",
-          "url": "https://wallstreetcn.com/livenews/3133103",
+          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
+          "url": "https://wallstreetcn.com/livenews/3133769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "00时23分"
         }
       ]
     }
