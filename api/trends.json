@@ -1,83 +1,33 @@
 {
-  "generated_at": "2026-07-15T23:39:10.798178+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-07-16T01:23:46.818451+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
-          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
-          "url": "https://www.cls.cn/detail/2426576",
-          "source": "财联社热门",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
+          "url": "https://wallstreetcn.com/livenews/3134531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时21分]"
-        },
-        {
-          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2426541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时21分]"
-        },
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时04分]"
-        },
-        {
-          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -87,732 +37,114 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时38分 ~ 23时39分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
-          "url": "https://wallstreetcn.com/livenews/3133851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美银：调查显示美股有望跑赢大盘",
-          "url": "https://flash.jin10.com/detail/20260715193611493800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，可选消费ETF涨近1%，生物科技ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3134399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时55分 ~ 23时39分]"
+          "time_info": "01时23分"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
           "url": "https://wallstreetcn.com/articles/3776944",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时55分 ~ 23时39分]"
-        },
-        {
-          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "美股盘初：纳指涨0.6%，阿斯麦涨约3%，阿里巴巴涨约4%，SK海力士跌约7%",
-          "url": "https://wallstreetcn.com/livenews/3134397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "01时23分"
         },
         {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "阿里巴巴美股盘前涨超5%，苹果涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3134244",
-          "source": "华尔街见闻-快讯",
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "01时23分"
         },
         {
-          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3133888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指涨0.63%。SK海力士ADR(SKHY.O)跌7%，阿里巴巴(BABA.N)涨超4%，消息面上，阿里千问将作为AI能力集成至苹果智能。微软(MSFT.O)、苹果(AAPL.O)、IBM(IBM.N)均涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260715213026496800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "SK海力士美股单日暴涨27%",
-          "url": "https://www.toutiao.com/trending/7662541406308666886/",
-          "source": "今日头条",
+          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时21分"
-        },
+          "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "SK海力士美股暴涨超27%",
-          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8527%25",
-          "source": "百度热搜",
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "01时23分"
         },
         {
-          "title": "纽约梅隆银行第二季度营收57.0亿美元，同比增长13%。 第二季度调整后每股收益2.46美元，预估2.23美元。 第二季度净利息收入14.5亿美元，预估13.8亿美元。 纽约梅隆银行美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3134310",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3134378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3133875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "阿斯麦美股盘前涨近6%，公司Q2业绩全面超预期，并上调全年业绩指引。 SK海力士美股盘前跌近5%，公司前一交易日收涨超27%。",
-          "url": "https://wallstreetcn.com/livenews/3134222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "周二（7月14日），美股存储芯片与硬件供应链指数涨3.67%，报221.73点。 成分股Sandisk涨5.01%，美光、拉姆研究至少涨4.9%，希捷科技涨2.05%，西部数据涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3133874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美元指数短线小幅走低，现报100.94。美股期货短线小幅拉升，纳斯达克100指数期货涨0.5%。美国10年期国债收益率短线走低，现报4.606%。现货黄金短线拉升逾10美元，现报4052.19美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3134371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "强生第二季度销售额253.1亿美元，预估250.4亿美元。 第二季度调整后每股收益2.90美元。 第二季度药品收入163.8亿美元，预估161.2亿美元。 强生预计全年调整后每股收益11.60美元至11.75美元。 强生预计全年销售额1,008亿美元至1,014亿美元，市场预估1,010.7亿美元。 强生美股盘前微涨。",
-          "url": "https://wallstreetcn.com/livenews/3134300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
-          "url": "https://wallstreetcn.com/livenews/3133870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
-          "url": "https://wallstreetcn.com/livenews/3133869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美股开盘：AI硬件股上涨 IBM跌22%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "美股中概股大涨 阿里巴巴涨超7%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B6%A8%E8%B6%857%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
           "url": "https://www.cls.cn/detail/2427528",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时55分 ~ 23时39分]"
-        },
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时10分]"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时10分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时14分]"
-        },
-        {
-          "title": "A股风向变了吗",
-          "url": "https://www.toutiao.com/trending/7661984403862552619/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 23时39分]"
-        },
-        {
-          "title": "A股证券板块震荡走强，中金公司涨超9%，华创云信、信达证券、东兴证券、华安证券、红塔证券跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3134120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "A股半导体设备板块盘中震荡下挫，华峰测控跌超10%，圣晖集成逼近跌停，臻宝科技、领先股份、盛美上海、亚翔集成、拓荆科技等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260715105203562800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "A股面板板块持续走低，惠科股份跌超9%，维信诺、京东方A、沃格光电、同兴达等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260715134904973800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "A股保险板块午后上扬，中国人寿、中国太保涨超4%，中国人保、中国平安、新华保险跟涨。",
-          "url": "https://flash.jin10.com/detail/20260715134503074800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "A股证券板块震荡走强，中金公司涨超9%，华创云信、信达证券、东兴证券、华安证券、红塔证券跟涨。",
-          "url": "https://flash.jin10.com/detail/20260715134138367800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "A股创新药概念涨势扩大，众生药业拉升封板，迪哲医药、博瑞医药、药康生物、睿智医药、海南海药、哈三联、海思科、昭衍新药等十余股涨停，舒泰神、华纳药厂、石药创新、常山药业等多股涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3134047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "01时23分"
         },
         {
           "title": "A股被“猴子”刷屏",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%A2%AB%E2%80%9C%E7%8C%B4%E5%AD%90%E2%80%9D%E5%88%B7%E5%B1%8F",
           "source": "百度热搜",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "A股煤炭概念震荡反弹，新大洲A、大有能源双双涨停，恒源煤电、凯瑞德、云维股份、兰花科创、陕西黑猫、安泰集团等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260715104551791800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "A股影视院线板块再度走高，幸福蓝海涨停，儒意电影此前涨停，光线传媒涨超10%，北京文化、中国电影、奥飞娱乐、百纳千成、上海电影跟涨。",
-          "url": "https://flash.jin10.com/detail/20260715104536946800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "A股三大指数拉升翻红，科创50指数跌幅收窄至2.4%。",
-          "url": "https://flash.jin10.com/detail/20260715133213641800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
-          "url": "https://wallstreetcn.com/livenews/3133848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
-          "url": "https://www.cls.cn/detail/2426550",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时10分]"
-        },
-        {
-          "title": "OpenAI：我们相信竞争，也支持人们自由选择工作地点。",
-          "url": "https://flash.jin10.com/detail/20260715034128035800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI回应苹果诉讼：目前未发现任何证据支持相关指控。",
-          "url": "https://flash.jin10.com/detail/20260715033822967800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI回应苹果诉讼：我们严肃对待这些指控。",
-          "url": "https://flash.jin10.com/detail/20260715033549266800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
-          "url": "https://flash.jin10.com/detail/20260715050136121800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
-          "url": "https://wallstreetcn.com/livenews/3133879",
+          "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
+          "url": "https://wallstreetcn.com/livenews/3134515",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "OpenAI计划推出家用智能音箱",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E6%8E%A8%E5%87%BA%E5%AE%B6%E7%94%A8%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
-          "url": "https://flash.jin10.com/detail/20260715044652988800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
-          "url": "https://flash.jin10.com/detail/20260715044636741800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时58分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时39分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 23时39分]"
-        },
-        {
-          "title": "DeepSeek估值或达4814亿",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 21时56分]"
-        },
-        {
-          "title": "曝DeepSeek计划明年上市",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
-          "url": "https://wallstreetcn.com/livenews/3133769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美元指数跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3133844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美元指数14日下跌",
-          "url": "https://flash.jin10.com/detail/20260715045623923800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "数据显示：由巴菲特担任董事长的伯克希尔哈撒韦公司持有谷歌母公司Alphabet约310亿美元的股票。",
-          "url": "https://flash.jin10.com/detail/20260715192053295800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "巴菲特：我当年没有投资谷歌是个错误，基于其目前的业绩，该公司如今“更有可能成为赢家”。",
-          "url": "https://flash.jin10.com/detail/20260715191829009800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "01时23分"
         }
       ]
     }
