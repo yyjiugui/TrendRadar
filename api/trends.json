@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:45:58.384557+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-07-16T22:09:01.028955+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 22时09分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -69,6 +69,17 @@
           "time_info": "[01时23分 ~ 03时21分]"
         },
         {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
           "url": "https://www.cls.cn/detail/2427818",
           "source": "财联社热门",
@@ -79,6 +90,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时03分 ~ 14时24分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌近3%，全球科技股指数ETF跌近2%，日常消费品ETF涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌超2%，存储芯片股普跌，SK海力士跌约7%，台积电跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -129,6 +162,17 @@
           "time_info": "[01时23分 ~ 05时07分]"
         },
         {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
           "url": "https://wallstreetcn.com/livenews/3134607",
           "source": "华尔街见闻-快讯",
@@ -139,6 +183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 07时03分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.19%，纳指跌0.45%。SK海力士ADR(SKHY.O)跌超5%，闪迪(SNDK.O)跌4.5%，美光科技(MU.O)跌3.1%，西部数据(WDC.O)跌3.6%，英特尔(INTC.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260716213031869800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
@@ -158,9 +213,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3135093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
@@ -249,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "美元指数短线波动不大，现报100.56。美股期货短线走低，纳斯达克100指数期货跌1%。美国10年期国债收益率短线波动不大，现报4.580%。现货黄金短线小幅拉升，现报4028.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     },
@@ -290,6 +367,19 @@
           "time_info": "14时24分"
         },
         {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 22时09分]"
+        },
+        {
           "title": "A股三大指数集体收跌",
           "url": "https://www.douyin.com/hot/2573459",
           "source": "抖音",
@@ -312,18 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时21分]"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 19时45分]"
         },
         {
           "title": "A股",
@@ -365,7 +443,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -451,8 +529,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 22时09分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -559,11 +637,12 @@
           "url": "https://www.toutiao.com/trending/7663049647610400299/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时09分]"
         }
       ]
     },
@@ -606,7 +685,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -623,7 +702,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
