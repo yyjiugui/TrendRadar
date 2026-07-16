@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-16T17:20:30.406621+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-16T19:45:58.384557+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 19时45分]"
+        },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 07时03分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 17时20分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
@@ -151,6 +152,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3134598",
           "source": "华尔街见闻-快讯",
@@ -190,7 +202,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -234,7 +246,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -242,7 +254,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -278,6 +290,18 @@
           "time_info": "14时24分"
         },
         {
+          "title": "A股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2573459",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时45分]"
+        },
+        {
           "title": "A股被“猴子”刷屏",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%A2%AB%E2%80%9C%E7%8C%B4%E5%AD%90%E2%80%9D%E5%88%B7%E5%B1%8F",
           "source": "百度热搜",
@@ -290,15 +314,27 @@
           "time_info": "[01时23分 ~ 03时21分]"
         },
         {
-          "title": "A股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2573459",
-          "source": "抖音",
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时45分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时45分]"
         },
         {
           "title": "A股兆易创新成交额超200亿元，现跌7.87%。",
@@ -323,6 +359,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "A股跳水原因是什么",
+          "url": "https://www.toutiao.com/trending/7662226207446532138/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "A股锂电池概念震荡反弹，华盛锂电涨超10%，此前孚日股份涨停，富祥股份、滨海能源、领湃科技、珠海冠宇、海科新源跟涨。",
           "url": "https://flash.jin10.com/detail/20260716105800132800",
           "source": "金十数据",
@@ -345,17 +392,6 @@
           "time_info": "14时24分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "今年A股最大IPO！长鑫科技启动申购",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
@@ -365,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "A股面板板块午后震荡走弱，宇顺电子跌停，天山电子、格林达、艾森股份、天禄科技、秋田微、瑞联新材等跟跌。",
@@ -422,11 +447,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 19时45分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -489,7 +515,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -527,6 +553,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 07时03分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     },
@@ -555,6 +592,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
+          "url": "https://wallstreetcn.com/livenews/3135031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航空航天 商业卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗革命卫队：我们的航空航天部队在“纳斯尔2”行动的第八、九、十波次中，对美军阵地发起了进攻行动。",
+          "url": "https://flash.jin10.com/detail/20260716183507199800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     }
