@@ -1,374 +1,61 @@
 {
-  "generated_at": "2026-07-18T23:02:28.814059+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-07-19T00:06:15.552016+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时59分 ~ 23时02分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时59分]"
-        },
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时59分]"
-        },
-        {
-          "title": "如何甄别美股的漂亮话",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%84%E5%88%AB%E7%BE%8E%E8%82%A1%E7%9A%84%E6%BC%82%E4%BA%AE%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 23时02分]"
-        },
-        {
-          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
-          "url": "https://wallstreetcn.com/livenews/3135907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 08时02分]"
-        },
-        {
-          "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3135906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 08时02分]"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040531274800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 08时02分]"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040519016800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 08时02分]"
-        },
-        {
-          "title": "美股芯片股，距熊市仅一步之遥",
-          "url": "https://wallstreetcn.com/articles/3777197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
-        },
-        {
-          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
-          "url": "https://wallstreetcn.com/livenews/3135984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时10分]"
-        },
-        {
-          "title": "美股三大指数全线下挫",
-          "url": "https://www.douyin.com/hot/2575548",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
-          "url": "https://wallstreetcn.com/livenews/3135852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260718003300132800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260718040114530800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "[00时05分 ~ 00时06分]"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
           "url": "https://www.cls.cn/detail/2430101",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时05分 ~ 23时02分]"
-        },
-        {
-          "title": "A股年内最强无差别杀跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20,
-            30,
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 08时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2430229",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时09分 ~ 23时02分]"
-        },
-        {
-          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
-          "url": "https://wallstreetcn.com/articles/3777184",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时05分]"
-        },
-        {
-          "title": "A股“股王”11个月25次易主",
-          "url": "https://www.toutiao.com/trending/7662962275166683199/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
-        },
-        {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
-        },
-        {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "A股一周熊股出炉：最熊股跌超41%",
-          "url": "https://www.toutiao.com/trending/7663260734738710564/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "A股再现天价离婚案",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 19时10分]"
-        },
-        {
-          "title": "DeepSeek最新估值意外曝光",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "DeepSeek准确估值意外曝光",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程 张建中",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”",
-          "url": "https://flash.jin10.com/detail/20260718200610029800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合",
-          "url": "https://wallstreetcn.com/livenews/3136015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "[00时05分 ~ 00时06分]"
         }
       ]
     },
@@ -377,52 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3135881",
+          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3136067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数17日微涨",
-          "url": "https://flash.jin10.com/detail/20260718050516466800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 08时02分]"
+          "time_info": "00时06分"
         }
       ]
     }
