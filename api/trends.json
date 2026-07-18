@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:19:04.471490+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-19T04:58:15.243869+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 04时58分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 04时58分]"
         }
       ]
     },
@@ -44,19 +44,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 04时58分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2430229",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 04时58分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 04时58分]"
         }
       ]
     },
@@ -91,8 +93,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时58分]"
         }
       ]
     }
