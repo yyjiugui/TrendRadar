@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T01:28:04.326461+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T03:40:45.923937+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         }
@@ -73,11 +73,12 @@
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -87,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -98,8 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.56%，报643.19点，欧股盘初、美股盘初均短暂转跌。 欧元区STOXX 50指数收涨0.94%，报6285.63点，跳空高开之后呈现出W形涨势。 富时泛欧绩优300指数收涨0.64%，报2572.31点。",
@@ -108,7 +109,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         }
@@ -127,8 +128,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时40分]"
+        },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
           "url": "https://flash.jin10.com/detail/20260722010658774800",
@@ -136,7 +148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -147,20 +159,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
+          "url": "https://wallstreetcn.com/livenews/3137702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时40分"
         }
       ]
     },
@@ -176,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
         },
         {
           "title": "A股六大重磅信号落地",
@@ -186,9 +198,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时40分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
@@ -197,9 +209,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时40分]"
         }
       ]
     },
@@ -215,8 +227,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         }
       ]
     }
