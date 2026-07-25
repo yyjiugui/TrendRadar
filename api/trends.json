@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:48:41.712577+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-07-25T23:09:55.189109+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 23时09分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 23时09分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 23时09分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -262,7 +262,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -275,8 +275,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 21时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时44分 ~ 23时09分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -301,8 +301,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 23时09分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
@@ -321,11 +321,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33654589",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时09分]"
+        },
+        {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "23时09分"
         },
         {
           "title": "中基协详解A股量化交易",
@@ -334,7 +346,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
