@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:04:41.815214+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-26T08:06:20.213651+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时04分]"
-        },
-        {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2436803",
           "source": "财联社热门",
           "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时06分]"
+        },
+        {
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时06分]"
         },
         {
           "title": "A股下周会迎来更猛烈的震荡吗",
@@ -36,22 +38,24 @@
           "ranks": [
             2,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 08时06分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
           "url": "https://wallstreetcn.com/livenews/3139765",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 08时06分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
@@ -72,6 +76,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时06分]"
+        },
+        {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -83,26 +99,16 @@
           "time_info": "[01时06分 ~ 06时04分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时04分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时06分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -128,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 08时06分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -140,11 +147,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 08时06分]"
         }
       ]
     }
