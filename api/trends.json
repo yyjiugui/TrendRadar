@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:06:22.978213+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T04:15:20.765691+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时15分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时15分]"
         },
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时15分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时15分]"
         },
         {
           "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时15分]"
         }
       ]
     }
