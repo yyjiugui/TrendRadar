@@ -1,8 +1,255 @@
 {
-  "generated_at": "2026-07-27T08:06:56.175639+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-07-27T12:42:21.026119+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时06分]"
+        },
+        {
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 12时42分]"
+        },
+        {
+          "title": "长鑫科技上市 成A股市值最高公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时42分]"
+        },
+        {
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
+          "url": "https://wallstreetcn.com/livenews/3140006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股“超级周”能否吹响反攻号角",
+          "url": "https://www.toutiao.com/trending/7667033385407106579/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "长鑫科技成交突破1000亿，成为A股历史首支单日成交额突破1000亿元的个股，现涨超472%，换手近49%。",
+          "url": "https://wallstreetcn.com/livenews/3139979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股午评：深成指、创业板指双双涨超1% 长鑫科技上市半日已创下多项纪录",
+          "url": "https://flash.jin10.com/detail/20260727114125755800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "媒体：A股交易新规更好满足投资者",
+          "url": "https://www.toutiao.com/trending/7666957100584697898/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
+          "url": "https://wallstreetcn.com/livenews/3140016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
+          "url": "https://flash.jin10.com/detail/20260727121032306800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
+          "url": "https://www.cls.cn/detail/2437206",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
+          "url": "https://flash.jin10.com/detail/20260727072716929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260727072121648800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 4,
@@ -49,99 +296,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2436803",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 08时06分]"
-        },
-        {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 08时06分]"
-        },
-        {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "媒体：A股交易新规更好满足投资者",
-          "url": "https://www.toutiao.com/trending/7666957100584697898/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
