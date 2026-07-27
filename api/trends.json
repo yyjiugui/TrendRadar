@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T12:42:21.026119+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-07-27T16:37:32.418278+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -39,29 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "A股一哥!长鑫科技开盘暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -74,19 +52,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时37分]"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
           "url": "https://www.cls.cn/detail/2437447",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时37分]"
+        },
+        {
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时37分]"
         },
         {
           "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
@@ -95,9 +97,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "券商：A股进一步下行空间有限",
+          "url": "https://www.toutiao.com/trending/7666384224781516854/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "A股“超级周”能否吹响反攻号角",
@@ -106,7 +119,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -117,7 +130,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -128,7 +141,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -150,24 +163,25 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时37分]"
+        },
+        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://wallstreetcn.com/livenews/3140016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -176,11 +190,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时37分]"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时37分]"
         },
         {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
@@ -194,24 +221,13 @@
           "time_info": "08时06分"
         },
         {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://flash.jin10.com/detail/20260727121032306800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -222,7 +238,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -252,7 +268,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -264,6 +280,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 06时04分]"
+        },
+        {
+          "title": "美股石油股盘前走低，雪佛龙(CVX.N)盘前下跌2.7%，埃克森美孚石油(XOM.N)下跌2.9%，康菲石油(COP.N)下跌3.2%。",
+          "url": "https://flash.jin10.com/detail/20260727161150146800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -299,6 +326,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美股存储概念股盘前走高，SK海力士(SKHY.O)上涨6%，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)上涨5%，希捷科技(STX.O)上涨3.9%。英伟达(NVDA.O)盘前上涨1%，英特尔(INTC.O)涨3%，博通(AVGO.O)涨2%。",
+          "url": "https://flash.jin10.com/detail/20260727160453496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨近4%，英伟达、特斯拉涨超1%，英特尔涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3140136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://www.toutiao.com/trending/7666377405216509494/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "梁文锋打新长鑫科技浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
