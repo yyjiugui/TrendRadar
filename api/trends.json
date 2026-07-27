@@ -1,410 +1,22 @@
 {
-  "generated_at": "2026-07-27T23:47:28.461304+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-07-28T01:48:26.655039+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2436803",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 08时06分]"
-        },
-        {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 12时42分]"
-        },
-        {
-          "title": "长鑫科技上市 成A股市值最高公司",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 16时37分]"
-        },
-        {
-          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
-          "url": "https://www.cls.cn/detail/2437447",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "长鑫为何成A股新王",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 23时47分]"
-        },
-        {
-          "title": "A股一哥!长鑫科技开盘暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 23时47分]"
-        },
-        {
-          "title": "A股一哥易主 中国科技能否长兴",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%80%E5%93%A5%E6%98%93%E4%B8%BB+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%83%BD%E5%90%A6%E9%95%BF%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "东方证券：拟通过发行A股股份及支付现金方式购买上海证券100%股权，交易价格251.2亿元",
-          "url": "https://wallstreetcn.com/livenews/3140315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
-          "url": "https://wallstreetcn.com/livenews/3140006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "券商：A股进一步下行空间有限",
-          "url": "https://www.toutiao.com/trending/7666384224781516854/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "A股“超级周”能否吹响反攻号角",
-          "url": "https://www.toutiao.com/trending/7667033385407106579/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "长鑫之后A股投资者还能吃到什么",
-          "url": "https://www.toutiao.com/trending/7667144954543607306/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "长鑫科技成交突破1000亿，成为A股历史首支单日成交额突破1000亿元的个股，现涨超472%，换手近49%。",
-          "url": "https://wallstreetcn.com/livenews/3139979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "A股午评：深成指、创业板指双双涨超1% 长鑫科技上市半日已创下多项纪录",
-          "url": "https://flash.jin10.com/detail/20260727114125755800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "媒体：A股交易新规更好满足投资者",
-          "url": "https://www.toutiao.com/trending/7666957100584697898/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "东方证券：拟发行A股股份及支付现金收购上海证券100%股权，交易对价251.2亿元",
-          "url": "https://flash.jin10.com/detail/20260727195913519800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://wallstreetcn.com/livenews/3140016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3140408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "据The Information：英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260727230812803800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 23时47分]"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://flash.jin10.com/detail/20260727121032306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将与美国高级官员们预览众多新款模型。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3140389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 8,
       "titles": [
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 06时04分]"
-        },
-        {
-          "title": "美股石油股盘前走低，雪佛龙(CVX.N)盘前下跌2.7%，埃克森美孚石油(XOM.N)下跌2.9%，康菲石油(COP.N)下跌3.2%。",
-          "url": "https://flash.jin10.com/detail/20260727161150146800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -413,44 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 06时04分]"
-        },
-        {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 08时06分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-07-27）",
-          "url": "https://flash.jin10.com/detail/20260727202205552800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "01时48分"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -459,9 +36,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时48分"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -470,120 +47,126 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时48分"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010650028800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "01时48分"
         },
         {
-          "title": "美股存储概念股盘前走高，SK海力士(SKHY.O)上涨6%，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)上涨5%，希捷科技(STX.O)上涨3.9%。英伟达(NVDA.O)盘前上涨1%，英特尔(INTC.O)涨3%，博通(AVGO.O)涨2%。",
-          "url": "https://flash.jin10.com/detail/20260727160453496800",
+          "title": "加密货币市场于美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3140446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010647951800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         },
         {
-          "title": "美股盘前，大型科技股普涨，美光科技涨近4%，英伟达、特斯拉涨超1%，英特尔涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3140136",
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3140393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://www.toutiao.com/trending/7666377405216509494/",
-          "source": "今日头条",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "梁文锋打新长鑫科技浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 1,
+      "keyword_group": "A股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "汇市盘初，美元指数DXY跌0.16%，报101.31；澳元兑美元AUD/USD涨0.23%；美元兑日元USD/JPY跌0.16%；欧元兑美元EUR/USD涨0.18%。",
-          "url": "https://flash.jin10.com/detail/20260727051159970800",
-          "source": "金十数据",
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时48分"
+        },
+        {
+          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         }
       ]
     }
