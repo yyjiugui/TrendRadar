@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T16:38:09.436170+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-07-30T19:13:51.408997+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -83,9 +83,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。",
+          "url": "https://wallstreetcn.com/livenews/3142380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "拉姆研究美股盘后涨6%，该公司给出了强劲的第一财季调整后每股收益（EPS）指引。",
@@ -161,7 +172,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -183,7 +194,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -268,18 +279,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股市值前10红了9个",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 19时13分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -323,7 +335,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -416,6 +428,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "澜起科技：7月30日斥资4086.58万元回购20.5万股A股",
+          "url": "https://flash.jin10.com/detail/20260730183719230800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "A股汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
           "url": "https://wallstreetcn.com/livenews/3142068",
           "source": "华尔街见闻-快讯",
@@ -452,7 +475,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -460,11 +483,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 16时38分]"
+          "appearance_count": 6,
+          "time_info": "[10时49分 ~ 19时13分]"
+        },
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -521,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
