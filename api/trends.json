@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T19:13:51.408997+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-07-30T22:18:56.946295+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -94,7 +94,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -133,6 +133,28 @@
           "time_info": "[16时37分 ~ 16时38分]"
         },
         {
+          "title": "美股存储板块涨幅扩大 多个个股涨超10%",
+          "url": "https://flash.jin10.com/detail/20260730214929271800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美股半导体板块迎反弹 多股暴涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260730003937235800",
           "source": "金十数据",
@@ -142,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股盘中）",
@@ -177,6 +210,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260730214225139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
           "url": "https://wallstreetcn.com/livenews/3141889",
           "source": "华尔街见闻-快讯",
@@ -186,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "Meta Platforms(META.O)美股盘前下跌8.3%，二季度自由现金流下降91%。微软(MSFT.O)盘前上涨7%，第四财季云业务收入增长超过市场预期。高通(QCOM.O)盘前下跌5.7%，Arm(ARM.O)盘前下跌7.2%。",
@@ -232,6 +287,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3142496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260730040555975800",
           "source": "金十数据",
@@ -265,6 +331,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "美股芯片半导体反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美股尾盘大跳水原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -279,8 +356,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
+          "url": "https://www.cls.cn/detail/2441712",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
         {
           "title": "A股市值前10红了9个",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=1&Refer=top",
@@ -434,7 +522,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -497,7 +585,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -523,6 +611,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 13时49分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 22时18分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -556,17 +656,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
