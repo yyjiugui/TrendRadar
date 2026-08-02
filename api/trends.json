@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T15:36:24.177819+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-08-02T18:03:27.549570+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -43,6 +54,59 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 18时03分]"
+        },
+        {
+          "title": "A股“追光者”一月亏光336万",
+          "url": "https://www.toutiao.com/trending/7668209151550816275/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "8月A股靠什么绝地反击",
+          "url": "https://www.toutiao.com/trending/7669283907254095366/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "8月A股怎么走",
+          "url": "https://www.toutiao.com/trending/7669312903618707507/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -53,11 +117,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 15时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 18时03分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -69,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时00分 ~ 18时03分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -98,8 +163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 15时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 18时03分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -107,11 +172,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 15时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 18时03分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -122,49 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 15时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2443284",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 15时36分]"
-        },
-        {
-          "title": "A股“追光者”一月亏光336万",
-          "url": "https://www.toutiao.com/trending/7668209151550816275/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "8月A股靠什么绝地反击",
-          "url": "https://www.toutiao.com/trending/7669283907254095366/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 18时03分]"
         }
       ]
     },
@@ -177,11 +202,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时03分]"
         }
       ]
     }
