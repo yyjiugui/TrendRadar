@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T07:01:09.797805+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-08-02T08:06:47.037202+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "马斯克关注DeepSeek账号",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -43,19 +54,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时06分]"
         }
       ]
     },
@@ -71,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -82,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时06分]"
         }
       ]
     },
@@ -96,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2443284",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时06分]"
         }
       ]
     }
