@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T00:05:52.499120+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-03T02:04:40.329470+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         },
         {
           "title": "A股最危险的阶段已经过去了吗",
@@ -26,19 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         },
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2443284",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         },
         {
           "title": "A股或告别科技独舞",
@@ -62,22 +63,24 @@
           "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         }
       ]
     },
@@ -90,11 +93,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         }
       ]
     },
@@ -107,11 +111,12 @@
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时04分]"
         }
       ]
     }
