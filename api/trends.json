@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T16:46:27.714213+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-08-05T19:26:04.130279+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -77,15 +77,48 @@
           "time_info": "[10时58分 ~ 13时54分]"
         },
         {
+          "title": "Shopify第二季度营收35.8亿美元，预估34.5亿美元。 第二季度商品交易总额（GMV）1,155.7亿美元，预估1,121.2亿美元。 Shopify预计第三季度营收将以低三十位数百分比的速度增长（即同比增长约31%–33%）。 Shopify美股盘前涨超16%。",
+          "url": "https://wallstreetcn.com/livenews/3145357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "优步第二季度营收141.9亿美元，预估142.4亿美元。 第二季度每股收益1.17美元。 第二季度调整后EBITDA为28.2亿美元，预估27.9亿美元。 第二季度总订单额580.2亿美元，预估571.7亿美元。 优步预计第三季度调整后每股收益84至88美分。 优步预计第三季度总订单额582.5亿至602.5亿美元，市场预估593.2亿美元。 优步美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3145355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "随着金价接近一个月高点，美股黄金矿商盘前上涨。纽蒙特矿业(NEM.N)涨3.5%，金田(GFI.N)涨5.4%，哈莫尼黄金(HMY.N)涨4.6%。SPDR黄金ETF涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260805163622129800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "【礼来第二季度营收229.7亿美元，预估205.9亿美元】礼来第二季度调整后每股收益8.38美元，去年同期为6.31美元。 礼来预计全年营收850亿至870亿美元，此前预期为820亿至850亿美元。 礼来预计全年调整后每股收益35.50至36.50美元，此前预期为35.50至37美元。 礼来美股盘前涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3145348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -97,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "迪士尼第三财季营收252.5亿美元，预估253.9亿美元。 第三财季调整后每股收益2.06美元，预估1.86美元。 迪士尼美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3145342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -116,7 +160,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -157,7 +201,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "7月A股新开266万户增长35%，为何说数据大有“含金量”？",
@@ -165,11 +209,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 19时26分]"
+        },
+        {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时46分]"
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "A股“易中天”集体回应美国光模块禁令",
@@ -181,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "A股券商、金融科技股异动拉升，锦龙股份、恒银科技直线涨停，国盛证券、华安证券、长江证券、湘财股份、金证股份跟涨。",
@@ -280,13 +347,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "A股易中天暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%98%93%E4%B8%AD%E5%A4%A9%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
@@ -312,6 +401,17 @@
           "time_info": "[01时55分 ~ 07时08分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 19时26分]"
+        },
+        {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
@@ -334,17 +434,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时55分 ~ 07时08分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
         },
         {
           "title": "DeepSeek重启融资 投前估值5000亿元",
