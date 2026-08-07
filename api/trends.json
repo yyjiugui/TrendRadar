@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:07:16.634838+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-08-07T18:59:17.947576+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 17时07分]"
+          "appearance_count": 7,
+          "time_info": "[08时08分 ~ 18时59分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -28,6 +28,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 17时07分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 18时59分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -63,21 +79,6 @@
           "time_info": "08时08分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            18,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时08分 ~ 17时07分]"
-        },
-        {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
           "url": "https://wallstreetcn.com/articles/3778849",
           "source": "华尔街见闻",
@@ -86,8 +87,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时59分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时07分]"
+          "time_info": "[17时06分 ~ 18时59分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 11时54分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -246,7 +247,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         },
@@ -297,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 17时07分]"
+          "appearance_count": 7,
+          "time_info": "[08时08分 ~ 18时59分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -317,11 +318,12 @@
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 17时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 18时59分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -341,7 +343,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         },
@@ -352,7 +354,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         }
@@ -380,7 +382,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         },
