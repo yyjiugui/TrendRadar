@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T22:38:27.224219+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-08-08T23:36:11.291847+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 22时38分]"
+          "appearance_count": 16,
+          "time_info": "[10时01分 ~ 23时36分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -32,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 22时38分]"
+          "appearance_count": 23,
+          "time_info": "[00时03分 ~ 23时36分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -47,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时43分 ~ 22时38分]"
+          "appearance_count": 18,
+          "time_info": "[06时43分 ~ 23时36分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -210,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 22时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时50分 ~ 23时36分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -219,11 +220,24 @@
           "source": "抖音",
           "ranks": [
             13,
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 23时36分]"
+        },
+        {
+          "title": "A股存储巨头定增大幅溢价",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时38分]"
+          "time_info": "[21时53分 ~ 23时36分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -236,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 05时46分]"
-        },
-        {
-          "title": "A股存储巨头定增大幅溢价",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时38分]"
         },
         {
           "title": "多家A股公司收到美国关税退款",
@@ -376,22 +379,24 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时36分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时38分 ~ 23时36分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -434,8 +439,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时36分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
