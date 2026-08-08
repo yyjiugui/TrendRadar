@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-08T17:44:29.310098+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-08-08T18:39:59.172457+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 18时39分]"
+        },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
@@ -19,21 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 17时44分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时43分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[06时43分 ~ 18时39分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -139,11 +139,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时39分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -209,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 18时39分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -224,8 +225,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时49分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[04时49分 ~ 18时39分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -285,8 +286,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 17时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 18时39分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -344,11 +345,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时39分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -376,8 +378,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 18时39分]"
         }
       ]
     },
