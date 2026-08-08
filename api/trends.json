@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:37:30.562184+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-09T05:37:07.512433+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         }
       ]
     },
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -69,8 +69,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时37分]"
         }
       ]
     },
@@ -86,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -99,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         }
       ]
     },
@@ -114,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时47分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 05时37分]"
         }
       ]
     },
@@ -136,8 +137,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         }
       ]
     }
