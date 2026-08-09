@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:52:17.198401+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-08-09T15:06:14.756235+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时06分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时06分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -48,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -63,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时06分]"
         }
       ]
     },
@@ -80,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时06分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -157,11 +160,12 @@
             7,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时06分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
