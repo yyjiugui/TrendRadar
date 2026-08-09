@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:52:14.404476+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-08-09T17:46:51.974642+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 17时46分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 17时46分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 17时46分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -67,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 17时46分]"
         }
       ]
     },
@@ -83,9 +83,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时46分]"
         },
         {
           "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
@@ -94,31 +94,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时46分]"
         },
         {
           "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
           "url": "https://flash.jin10.com/detail/20260809155351803800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时46分]"
         },
         {
           "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
           "url": "https://flash.jin10.com/detail/20260809154347647800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时46分]"
         }
       ]
     },
@@ -134,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 17时46分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -215,8 +217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 17时46分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
