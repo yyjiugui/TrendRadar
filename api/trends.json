@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:35:54.997298+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-08-09T21:04:03.280553+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时04分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 19时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 21时04分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -66,17 +67,29 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 21时04分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -86,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 19时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 21时04分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -138,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "A股人形机器人第一股正式登场",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -152,11 +176,12 @@
           "ranks": [
             4,
             7,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时04分]"
         },
         {
           "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
@@ -165,11 +190,12 @@
           "ranks": [
             5,
             8,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时04分]"
         },
         {
           "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
@@ -247,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 19时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 21时04分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
