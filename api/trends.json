@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:38:17.595625+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-08-10T07:38:28.433934+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时38分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时38分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -37,19 +38,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 07时38分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260810060135599800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时38分]"
         }
       ]
     },
@@ -74,11 +76,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时38分]"
         }
       ]
     },
@@ -91,11 +94,12 @@
           "url": "https://flash.jin10.com/detail/20260810053536334800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时38分]"
         }
       ]
     }
