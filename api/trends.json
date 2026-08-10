@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-08-10T07:38:28.433934+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-08-10T10:14:52.776363+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时38分 ~ 07时38分]"
-        },
-        {
-          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20260810060135599800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 21,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -77,11 +25,291 @@
           "ranks": [
             7,
             6,
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时14分]"
+        },
+        {
+          "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810101240509800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股食品饮料行业板块持续走强，香飘飘、金达威、一鸣食品涨停，品渥食品、东鹏饮料、迎驾贡酒、仲景食品、会稽山、立高食品等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810100456186800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超10%，湖南天雁、建设工业、东安动力、内蒙一机纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3147217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股养殖板块震荡拉升，益生股份涨停，大禹生物涨超10%，立华股份、牧原股份、温氏股份、湘佳股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2603879",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810100051146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3147193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股寒武纪跌超5%，成交额超100亿元。",
+          "url": "https://flash.jin10.com/detail/20260810095838513800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3147188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股白酒板块短线走强，会稽山、迎驾贡酒涨超5%，贵州茅台涨超2%，古井贡酒、泸州老窖等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095308813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股半导体设备板块再度拉升，盛美上海涨超10%，托伦斯、微导纳米、恒运昌、富创精密、至纯科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095231388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810094757732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股早盘钴矿概念再度活跃，寒锐钴业涨超10%，此前鹏欣资源涨停，腾远钴业、华友钴业、中矿资源、格林美、盛屯矿业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810094642129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股中际旭创盘初跌超3%，成交额超110亿元。",
+          "url": "https://flash.jin10.com/detail/20260810094532495800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股锂矿板块走高，永杉锂业涨停，融捷股份、天齐锂业、赣锋锂业、永兴材料、盛新锂能等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810094409282800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时14分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时38分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 10时14分]"
+        },
+        {
+          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260810060135599800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程 张建中",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市",
+          "url": "https://wallstreetcn.com/articles/3779010",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
