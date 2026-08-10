@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T12:44:26.777370+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-08-10T14:15:06.233684+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 14时15分]"
         },
         {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
@@ -60,11 +60,23 @@
           "url": "https://www.toutiao.com/trending/7672233159576014346/",
           "source": "今日头条",
           "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 14时15分]"
+        },
+        {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "14时15分"
         },
         {
           "title": "A股食品饮料行业板块持续走强，香飘飘、金达威、一鸣食品涨停，品渥食品、东鹏饮料、迎驾贡酒、仲景食品、会稽山、立高食品等跟涨。",
@@ -133,6 +145,28 @@
           "time_info": "10时14分"
         },
         {
+          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
           "url": "https://flash.jin10.com/detail/20260810100051146800",
           "source": "金十数据",
@@ -188,6 +222,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "A股寒武纪成交额超200亿元，现跌逾6%。",
+          "url": "https://flash.jin10.com/detail/20260810134908516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "A股白酒板块短线走强，会稽山、迎驾贡酒涨超5%，贵州茅台涨超2%，古井贡酒、泸州老窖等跟涨。",
           "url": "https://flash.jin10.com/detail/20260810095308813800",
           "source": "金十数据",
@@ -221,6 +266,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "A股黄金珠宝概念股午后持续走强，招金黄金涨超9%，曼卡龙、西部黄金、湖南黄金等上涨。",
+          "url": "https://flash.jin10.com/detail/20260810134701533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "A股早盘钴矿概念再度活跃，寒锐钴业涨超10%，此前鹏欣资源涨停，腾远钴业、华友钴业、中矿资源、格林美、盛屯矿业跟涨。",
           "url": "https://flash.jin10.com/detail/20260810094642129800",
           "source": "金十数据",
@@ -230,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810134351393800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "A股中际旭创盘初跌超3%，成交额超110亿元。",
@@ -260,7 +327,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -271,7 +338,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -293,6 +360,20 @@
           "time_info": "[00时42分 ~ 10时14分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时38分 ~ 14时15分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -303,19 +384,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时38分 ~ 12时44分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -341,11 +409,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     },
@@ -358,11 +444,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时15分]"
         }
       ]
     },
