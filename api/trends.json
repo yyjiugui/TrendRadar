@@ -1,11 +1,50 @@
 {
-  "generated_at": "2026-08-11T23:04:26.022209+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-08-12T01:03:27.901130+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
+          "url": "https://flash.jin10.com/detail/20260812003202953800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
+          "url": "https://wallstreetcn.com/livenews/3148176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
+          "url": "https://wallstreetcn.com/livenews/3148170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -15,798 +54,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时41分 ~ 23时04分]"
-        },
-        {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 15时18分]"
-        },
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时49分]"
-        },
-        {
-          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 15时18分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3148081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3147690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时45分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
-          "url": "https://wallstreetcn.com/livenews/3147685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时45分]"
-        },
-        {
-          "title": "Hims & Hers美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3147682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时45分]"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时45分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040544089800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040524679800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
+          "time_info": "01时03分"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "01时03分"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20260811040205708800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美股收盘：芯片股、光通信概念重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
-          "url": "https://wallstreetcn.com/livenews/3148059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20260811004521998800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004311524800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3148104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
-          "url": "https://www.cls.cn/detail/2450866",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 19时49分]"
-        },
-        {
-          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股收盘：沪指缩量调整跌0.82%，医药、影视股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3147912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时55分 ~ 23时04分]"
-        },
-        {
-          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 07时41分]"
-        },
-        {
-          "title": "A股甘咨询盘中涨停，上演“地天板”，现报12.73元，成交额14.48亿元。",
-          "url": "https://flash.jin10.com/detail/20260811144703819800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "A股收盘：三大指数集体冲高回落",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "A股养鸡板块短线拉升，益生股份涨停，民和股份、圣农发展、华英农业、广弘控股、金龙鱼等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260811094209621800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股MLCC概念板块冲高，双星新材涨停，昀冢科技、国风新材、风华高科、达利凯普跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094014697800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股乳业板块走高，皇氏集团2连板，一鸣食品、欢乐家、骑士乳业、阳光乳业、新乳业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094006845800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股开盘：上证指数跌0.4%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C0.4%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股创新药板块短线拉升，百花医药6连板，甘李药业涨停，百普赛斯、哈药股份、长春高新、万邦医药跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093947206800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股午评：三大股指低开高走 MLCC概念强势领涨",
-          "url": "https://flash.jin10.com/detail/20260811113657320800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股贵金属板块高开低走，赤峰黄金跌近9%，四川黄金、招金黄金、中金黄金、山金国际、西部黄金均跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3147895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "A股工业母机概念延续昨日强势，华东数控2连板，华中数控、沈阳机床、科德数控、恒进感应跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093343156800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股卫星ETF富国（563230）、 卫星ETF广发（512630）、 卫星ETF易方达（563530）等多支卫星ETF盘初跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260811093144829800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股*ST闻泰短线异动拉升，现涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股又来大肉签",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E6%9D%A5%E5%A4%A7%E8%82%89%E7%AD%BE%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股减速器板块持续走高，斯菱智驱涨停，丰光精密、瑞迪智驱涨超15%，绿的谐波、宏昌科技涨超10%，科达利、中大力德、昊志机电跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 07时41分]"
-        },
-        {
-          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
-          "url": "https://wallstreetcn.com/livenews/3147639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时08分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
-          "url": "https://wallstreetcn.com/livenews/3147635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时08分]"
-        },
-        {
-          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时08分]"
-        },
-        {
-          "title": "OpenAI回购70亿美元员工股份",
-          "url": "https://wallstreetcn.com/livenews/3147697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时45分]"
-        },
-        {
-          "title": "据悉OpenAI回购70亿美元员工股份",
-          "url": "https://flash.jin10.com/detail/20260811044344828800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时45分]"
-        },
-        {
-          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
-          "url": "https://wallstreetcn.com/livenews/3147627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时08分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
-          "url": "https://flash.jin10.com/detail/20260811012108617800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
-          "url": "https://wallstreetcn.com/livenews/3147642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6-Cyber并未参与利用漏洞攻击Hugging Face，其他即将发布的模型也不存在参与相关事件的情况。",
-          "url": "https://flash.jin10.com/detail/20260811022757566800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
-          "url": "https://flash.jin10.com/detail/20260811005217914800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI：自2026年9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。",
-          "url": "https://flash.jin10.com/detail/20260811022645076800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
-          "url": "https://flash.jin10.com/detail/20260811005211685800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI：强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。",
-          "url": "https://flash.jin10.com/detail/20260811022632431800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
-          "url": "https://flash.jin10.com/detail/20260811005131000800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
-          "url": "https://flash.jin10.com/detail/20260811005120672800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
-          "url": "https://flash.jin10.com/detail/20260811021755846800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
-          "url": "https://flash.jin10.com/detail/20260811210808524800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
-          "url": "https://flash.jin10.com/detail/20260811210739634800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
-          "url": "https://flash.jin10.com/detail/20260811210715702800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时08分]"
-        },
-        {
-          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
-          "url": "https://wallstreetcn.com/livenews/3147721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
-          "url": "https://wallstreetcn.com/livenews/3147689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时45分]"
-        },
-        {
-          "title": "美元指数10日上涨",
-          "url": "https://flash.jin10.com/detail/20260811033207795800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
-          "url": "https://wallstreetcn.com/livenews/3147664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "01时03分"
         }
       ]
     },
@@ -815,33 +86,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
           "ranks": [
-            6,
-            30
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时19分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     },
     {
-      "keyword_group": "航空航天 商业卫星",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "潍柴动力：暂无开展商业卫星及商业航天用电源电池产品的研发规划",
-          "url": "https://wallstreetcn.com/livenews/3148096",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     }
