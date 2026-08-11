@@ -1,8 +1,236 @@
 {
-  "generated_at": "2026-08-11T12:25:39.260413+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-08-11T15:18:55.967959+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
+          "url": "https://www.cls.cn/detail/2450866",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 15时18分]"
+        },
+        {
+          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股收盘：沪指缩量调整跌0.82%，医药、影视股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时41分]"
+        },
+        {
+          "title": "A股甘咨询盘中涨停，上演“地天板”，现报12.73元，成交额14.48亿元。",
+          "url": "https://flash.jin10.com/detail/20260811144703819800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股收盘：三大指数集体冲高回落",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股养鸡板块短线拉升，益生股份涨停，民和股份、圣农发展、华英农业、广弘控股、金龙鱼等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260811094209621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股MLCC概念板块冲高，双星新材涨停，昀冢科技、国风新材、风华高科、达利凯普跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811094014697800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股乳业板块走高，皇氏集团2连板，一鸣食品、欢乐家、骑士乳业、阳光乳业、新乳业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811094006845800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股开盘：上证指数跌0.4%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C0.4%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股创新药板块短线拉升，百花医药6连板，甘李药业涨停，百普赛斯、哈药股份、长春高新、万邦医药跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811093947206800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股午评：三大股指低开高走 MLCC概念强势领涨",
+          "url": "https://flash.jin10.com/detail/20260811113657320800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "A股贵金属板块高开低走，赤峰黄金跌近9%，四川黄金、招金黄金、中金黄金、山金国际、西部黄金均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3147895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股工业母机概念延续昨日强势，华东数控2连板，华中数控、沈阳机床、科德数控、恒进感应跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811093343156800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股卫星ETF富国（563230）、 卫星ETF广发（512630）、 卫星ETF易方达（563530）等多支卫星ETF盘初跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260811093144829800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股*ST闻泰短线异动拉升，现涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "A股又来大肉签",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E6%9D%A5%E5%A4%A7%E8%82%89%E7%AD%BE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "A股减速器板块持续走高，斯菱智驱涨停，丰光精密、瑞迪智驱涨超15%，绿的谐波、宏昌科技涨超10%，科达利、中大力德、昊志机电跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 17,
@@ -208,17 +436,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时49分]"
-        },
-        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -229,8 +446,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[06时44分 ~ 15时18分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -240,8 +457,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 15时18分]"
+        },
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时49分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -263,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 15时18分]"
         },
         {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
@@ -385,167 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
-          "url": "https://www.cls.cn/detail/2450866",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 07时41分]"
-        },
-        {
-          "title": "A股养鸡板块短线拉升，益生股份涨停，民和股份、圣农发展、华英农业、广弘控股、金龙鱼等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260811094209621800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股MLCC概念板块冲高，双星新材涨停，昀冢科技、国风新材、风华高科、达利凯普跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094014697800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股乳业板块走高，皇氏集团2连板，一鸣食品、欢乐家、骑士乳业、阳光乳业、新乳业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094006845800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股开盘：上证指数跌0.4%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C0.4%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股创新药板块短线拉升，百花医药6连板，甘李药业涨停，百普赛斯、哈药股份、长春高新、万邦医药跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093947206800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股午评：三大股指低开高走 MLCC概念强势领涨",
-          "url": "https://flash.jin10.com/detail/20260811113657320800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股工业母机概念延续昨日强势，华东数控2连板，华中数控、沈阳机床、科德数控、恒进感应跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093343156800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股卫星ETF富国（563230）、 卫星ETF广发（512630）、 卫星ETF易方达（563530）等多支卫星ETF盘初跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260811093144829800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股又来大肉签",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E6%9D%A5%E5%A4%A7%E8%82%89%E7%AD%BE%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         }
       ]
     },
