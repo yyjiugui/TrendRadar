@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-14T07:50:18.368987+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-08-14T10:26:15.309548+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时50分]"
-        },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
@@ -28,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时09分 ~ 10时26分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时09分 ~ 10时26分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时09分 ~ 10时26分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -51,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 10时26分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -65,6 +67,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时53分]"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "一次看懂DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -80,6 +104,31 @@
           "time_info": "[03时09分 ~ 07时50分]"
         },
         {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            14,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 10时26分]"
+        },
+        {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
           "url": "https://www.zhihu.com/question/2071189146777773055",
           "source": "知乎",
@@ -92,19 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时50分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -149,11 +185,34 @@
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时26分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
+          "url": "https://www.zhihu.com/question/2071225352072999482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -162,9 +221,203 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时09分 ~ 10时26分]"
+        },
+        {
+          "title": "A股电池板块短线拉升，博力威涨超10%，华盛锂电、尚太科技、芳源股份、海科新源、万里股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814095612131800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股稀土永磁概念早盘震荡走强，中国稀土逼近涨停，中稀有色、九菱科技、中科磁业、北方稀土跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814095250549800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股早盘高位人气股大面积走弱，秦安股份、同力天启、皇氏集团、宝鹰股份、德龙汇能跌停，风范股份、华东数控、一鸣食品、京投发展等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260814094953810800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股开盘：存储芯片、半导体等板块走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E6%9D%BF%E5%9D%97%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股创新药板块局部走高，博济医药、华森制药、中源协和涨停，宣泰医药、冠昊生物、中旗股份、泰格医药、百奥泰跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814094510859800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
+          "url": "https://wallstreetcn.com/livenews/3149347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股房地产板块盘初回调，京投发展跌超7%，荣丰控股、华发股份、首开股份等纷纷下跌。",
+          "url": "https://flash.jin10.com/detail/20260814094236089800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股元件板块冲高，华正新材、艾华集团涨停，中英科技、威尔高、南亚新材、则成电子、中富电路跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814094202254800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股食品加工制造板块短线走低，安记食品触及跌停，百合股份、盖世食品、好想你、海欣食品跟跌。",
+          "url": "https://flash.jin10.com/detail/20260814093852997800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股液冷服务器概念活跃，康盛股份涨停，阿莱德涨超15%，捷邦科技、金田股份、精研科技、思泉新材等走强。",
+          "url": "https://flash.jin10.com/detail/20260814093823605800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股乳业板块短线走低，皇氏集团、一鸣食品触及跌停，品渥食品、欢乐家、熊猫乳品跟跌。",
+          "url": "https://flash.jin10.com/detail/20260814093532916800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股医药商业板块短线走低，药易购跌超7%，瑞康医药、开开实业、漱玉平民、华人健康等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260814093319379800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股超级电容板块短线拉升，康盛股份涨停，金时科技、逸飞激光、康鹏科技、商络电子、东阳光等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260814093228787800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
@@ -203,9 +456,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时26分]"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -276,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -350,7 +603,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
@@ -385,35 +638,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3149391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
+      "keyword_group": "黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
+          "title": "黄金价格反弹意味什么",
+          "url": "https://www.toutiao.com/trending/7673529634117389887/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时50分]"
-        },
-        {
-          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
-          "url": "https://wallstreetcn.com/livenews/3149347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "10时26分"
         }
       ]
     }
