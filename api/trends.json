@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:38:27.250573+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-08-15T14:48:50.337111+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 14时48分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 14时48分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -110,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 14时48分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
@@ -133,11 +134,12 @@
           "ranks": [
             1,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 14时48分]"
         },
         {
           "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
@@ -146,11 +148,12 @@
           "ranks": [
             2,
             18,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 14时48分]"
         },
         {
           "title": "A股半年报盘点",
@@ -195,19 +198,6 @@
           "time_info": "[11时47分 ~ 12时38分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 12时38分]"
-        },
-        {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -216,11 +206,26 @@
             9,
             22,
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 14时48分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 14时48分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -238,11 +243,12 @@
           "url": "https://www.zhihu.com/question/2071773348753945432",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 14时48分]"
         }
       ]
     },
