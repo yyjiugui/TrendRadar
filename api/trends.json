@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T11:47:56.675429+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-08-15T12:38:27.250573+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时38分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时38分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -92,7 +92,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         }
@@ -110,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 11时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 12时38分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
@@ -123,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 11时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 12时38分]"
         },
         {
           "title": "本周机构扎堆调研，A股六家公司接待超百家机构",
@@ -132,11 +132,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时38分]"
         },
         {
           "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
@@ -144,11 +145,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时38分]"
         },
         {
           "title": "A股半年报盘点",
@@ -178,18 +180,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时38分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -197,11 +200,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 11时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 12时38分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -211,11 +215,12 @@
             8,
             9,
             22,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 11时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 12时38分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -227,6 +232,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时37分]"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -244,6 +260,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 09时37分]"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时38分]"
         },
         {
           "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
@@ -266,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
-        },
-        {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         }
       ]
     },
