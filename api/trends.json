@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T16:37:15.184025+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-08-16T18:29:46.831194+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 18时29分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -27,11 +27,26 @@
           "ranks": [
             11,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 18时29分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 18时29分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -47,19 +62,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 16时37分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 16时37分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -97,11 +99,12 @@
             2,
             5,
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 18时29分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -142,7 +145,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -152,22 +155,24 @@
             1,
             4,
             11,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 18时29分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 18时29分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -180,6 +185,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 15时37分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -196,8 +212,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 18时29分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -257,11 +273,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时29分]"
         },
         {
           "title": "2026文昌国际航空航天论坛8月下旬启幕",
