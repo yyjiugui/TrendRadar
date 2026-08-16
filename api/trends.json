@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T02:36:50.579599+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-08-17T03:26:13.291691+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     },
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     },
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -106,8 +106,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     }
