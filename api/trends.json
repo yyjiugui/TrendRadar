@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:50:26.756904+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-08-17T19:32:28.777672+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -54,13 +54,25 @@
           "time_info": "[00时32分 ~ 05时26分]"
         },
         {
+          "title": "A股放量反弹 做多情绪全面回暖",
+          "url": "https://www.toutiao.com/trending/7674606352588816390/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 19时32分]"
+        },
+        {
           "title": "A股牛终于来了吗",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%89%9B%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -74,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "A股放量反弹 做多情绪全面回暖",
-          "url": "https://www.toutiao.com/trending/7674606352588816390/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
         },
         {
           "title": "A股年内最贵新股要来了",
@@ -140,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "59只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7674911431296679945/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -182,6 +194,17 @@
           "time_info": "[09时41分 ~ 09时42分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 19时32分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -203,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
         },
         {
           "title": "博主：DeepSeek要当全球Agent的底座",
@@ -335,11 +347,29 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 17时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 19时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     }
